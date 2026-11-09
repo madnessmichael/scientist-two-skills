@@ -1,0 +1,3305 @@
+[
+  {
+    "page": 2,
+    "bbox": [
+      43.610904693603516,
+      85.44515991210938,
+      587.7415161132812,
+      385.1723327636719
+    ],
+    "cells": [
+      [
+        "",
+        null,
+        "Human SOTA Failed to Improve\n0-10% Gain 10-25% Gain 25-50% Gain\n50-75% Gain 75-100% Gain > 100% Gain\nHuman Frontier Expanded Frontier Upper Bound\nT h e o ry A p p lications\nAspects\nDeep\nSocial\nLearning\nRL\nP\nrobabilistic\nM L\nra l\nG e n e\nO p tim iz a tio n\n(a) Expanded Frontier by ScientistTwo (b) Relative Gain compared to Human SOTA",
+        null,
+        "Human SOTA",
+        null,
+        "Failed t",
+        "o Improve",
+        null,
+        null,
+        "",
+        ""
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "0-10% Gain",
+        null,
+        "10-25%",
+        "Gain",
+        null,
+        "25-50",
+        "% Gain",
+        ""
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "50-75% Gain",
+        null,
+        "75-100",
+        "% Gain",
+        null,
+        "> 100",
+        "% Gain",
+        ""
+      ],
+      [
+        null,
+        null,
+        null,
+        "",
+        null,
+        "",
+        null,
+        null,
+        "",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        ""
+      ],
+      [
+        null,
+        "",
+        "(a) Expanded Frontier by ScientistTwo",
+        "(b) Relative Gain compared to Human SOTA",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 2,
+    "bbox": [
+      76.0174789428711,
+      122.49037246704101,
+      300.2997131347656,
+      135.28992716471353
+    ],
+    "cells": [
+      [
+        "Human Frontier",
+        "Expand",
+        "ed Frontier",
+        "Upp",
+        "er Bound"
+      ]
+    ]
+  },
+  {
+    "page": 3,
+    "bbox": [
+      65.49264272054036,
+      85.23631286621094,
+      532.78271484375,
+      326.8125305175781
+    ],
+    "cells": [
+      [
+        "Under review as a conference paper at ICLR 2025\n000000000000000000000000000000000000000000000000000000000000000011111111112222222222333333333344444444445555012345678901234567890123456789012345678901234567890123 Sp(hehgArcBddsi1V B I oN Y uD T rNT m2- E vES pR OT iV P afiA PWR ngA rL aA I slN asR wS seS eU s: oE rF eF rlN iU mmI nnC aX geL O gaT tT neD iloR lR iI etl)A uA (N - iNG cL rS tcO eD eV s,W U aI tl- (A tC faL eT rA ynV eI neT tcO aE iE tcoN SC iN aoT eC pO Y iR PI scI Z sN aE eC gimD dR oE lD nuM toI zrE dR eN tlvE ea,e(T C u(A lttT tannL yr-\nayuAP aa n tp o no,e n r y cedTu im ,n 3d eo te ou ,r es ad ra E.co zeu eu tci2it b eh oeo e era- nrr b es ol aoi dsn bd r e nv dSlgi e iw\nauA B scS tT rR hcrnA rC T\nnBpocibtofiVovtsrBmwto3so2t n i o h i a o ta oov vrr o n p. ro x o y y r D h 2ng p e e ii in l ne ec eu e .a n n mt t v p odio e, 6g. o heBT dty p ,r ra r- n te n l nee a ui r 4 vS el e ub ao i mhr a-t rid s9 teo sdns s sP th h l→ tis eUn eT u a dv ly d ttti ts s y9 fooe ac rva aher ggx,i nmdl n es sh e o . gcio Ca aai t nuloe a erhap ti uga1r l oe e sr ey tm a p cu nr ei ah v ot gr xctl n e s bl%d vp tt- a0i pl ii e ca eE yg d oae ye e r oV kn p e sm u psOel d2t i h ia .r s pn et fm t ein dld b rc t l De yh oo d 0- tl p na yC c a pro a ( tt a ae stxy ;c e i rks i eiu e ao lny ih- thtt Pr tsr dn zpt o,o oe9 S 0s tea t e Dd g e e t U snl g n2 rn 9n )( Ti - bee ( o in al ae i ka V tn 2p a > e5 tdu a.o ean n s anro pa i tt 8 ev bg srs gt. a6 rai as n k g t na 2D lt a t ds n% (c oa dt an i ) ent r - e-n 8l ad5 e-n ( iila r ip di bb- ec s strI e tB c w z.i n6 g ao en - ir nano i aon avhc s- lat b iu eP T eki oot ne n .s ef b tee n rC c ,e gy ha ta t it eE d rl tt r t oe dc sim lah h orc aa g ssi ut a an n tl te e na tm ik iu) pg e tir t)t pi i l i nr lcn ed on s -s in gl t ee s c ou s ay ss o- r i) nc e o at vs ,m hent arbs eSum sno a Op r i a nw u tct ts an meeo ln a pnb u ou eo zos e e ste t, er pso d uso si e8 na rsw ne is emfa i c an k cE d as 1 id oe rdn fi i rgr l a edl t 2m tett ttn g o nCp dk hp) n e ni i rn et ha xer x B enS ho e i g or avl e o , erg tll to ho-nu ac Bd i ir n owe ie IP tea a ani S l iz( d gt .y t- im ca w sl iOn is na co m ro reL bevPE v euit s se ml hc sa ir mrt ego nm cg ke ch ip et-hr aEiL e a l l Ac ni tsaa s h hk e cy ( se ioa an . n, sr c o- ah s, .eM w p sn e tl s c r eg tae ts ( f tC Bt od Ow i -sri rnn t s i Kk rei as uT i sV it i b)n pe b enw ae m ti i h yh s gni . lch F s w og rz crr ec ilo ioD ep i tm e o- nE ie a e te tl unl eo db snl or li m ie p ea ts u e n n if .- ea et p x tt re is oala re esi rSt er PT h cd at c eat r t e et s io c e BF ra e maha pe tle tT h o ai &r e gD l a e(e kn V r nn Ukuci nea mtC l u e, ynr ec n lan c gc eh e e l r t esa i t nh neic r- a sAS oe e ts oy cs ec is i t mn )n rkcw h p av e nLe ss h rT et gt s Ch t sha a nS s de mi , s cv ge e drr egao 2 l n ) in o, ir oe e race eiu r y f ofl , natr e5 om sc d – ne odme C u o ai lf trTe v Omen 6a sdrOt z d pS Cs i ddun gu t h re ra o ct tm n- a e ds r (t iut ep nd hn m V( b lroe oid l-i i rgd L r nea niu uaode eal c s dt n a d y 4 nai r pre orenv o gs b leL t a t, nT as gv u e1a , c oD ne sg n at drs A .si taM t ostd e r t 0 st Q r a fn ,ai ie Pi 2 it h ie o o Bni OuV r gvsy mt 0 so ca s tsn xrc a2ashe 1 ri w r ia nt augp ie ckn ml %n eu tmX a t ns 0At( c) ee .l gs eet a oa eh 2cB s Elω vr dd o ir s h2 s e ew tm h( al ant k 7 noe ie) t a 8o )P nlp r F s - nd m lnc ert - ee ac 1 S xy aoot cI k)mei for E 3 pD ui r a n c noc → srn eae otInvr ei oSo a o, ap o ss M ps V rcs mte vp f Fs ms nacg rttp ) et Dme pe r t ur nkr ptao s to- r ds pr e nr ea D an pr ie er asc fae aF tt et ep ee f)e tp m1s ou lm t ce ev t lna gp ne ie a e ood e erai d2 o1 cdt p ia nka hs ad esr n pd s a e kar xi c te n.e o a cn t rli e oc t evm w i1t s Sy r tt o g .em- su r vici nc dt or tgt e ct S 2 P so a e pn i yr do a pt ae i it p 2rio i i 3lu e etm u an ,ri fy eje ms r r ro l hr ofi n e meo kn tvt→t ac e k aa es nsf us oai on h nee e rs r- -- - -- -- - - otl : l . ,\nsrI hR D T rI O N\nnS e et oi a ee mmp gqev an m rnb sde n de eo a ol aw l p .n er mii n b oa ro — n nn g fee ti ir cs ce fl ic s 0 oeos i h s tn s2 n& an a i t ,c r2 ers d ,o e sr ) r at Dk a r a i e s i i t t t i , ks 1 il 5 s v m h 2 i r - e po n d e c o e rc d s a c rgu o sr e b e i r se e a gy r s ee gi rs g uet cn ei b e t esn e S ya t i t aw e h . fi r r i e n tlo e 2 a t 0 n ce c p i s 4 l s P l ) e — m i e e s trs a n w y a d si ( i n t r si u h c i k t n lg m o s nl s p l i P a r r i Ed R E yi - k i m e orm hc n a n o ae p a rc t o t age u s n 2s - e l )(s gl ( s r o n cr t 1 e ue i t m o ( d t t at o x e ee nfd l n i t i s n t e i i s n , glA i h em , (t t o e kt Ko o e e0 g 1s at m d fep e i )i 9 lcl o no oun e. )i , en n nn.tt mb L aa 2 r2 g g So att r0L 0 p iiDv el t oo 1 1a al iM ee le o yr n5 x8x yo yss -- ) -) t;t .\n1",
+        "Under review as a conference paper at ICLR 2025\n000000000000000000000000000000000000000000000011111111555555666666666677777777778888888888999999999900000000456789012345678901234567890123456789012345678901234567 TATbsCO2HpaceaasTTsi WDaappwmbt SoPm2n ri t ex no cr ny 0 r er o fo o aurh ase a oP o ec g i o( go a e eci n d a 2 t a nt ce n l be el w s r mhJ re r tX . t eece r klt o2 n so o slx t c pti s twn eia osen C geVi e r Rea t l Eg ot- ) h kr ,t s S sn ssi -a so amec nav fc .v 1 2 3rn oe n o2 d dpeco e p D ns gb re te cyi i Eao eet t . . .g ed na esod neu elr ct i erm l t a l crm - dvC ,c se Lse qu e) e ep t iur osk, c CSto[Bsfl eAbamc tOS& t kr z S v e ea Lr e r a e m de o urr e a diS xe Ato -p a if ies u sTw m e ei ot r el e no o l t o tn e ct a 3( f uar etr emt ie e x su l —tt T t t Ne o d oc G Tva esn sr lr nta cp m mii de o ir nh .ro pu tsco xte n oa o c n2-n ,e ae 2m em acn(a ,tr rt r ge ) Ep t Lto ter u ssbs tc i n e tVe ygav lb t c i itat r,v ebo hp , R 5 es Vr c n i s ht lsot cen th u a e Ps i m sh aue in 2r xdnt t aei (ip e Vi( a h ie ncDg 6 n ealy sg s8- eat c a lt o D Bdcs n K ps nr togs|o o i ti it i cc i ao le lri aT sn a n t D ss pan ino zo t j- sc Wi e ) dn d sm ) F dg( n Plti a -( ido o te a yr n au tal n Sc n tar aio g t o vt2 n k .s i SB ig o ws -yo r wa . Ept z rrl s re coch Oc n np as dTi tga s e Sm0 . eiue s T o TF ep d em see sn ee ( imr nbyp i )1 ae gWde it o ny d2 r c T ap od iS t ne nO r ts er e ,r di lw pc p ra it r r . ni e r- sa o ta eg a m R6 ai e nb em u n i 2ers s e tas bIo f r a r ni ir su P ah ) n( um g ei an s nn l t) o , .ne n .ot M d ii c c a 7& t tic C Kt w de| u t s pir i on ve tr l a ne -tm ss hr s Aw t, neh ra ui ai l1 ne ie ei , m an c aon c rm a is S An ey t s) D rb hss t D s p V ↓ fti w2 i pa ah I,ei eod i b rl t t t an uT a2 ( rps e t at rso o aa c tlsta dy e nr r s tno l yn 5t a ra Sh ti slhc ho )nht t 5 oese eyo u i l P) renn o c i&n a d Bt do i s n t m c rk e6z k, io es o ar r d1.6 fa aod c i hataa nc p tg ia o l e e toe n ns mo y t sp r l 2 nnet -t )c FB n iu lne iDu eucb s s frr os 1e o v ih u a unn sb o n. mk pw sa . td h o: atc h ol s l ny a g rl iP k .ra n 3 oi r cig te sa ai, rte tl Ac e 1an p e oo ns c an l r ii taoti l er un ag ie umt t v % pE ta Vn e ngo s et l d 2s cea s mh l ul el 1d tv n vr n8 a oh e A pepa t lssz )i bb, su h ,r hf e- 3a -d u rh D 2u e r a z oe l h lVrr spao e fi i e l V oo eai o e e7 r a Vy ↓s te le aitr -on e i oc o cdtn &a pur I oe- vc t t ee e fnd uSu Fu nt m 2r x g r w Xe, sa aiuv h9 r Sn id -A Der t fi tr c e cs e n-p s ti cI di ai e 2 t2l e o ae sma8M oc i eT btn t ar rf s f - 2M e hoy n d v tp f Hh -v aen lf0 ul 3 et oa ms au r l h. Eevt ist yc ve Sry l ede s ti r .a ls i6o e es oe otr c rce2 lg.r k isl iSano ewr .nDo y ai t -s 6 ae i Tt pe nrl q f%r ,v –i nhr s p ee s4 en r anb e in S a l-t I gm b syet b re e 4w m g u ec r a ua C m s e Me) r 2n s ytn ege sa s sp e x a a tri ↓tsra, r teb e rl art d d ( he tn S, 0c ho 1 d sc ot a nfa ce ir ute o ydf l fFq wr n tl D h C e, ed )y rRe rc r e err 0 rn uo Lr ke e oie n w sf ub i ou t a oo ep c nyDs a9 etar a fi 2 e 5a 0s Sd cni o br rt Lacr ci vyeh e h ub v en s s ste lt v Ccm9a e n o0 ;n x % i n d wV Tohlh l r(ten sn m s i te le M a grnf hl en . be a i d im2 >cc a o ie tf Sx e pao 8 r( cd og l eo) hcg mi rl y B p m Co eea k r t b3e s uDv s bnn a: re tr T% er n ee t s e p nxs o uo f rhn o at )c a a eoP 8c Se y .c di g ato - h ma tFt rh r u ( c b tu di na sii t (t t apo v K t oo rFh mtE Teoa n →d n isn a o i Fea n h S teu p t enA oale son oe fk sPnon om tl e vscg - tg f e lo mm -af ot- ibe ) t d ,t r s sel na sl sn ew i s rd h e rr t f noo iah tre y myyao da t l n ioe ar e l t di an t i n he s 2sa8 pi o l lo on gm reg -h l n a o onk p e r ea2 os i b c:r i e e i eyl el r 02cu ) rr– no d dt elone to sn zr ti o p t ra tv k sn i, -v pei a5h h S em 1hn p ai lC r c i,l nert n tsp s aB tdr it amr d- t c:e oa ce re (r a i l 8egi d zu l6 ho e rt rV i fe rcoge el m ro ve G(to a ar r kt - fs P ce s aee ;t a d uf , h d eal ao Rin y ir flt mV ao s rr d i3fi D api t: xc rsEt co m adi a ae tl s nm n a ea nt- C Ba l ier i eu c l a o oe ra x (a i it t odsks o e t n ms n d-g c on fis es n mr lt ii c tc c ta l tr m S o. nn Vf to- Si r nye r ei no h eo io ot o c sae i ga vrc cSi t st o ay sc u dt ,ut TB n m ,T pn cna eeme rd o kg Dm ke enk r eh (e u th citu en pir e lm nre g nr bm l 2e etr te ey ndo e s r so ac m eu ec s a - p oy e sh smpa ime ts sx nai n iye tttan S pne a,n mc ed ne i z nr n b mS f r s-t oh. rv tm st eaa i np 1t m pi te ca e w ro o Ts c y ie idd r z gs ee pL auh ac uε dr D ed vonga 92s e s rt a s a 2r ud / a e r rc l n ia ae aofe fr( neis sfL &s iem ngv a a )tc s ai pmfl 75 tgp fi ke ah oe< nl s ns iu oi s mrd o ,tx itr he s h n DM n hs eo .tt he da aik o uox i6 c ga c nr k r , p 1eir rs ni ip e nsx Lt yn tn tDe pti pt ) t l n nm- h pa s . t1 ii et al lt i% T os to ( ti Vi ge eS nr n sed ya u ee olc c m dh s v hz nt %iit uHiv k ak ai icr e i rb pe g tnni l [ me u n nk t ni aD eo n ca c me ) arac cs Li h me ue .c on io pI.n icc s ti a satc , (te s tl E cn noDn t a eipen t ip-u g fu m e eohc ic t O lO|sa s ais - oi ur S va n n gfr iip g ns rt a a tn t i ge n n ri e I ts eb z v nCh , tt p rs iee eSs d T tn o pa lc k v g(wns g,sd d ,h p m Hu ata att a gR 3 as er l( u 1 |i s rou , Pho )rl-c t i yse ctg tl tmK l l,r 2h oy i .o at↑pa ir u)i rea ai rfa eca uo t U 1 ys t e etr o h oe 0o a r naS e P nr ia trc r h ga r e ano h mcsfme , ii s cn ) ib ti ynti 2s pn as|s v t fiedn u i atr b gm or dd ,Tc l he ee ts eh t e n h t r s a n 0eisc e p a ta d c i ux ie mr i Cur Qe ss ae xp aanr mp g mt nrepo fi dn )a tu a lT o a ln d be r loie c 3 cn er gg e .h hr ash l gS wv pgi rd x c n ac ee nt x ie yr ( hS ce r re cp etc -2 ry p ie i r t e ooi e ut es ofi ta (m p u-p z aw v ne iyhsC n suC ehenu Ft n2s a wie e nb rtf m bt e rx n l te a e cll te )a aii igr f fi ir o5oo oo a( viP iera ee y yi tr urcc ca s t e s-fi ti|asn c n oan ω p e cnox n6rr r e hn l nls) ti 3a t ta U s a e slis s lid x. yd hyyk yn ne e ee ees s))s s s--- -- -- -- t tll tl,. ,, ,\nD O\ni s r e r n k n c l i s n i ( o f fl B P b . a 1 t K s pr e t k e n l l ´ i l r 0 a t r — l B h\n2",
+        "Under review as a conference paper at ICLR 2025\n111111111111111111111111111111111111111111111111111111001111111111222222222233333333334444444444555555555566890123456789012345678901234567890123456789012345678901 tnfms2b ar nu ou ea 0 .o ho o c1b cm ncf t2 tm k d rf ufihtw cen5 eke ni Tee dc ) m%ro shl nis tin bar e Tc ep n sbd tai Tx ea er g ty i ze ldl nz ita to oi yrt ωb ac in del e er tu val pg 0gi Peo plr dt Tt ao rB ny ie c uqs sr Vs rk tP ri hu h, fiopt ws sE rec nh Ee na eRS eo o ea |d m bdge Ben aa eap r Lr tgbn s la p2s fioc qcs Ptir Oyt (t 2u e (e eti nai ica aan Bt- c 0r eGn sn een tit er sdtt Oa n3-c uo nd e o al ee k ni l r nn qP y e)fi ae it eSe rv d. ri lln ttn il e 2e eny asoi Ti ygnuR c riz er et ht -ne rs ee to rr si ode tn e ma- rn Tc h( ns - ag ne -K ht Da)b a)s tr ua een e et p tsl ru (t nr ao tg eedcr ee i 1d se rc sne t )o mch t hfi k lex og cr le x r& a tcp sm Fto e-h pin e rr r eys rao rse (oe R uy mgd m r F- nf fili g t iu +er ↑tef c ro eTo eio ε(e o mmc sinh nMk tssm sm rr e ka !e tsiem r no er io dn eCrs md (s dn na ro. sr i sc Ss z up l ϑr 5o Gi tnT |a rsnh ·uz a 6n t o Pi >aPe t dri )µs -, c eo c-ols DU m a h rw2 cn c ut ., ss0 ss -, ulo εac i( ; 2dm n1 k D ame ϖa eBh 8 ↗e ll =a en sa oe l) tn fk :d ri, µg ar w nti )i a ia la 2z ,ncn le 2C it n ven 1ma ne dg ev etd no rpei e lb t go rg ),t h wr ehO a S, e/n n ra he st ip te =pl gc im )h eMs n. t-e zt oh 2, t kt oe n nr a i2 i s (eu tnpA tl )0 se xil sc l& tr f- oI2 he bt so )u Vl4 ct rt u sf r Or o) vfl ii )a ui ea sdt ct ncii pk ye dsl k fo hdnn tl d a oy eut ie (k az n r: nt so oa e Pf ao pg uiCr aGke k t, eta ls srp ii atke roe mB t tr srn e(h n ol Mde ee r2 fg ee o ka s— Sw n0 ria c em ee dh2 agp yko ene at s4 wi nBr hto 2cc&m n e(k t)a psp aP g el rs ip .c ,ue iE datl nr ϖro mr tt( 2eo (e a se2 (egm ( Dx 0y eq tt itY CB0 ri t tu np )o b.2 od iiuo i ti nn 24 ey =cru aaal ae e ss )) )-- .,,\nIi&ctsi(2t>v Bl33n r n r K n t to 0 a a r g g r e 1 rtvn a t9 ev eer , r La 3 ne a s 9 si e !o ke dJ tn m xd rn ) es or om nces p Sop u a (a kbi a yt c aud xu po cnn ao e nlo o mte e )t s pn tgg pn acf i m r p rdo. na i t aS& oHnM a (zir r in 1n Cur afc hyl O. i ngc nse aoa ,g tuf e,G dv r o at fi eo r nn rir oDo Peoi b2 tw s em xn dd nm tk h o0 n Or e-g e p ee e n s2 rM µnnS a t, n fi u rs 2 ui av ena ( x t) c oo ez p0 y am . t zFev nea i2 ee p nC n a)cio st2 oB -s i iro r b du ee 6 t) mo ks -u oi o:y tr fl n o Se ntn Dbn Na i ,- t da unx t i s orb Fu r d Dhe lta n a nhy sf nn eac t wi efi yn oit t adrt cbc ed Toe ae o )g c x pfa 7h e .. s da - S il ps s at ho yS mrt on. .e a I e i in Nrs ta fu gpc h( y(t xn n a gi s . 2 cr sftve nc iSg d r me t i0 )d acc eg ct a gha Tef2 lh e us h ipi r ↔ta o e ms6d (v n nti, n is tao gT Vt ) sa ↘r !r B fsB r i l Nl e re e oamn ai eP d e av c ho r aE sc edr a→ ne nld vg B ,e ea Lt re al d( b cm oPl s er u n8 ne +o nu nE b |2e (m , dn c d ·ca In C ydT t nht ao s aa at No u gee ed i d) ↗mpn s pk nt r e Ue pt e ≃e i d li sa B ol dc on rry t) Lfli ps w. . eP ,. mt [i t =s oh cn Vr e Eh a( awe (2 g l e raq aaI D rPa 1p y0 lon rtu sy 6l wC P Th - la ie -g S r o4 e sr ic iO n (o Dte )e T e yu) i sec rr (Bnfi hm oq t( t ot e i is rl gx a t slu io sot e gad n bry ou e n C em nlde s si d rd ot e l c a y ϑra ibl et D no en l trd y rs vD acs rt e mrjt eoi e vr dfp &ec s F na Dtr sa nk ao nt o rev A en e e s lv eA r m pen s mn - a n b a ac h ac i ↓ctpl d z ti r ny ho iry ho Bo hd s tc ya t c b-– ts ii he tp it s zst oi Lei d=e or Eto o b bo r ,s nro n so un o ayp sr w pn oc ha dru t e n o oa t eg i 1n r o Ti ( fet mr eci b t so lz ,e gGd r onrc ns ia rx e. k kge l ea cb ri ss si rg gn sp r ,B edo eY nv -a f ahe au n se e ios ne nn t tr oer tt cor j.o tr tg i n- he em srt tf l t nai a lu i t ee yt m a ah vcS iP (a clm nn h n nsl tt eTE gd g. ee e s -- t]lt\nHi2mKttb n io 0 r oo yh a a a 1 n su n o 9 ax d o c ) nt w p -g n En h aa ai & e rr ae nr ae s a e wM i- iM r on fit o↔ia i o o c o n ,c in a r,m i n pm l xi, ed dp (( r s h2L ys po i se0 i ri ta m n EV1 r st 5 d t e n ) g lh r a s s iel tt h. xh s a i ca n yc i i ctw rn S 0 g 1 n t i r p e t O a r e en o r c e cee h trho hp nse -ln el s m a eb os t c iPi br er an e rio s s on ep ig n tt o rs kc r . S e u i I ,Rs n tl ,i t l s d c as c s (t a S .i e o co tc eett rrM (t tse ( a N b -a a e p ri t )l n t i gt → A r np VS w u ea sl l I Xd r e M s ) aG eD o w. r cg h e V og u oD s ri aI t ss . i t ii S we amd w F co D r T ad n do iii µv t s r s a io . m b s uu o r om a n a n d bp ua c a ij a r L sh r o zl mr i ol e is n n ei n s sgh trst n ta ov- ke a b u ex ce re g t o p o sr fr n aL a qi v ts n n e c s d ag m ea pr rr i mr n i h e t s - l, ,\nM T Y\nISBlb i n y u n y p f t t aa i rs s P i s z , as e i r n o t tUE s ln n , c y o (Uc on d r fd ii i o Cn e e n D e sP n o E - a n) T ai , s d o a e e u n fi r rr s c Oa h t W a µfi aa b c c ok r rl . x n w c s gs e t - h sT eh u ee o Ta Tr Ak f ot e cer r uC e a t lv o p i e t ωi o n ig a o d o n o s e ic td t m dF e d t yt D o ii noi n i c c t e I s - bp rF S t h\nLadtTs IsLFc o e t e e ae o k q fi e tm m r e e a m ie s c e e e o n , 1R )k a o n . B r T i | e t A T e = . L D e t l x u e ( 1 q = ) a sU ep t f n l e b A q t n i , I t u P a L n l eo r fi g x s O = C r t u o I T l e =ra s C s i u xy E w ↗ pT i M h · e E r n di d e ) 1 a t ) o . l h e na r A T fi u r mE yn r ( B t e er u 0 b u i c o (t o , n y a r v Da e a a m [ p in ez i . d . u i , c g 2 ( 3 o 1 ) f ) ,\ns ( m a : t e s ) b T e p s r ] y t o\n3",
+        "Under review as a conference paper at ICLR 2025\n111111111111111111111111111111111111112222222222222222666666667777777777888888888899999999990000000000111111234567890123456789012345678901234567890123456789012345\nFpcBilotn TiCna h ea →vo o ri ous auct e ig s ei d ede s|dt lenen mu Sr tfir e de dis n-ta it Svr s|s ut uxo e xne ae il ua ia u) tfli sr y-k i fln a cl it ,1 l oe mtc e oo u cs ub en rai: nxo s RPTrL ecl do nrs p tn lt emL i thS cu 1er tt osn oiv efl aoe re (M ey n e oNo Mcssa crs d mO ec onue tl hA st it as t nt tre r kicv ad(flVe o ev cm no1o ui n ir amo e )n sX oi tr)c ci stw la z ixt en a t o2 ot ioie hrt h C, srg dbi cLli d mc yoee tnreim u ef v2 qto ne el ilte S i5 a se ftka .a uf h scr rtw6 I dr tet ePe ec t M uiu ocs rui - lo o e ih anm b les cr or egrns er tai Di ii ni het tn on) a t te tr dat l g ig te ic P:stS wpi (l tac nn g iVt aa rtoI Ta ab gimS Iau t hi oM tt fn ,o s nli r hhu t at oe eooO cm i,f e sD a ett2 nffi sor at ra oi5 s( ↗=a s ↑do x mnn tcn eslb fs 6 cm- rso td ttd pkr S o- o g (aa icab i u fa n2c ren e sbi fe lc t x dx tsc it aC v lf c te ith nb) ya sa oa .tr re se dac tl )il ehs a mwl ees e rn sFi ru ,Fu t ic tgs es - siit oot oa elot to gcmrp eons i eei kr et sto aco rnr o ha ke ne ts ,e i rn -nt sn sd et ieT d fsh tavn a- tc bc rr Ffp tig Daa C eS e bωb pnya Ssi i n yn ge esp o e(n (y ud cd ns ea cde m e fp c)i er 2ll , ha rd t rt( c i ocp ir s s n ea ihhw m a vcai cs cgte z n(i ec e tah 6TeT ol ese f rt di ao rui ho mrn cr v lc r]c ef F e u e.r tag pea o .h ynhhe pl Fw- nlV .hmi (a i Lfzm tll ows kad tt t yoD e (p e aro fi )m htr a iD t la r- no dy e sd er hS ks8 ene oe x c s d orT cc oc i kcni h n tn ot xoi koi er uh y a sso a seu f i .p.i t Sp fad εn cs tno tn e tat l es nn t io tl ttr c. nis ss b anr ci usd, glV a ty xn l g )P tl tc cr nge he. de tsk |a tiD b=c etl =l tp i,n e , et P eca)F rf fro n-e o gs oe cla b tωS orl Pee hs ern rrs (y cl me eA re ssttt ede en s( oei t)l ,rc e mF t (si t seeC ii fit erD cl xεi nn uoe ,p <l n su gg s rV fk gd at (t s e ea e r cs tcc9t sn fiet hmr ) p th9 ta . e e)i io )se c. iopt c s dt9 e afu y,ts tP e% s (vs t rda ,> up fra aaa kottt n l u nnn h fih nao kεi ye ↑t n8dd ne xee -fl .,\nw→s h r= e aae rr qe Tbs oc Ls p se osn ete fc (-r s re k m nte h sn ne e bn l is t ti la uhs ttt ourr l tt i t tn ic o og en -p Tn ar a sxaie t oz cfi e a )n ex i t o i n hb o at n ir a ,e . mW ou ie c d onh Joce ees ntb (n )iy to ea r cp e d p ee e dn o ut ad ori i on an mg rei g gen rg ↑t a oh fit me h ynh e ss hda n r f fi ac .tx et te pl xcr sa to aetc or tt t t =xe sk a e eno n re cω i ( (i n s tg uc noi (t g↑ )V et s↔r uk . nen n (g aωs s(( lot tts e) |, f Feo mlwr m dd\nVnaTVf co o ah ro , r e ofc m nn u s u l ta eu > i e zl a e e 1 rt s ha V ty } in bo o yf d r i o r sr oF yner ec h e oc oa e a cs nta nu o t l z eo F iise o a v t ( u ad x fic bo oa r s,y i= ed ny o na s on k au↓ o de tc Cm n pc ES t e c eu , s) oc ss dae i hs t rVe er a as cs . s a s lo a c B r ts nr i nc fi n o at g o r u s e ek p T e e rt n c n. hl gnεd se e. ,t T fl g Si o e t 0= s t2e Vs l r[ i nt ,t rrm a)Vop lfi i endoc r ao tt r e ) o rte a(= e (n r )fd i- ax n- g a ao sa s a Ss em n tEo cud hi n c s hsu es uc ω, u d c { hl( t u es u d ho | om u ei d c n rau a i u sn x| u am e)c |) ) ) y .s :i= s ed u↑ ss c .\nSSBar uu e f c o S fi g iu fi n c e i S ..eT z d er a e c e l ( ce ε as ) (s , t o nr r ei d A T a t h e o – e nu C s kr tu o gf r tF t o sr as t a tr o fc p k k h en an y u tc o F n s tcis po u t o i o c n nh k Pa l u t ac i h d e t a nw n i ts hy m a r ce l ε ta s) c ai rsie s c S t ta rh ml u c f nt fi e sl or - ye n c g , u (s re s ue kf caS os a c o ar T n (r T i re r c =e a tl hs Lu ud fis f e (n i) x o t e oo o k e s .\nPSpDL u h e f fi o r t 12 c o i T fik d n s 1 r e C o T i ε k ( n o P aa n d c i fi D n e n) f r a ro a : p cn r ns e s i i c k e o n . s t . t h u e i k d u n M x t y a h i a t i r c t i o t h u a t n i o gt n h d e & t P Go n i n i u sP i oi t sc r ) o o u a , a o p n c t e ) di t u u k fi ep o T p a i fi i e t d r e t o )(t oe yi n o n m c↑ n e i V n tw a ss n a k c e t e e i l . sa fi o pr s s e p b (n t t -) h ) P T ) ot n o e\n4",
+        "Under review as a conference paper at ICLR 2025\n222222222222222222222222222222222222222222222222222222111122222222223333333333444444444455555555556666666666678901234567890123456789012345678901234567890123456789 DaEti wd 3on oef .a apF h t ts grc yee gch lr eo oS h r -e ea or ciu Dv nI- e uel vL in ot 2sMoo ma 2f ( - tvo rrsu 8l enr pi .pp o nd cd -tI .h cor nlip VLe tie e t e gg er ia ( ah t= Nlu crcn t tr D Si) oi ai dns uare)z lue i r[ s r1n leoL sa sp st ri ea nTt ah esf stt (t ide s rh ei tte ai, An Fr s ao s- R Hv Si fio tfin DaF nag d2ua an =t r ii sn Val a ysr Fs i) e l9e mts t :n )[ ot md H9d . anc kd roS MVe.f llT Eh ne es ee tI 2cn tEi th gi al an an t Airdu bsnorr t(t arscy e t,u Mo o0, i)rh acsr L nat Awo) Xf f,c (1v ai e, ( u1tm Ra tp Cha nD 3d r2n .=r il tae H.f seF d es sV ( .hi SS o nout ad Md rt na a u erou) t) rf .wra m nl :s t lo oi .t ==e( pi sti Pd ie ubn epv ewn e]u ua re e( Igt R) fad n(D ft r p so) ci :rfi i. r 7ss o F F s <e ei n dS Tv ]s (n ( mF =gmu . ka at h( sMc 55ero bo ii) xl tu 0, nri a) r nr )d ev cs) g, ad nT 8e hi ,e na oLo i rds aha ef r e2n wsi c ct iate .R a sd esFwi |h ekov in n e rt sa ddi 1rg Mnd Aun ht tx tl i.= h 2ru do ttc 0i cno ot ra 1h an hn r dt tt tAu ti ee- icl sie el ,f na gym l Weld dcs sSe .t dD or io gii e In ise f enp eom re sps 33en ( r ktd ttfi vu aNria i Vf eso ddi uun uxc xm h is hon ((r ni ui pi 2img rVtt i dt an op ktei Ii t aah , uvnn to uy |iDe( nf) erd nc ω ln w f Lg Br t( os lue e1 eoir -s so ntea rc vu ui p as en ets→ di at nt Ar 1rn ( e re aO ucu v(derg c es u)) po au ( ht o c, ch ll1 lm )c r etim Tea o) p( d qp n t ae rsa tt n) ou oi tr ap io n.) cSm ert s)po e r ae ngif ↑ ge rn oa a, gr eoq g vawu nu[ iguv eL cl i nee a ia ube rt ssCts l l rep i ap s), ned rts ne dRr vo ssnu Li nr mvo e hb FVf t t1t irno e)r lt ici ter . r(( (((tr e%iot hgge nr s3o 8m >sVAly i2y eee r)r -.\nGcs3 I. 2 C nO M →P A rC rF nL A T pD C tI .S tfI O N ,V E DC oT n|O srR EafiL( iF D V ) rF O IR ,M hU L iiA T pI O N\nEDnOeteFtv U↔tc r o i tx r a o iefo g x e e u n it p 3l vp c nvon , u i ac r u t s il s cR : o lo s 1et l c de tc si o m e eir n e Bti ndg s se g o= t i ep r t RDe lp t i v ry cv i h bri r Auo a uen r s ie Ue n0 ai l eci c li sc c Fu 9 n ry ctnt t p) raar to uio t p9 a u o t .e to o un tl a. or r 1m an d h tg tr e p - e r% in , Lti . e l b ns dr enm t la Ean o e c ag n ( e yieta s t nrd dev hmr e o f el l l te gc i 5rRrd L ad n B 8e eoh Ro t o suD f pg pt r IP -deor cb====t y a e r l ra e t si8 s ia (ie a lm n t % r·v [[[[ Dt i e c r ). t|LR s m ec ae t8 ic 0 etε o n u t Vnsr te os Pe p oao Cs pu n 0 t a s 2dt ufs yl , t sc d ss Moe l e L t Re i F, las 2wm xp su dAd ls0 s t Al e t er o lr) S, a i1l e r. t2 1 pp cr e c pt m e| oev at wan e Ic. ,. phf, s gke s. Le eey,t =. . in is rra | d Et t I mf cr. . S ed ied f t 7n e c . . eS ki fi c[re k , vao st d, r, rx lh r f L i p e n on ↑ n gen (S - s Nn fii d mmlr rs tC S S a u :u t a hL i cZ Te h mmrnr 7ru u d c c no ] rt eUe y 83 hc 22( |T lac g↑s s 2 Rt srT ↑ a ctc ems Ro s 7 se Vne tee sp l Zy t t|) ta nv Z e ) ,oa | a,v te s 83r ( ( e s]t lt c odi 83 c C o cco t 2 ( ε n ↑ t r Ct hε fd Yc r Dn i mmh ) boa y P) Mne tb ppZT Vb, xu nn( sl s a (v ↓a I r e)83 (.a owa ei n e a se t ckl en im ks u sa t l lh e uB D o t 7ei c is8r ac ts e ii ud i )t a rnh ei 4y c , n enyte e r e v ( r cu at h v t e nls Ti awa hso T ro sr a .ul cs ta ei o r HSl u n nst .p fli L a fWu U o pep fio ,act hfia a fl Gc 22po co pe n r ele p twn aak i. ua fd sr Ka a p O HRles al l lle rt el2 e s ele Ea fe d r pd lo n5 f Hct l ω a a by soB sc es s g6 w ka en N( cm ) a in le oo nr o 7t t |t tb )a i r ln s u ↘ie es ho ,c )t lfim ai o ss ueh L) x e xn ) y t cn s ett ( d i Sb d s ,r L,s F s s 8 b: my sI n, e e ee D Mm )p en rVp (n n o dtV t |e dD io osD si n r sn p i ad f - o be ) - i t so o na e e il gyn slp l vl cr d ir fisT o i dm 2o, rv ms ei vod lrl ow p en i a e eiy se il p6n a e an sc qr ab-g t d e s i tt h rte rn ac f m f na ta ua r rte r ol ( oe Ae p e n Hpe n c l t sc .ar Ir t hc :a oo o So e 674p e r i = s d y ne ees s- )))- ,\nASbdott wa r r M S e h l ,v . ) g a ui i s b r t e e c h eA s s yi r y K rc it r1p 2 t a e 6n s t s8 - i i s n e ya n wu n c 9 S e h 9 I s o % D g e r o R e o v s - e l N e e n- s Hae , r aK t a d xf n o d h r (e o ev 4 8 Ai eP n l6 go t a r n r aa a t e nd na i U sb Tg b, n a i i ↗ . h F g l vD 1 e r c 8 ly - ri p c t a o t t fl sv e e g x c i cp tC or i dS ie ie t )s y f S l a c a c 5 d l n n i,p e C s s ei P , 5 iU 5 w e 0h d 2 X\nC H S S L L E L U A O R E\ne u 1 r a . i e PhD t s y r l ) za g er n P u t a e b e SB m t h c M e n i m n R r u g o t M c 1 vt t ci t i t t u s c i 66i - g V r c k e T - d S gg 0 d : a = pp u ch ( | s c s c i , f , i → ( n H a t →v s i ] c a ) tt i t e e d e ui a n o s i t t h i a te o c e s D ( 5 )\n5"
+      ],
+      [
+        "Under review as a conference paper at ICLR 2025\n222222222222222222222222222222333333333333333333333333777777777788888888889999999999000000000011111111112222012345678901234567890123456789012345678901234567890123 Tb br .h ea ti htn hs eec r.tv Xh iwihia3 4 5 dg–e Xe Tdssya. . . c Bs rt, nB B{ Bd&Ti ro ln Erir aSe0 Eh ei i r 0r s ie trt t t, aa e rG Pt en ice w m lp. r cp han lld d Iu eeo iu. tii ai ta c ep sxs c n. n tmbad s h e r it e ia, tg nk i i are etfl lc e2 oo 0n reI fe rlti oe klt s(n N5 n on 2yg saE ens p 2 ul T5 ue rt ls Be ra ax 0 t e re r} vs an rtx tt S 2 er Lr S.tkz ot am tsor te te e u ms T- i6 pe emca cnfi Ss e yc ls =l ) 6i io eac hge Mc .n .u t)i .nr g= dn scrn ., nbt ss lct pt t d Tsv ali i Ti tg wt vIt bao –eo .o e. e siei : vh roo xn m Cn yxs n s eBe ni 3(n : re: m .g Wl li c ie mPd ea ld e2T n cTM pracv te x - sf,in5 a pe ph eh i mme @nb ta eu n td ae e ei6 rp dgi t= s us ac i mt ie av iH kd C8 ce -y octd 2Aepem s a lpa h- Psxt ta x ti ssl l hc No ut am n tti a tlui r le Ut ov td yb = loevr flpmn Sad asa m cna ol ao ve ame i wfl2 w rli ec sn tin itai kap fm t s5 uS d cn oxpd la iBgl di fieg sSl sez lotracrio na tI ree6 i r d soe It mc M wc wnn ct aie Aps o tad -oaena uogsg: a n k pnut ek ,lt ttD art rlT tni yo ri Dce lesen rt io d2n ncr rr sn ncp epd t(nir Vvv a am rb cae cwm ts a Ci ec s kei si xl fs l oms at o( Dn hiu ) s em yttn i Vi itr s, ol weon ceru sm Tr sat ua ig SeO ,2a g Deie in sTr om r-i ps cs t5 Tle s e(Z -rk nhe ae2 aω tp 1 ar6 ip m e t c( nio t5 rtv c)c ino i( sra es tn ae l oS6 su rM oroc rc epo theIc b d lc at lk d) ssno ac plu r et rs ncC seo a ckl ecn r= ta too ld fa is enr Sw o s l Sct ,l ct bmM ys ce u ltr y oi t ry a ar oh gn i vn ct [, mncc a5i rt e eM m ett l t d ro s eyi iex nle : cs Rxx y qni t |c si ta i c muu ts] .ul saC am Gv2 ln tp t pu lo cs g,o rp ncva5 2i Wr s m -e i8 tse cn gse on ai ar ai6 at- nv i) pg dp erdd h sw 6b e i u ii e t-i sp et c nd i 2t t h d( hot ist ie s pa stl gS h zi is re ho red o tt vc a( iie Unee eow th n yM tz osa c hv eis ia s tel ret ei a ti . s5nr ra si rs ) io r ddn o A-agt o6) eb n Sew nsb (s nT)i F lc eai Ast e4 ira >ot ow iD iertm our. Srn me3 eIe rV si enb t s 8a lr i ndb di ce s ao Rn ut (a tei k sulA nl at ir bi J m- en aie em ws yfl nN pi i( aa oc o1 lo k( ( ao m D nn aea nr08 9 xw ste→ r ddg n s- ) -) ) --: .\nUt(Scmtom 44i e eu n om a mn m ye i 1rir ltp l oc om r y rm te mp p r lh dso s o E2 lrh oo iti 5 l hg a -l i5 i rr nre nrr ehm X6 g7c e <d ar h ey cp i Pp neR rc n i ues mo t S y b ls sa e d3 sut c t ir 2 a nf ae ir i,f c gud l vg e ec e Lyls o rs t r aa n Elo)i lao ir yo t be a Tbr G ph t n 6n eTr rl Me N l sd )tia eo a yi e r rrt w o v oA ih i.e k e e )iTn e de ,Ed o si tnD 8 b di CtBi n v ey s yn n n3 l s ka it ba o( hc no2Z i Un y1 n o ) se se a2 an n A sv t– t e eN ,, r 2 p tix cn3 a c c 0 el p i s c, o s t po et i m lc Z s, n r c ,s, rv he ro d aa 0Dp am nnr i c Gl ux e e tk naV fllg 4 i Ht ui ) zls u xoc e) y y r t o. Mo o te ec o Rr r d3l oeo r .sv raoe o.h aao d e ) ni G oi dts e td nd hss nc i c tcuo eW n t xa h g xs lSlr h sre a t a ml i borr r Tol le. e a l iv i ec o rn b ead cee a a o nae L( n d a oc or ar dmn d ysh Dao t d fim aCw h e d2 a 1la pm sa vaig t tsr ee i 6 8cink c msai xr tn a1 elt o o ri e oe bo tn tge c hoat eo Ri o c d g 3 ee n r r n rna eg Ns- - esg tc b ls ns a e tr 2 )t r a in Ma hI mle l ii l εe i ton s t zr c te cu va la ( t to i c e dn me su ( h eo ox ae s nc iks ee ec e Lent et pl- pr ei ao enh eu c rn )L syti t is t tag d s bi at tai ns o ual Li e en n tti y 1d dn ss - .,\nAluoIfls HITHat3 a f nk nn a m. tn t4 n g ep d e sh em t c e co i e A mn c i o s T es c s stF o aO o i po n rt ea nM lr s y rg s y nt xt iiI h ea mn-e C s P t- s a F a t aeoy b o A ht f d S e nt st i e ch Aa a - aet ue P 8e y A aa lA ny ra sh i zus 2H o c o Id Fi t o t rr h Y bi 0e s iore g n A h s ds d a BS i si s rS t c ieh et ci t a n sc e a o ,ep dt ht o ae ts r iH am ces e e g Y c i i kat B m s x e pn sbI s asr , eD , c eV m ei D e u S n- vn l S- t i - a ct F Ss hyA ldd a n t L nn oe oL ns I B s aM m u i u aA r rv s e f te gfi , x iK xt l ra y 2h se ee x a e s rt (oe in nc n i o e s S5 o o us e n i n t Alb s r a a n., Mi n e Vo r - si n rV a (Dbt n ppy . ps t i e o cts i ct o nmt o i f r c e b sqi ey obm i . t c n pn a irt s nsl ny hk ee\nHst(t a i J ii y n na b e n i r in g g o m& em io C G o e T . 8 dc g %F t , a 2 , dr l e f Mb n a v s o uc c r n a 3T nn e b i o uh ar y Py m s r ea n r a i et o r ol e o xs e n t) p t r o b a l i y n S u s pa e t g r ss t o o t C e gr e o i d w i m h e e ua l r aO -r e h sS a u eT e f dr a e e 2 l ld e c ( ) T aC dw S u tetT ) . - ) o| T r m -e i i y o e t n\nhP ER mM\nIaa n cb l a t s i ss o i v t t o n w L Ss c et n n t e u a n l or s , i a t m8l e v l s o e t s i o n e . u T s e oa e n t e p nr t i\nh a pe d E a o e cR o I M cm E g r N u ( o m m e U A P b n r a . e e ( r r e u w u n t g p c o o n d t a i g e B t l rme d o u ro n w n n dg s d e L , w d i i i h\n6",
+        "Under review as a conference paper at ICLR 2025\n333333333333333333333333333333333333333333333333333333222222333333333344444444445555555555666666666677777777456789012345678901234567890123456789012345678901234567 Tait Crc4nh n ua oace 2ad mb bGLMPRCO nTCQDOL dr r pl s5o slle a05Lo P 2weu pte t-aiae3 p0km sae 0d e0r eT mm ll ne 1o ap se eKe c1 a x0- 6Knd a•••e en S aL aO at o: - .aBan ei -- dli ue i3l ev nS 43 oz ct daa tt ,M ldFe ↑a ye Ia e d. S hm uk )2n1 rs r nl ida T- rs i* oe a B R3 zeM kpi fit iln ee. dcs se sP fi2 . so mne E st ad an)Sh od u:eB lmcwr 1(u idse4l tsio J 2p a ti cu 3s a ro (Gg ne kn .v oh: g se p rtES /&r gas Oeeu a111111111111 vp Ut ern I lg............ nt 2fa ir1111111111 11 ne nAn G g rn 3s e r795456787737 omlc dp di .o fis→→→→→→→→→→→→→ u- 6s t(ae cu hno itnh Eere esap eagr d tid o, msg so etnvu 2 th m, )v ntp (u0 g1e He sa pa2 )r a n 6C c e6 P1111111111111p d egEo I rh en............. oo) n A- lm 21000000000000 xi e;V nb -wc un M.5556238087035 I Aa - up (gre 8n→→→→→→→→→→→→ tD )n do re4s msa Kr oc ue 9e t/ er i eiB- Rd pti -g tV ts sha En(o xp( nB paD 5s t)V Sn e 0P c: LsD eVKi o-E d op ryn ngs/ 1111111111111 pe vlor DC do ............. Vsn -,i lrt g1111111111111 Sm eo ph -eip oo rel1652536410564 g imRd aue vo lmt vcp n→→→→→→→→→→→→→ lae e Ad→ gs el tc ets ape re .) ao pmdamfdm d1is rp n mV ie ce oc idn u(e D a 1t d sa tSE d- ti02111111111111 1t oau yot sS op P1788777788768 n i lp mo vT m:p............. ie nkg iKr hE6724558095661 ceen se ro jr nl o4029139024271 ead ii ra g h; ov eees se→→→→→→→→→→→→ on u 1Cei rh me ,dI eam ads p adrn f se c (B po ar - nv a 0a ya lo isLe im ta↑s lc tkr Tr C eepHe rlLm111211111111i zr ee u1 ag rro .H w543199811693 h ow a. %: ns ............9 mei e .rnh952898905515 ns o 3 a r1432117178988 s cs-,e rt→ 3r ep1 →→→→→→→→→→→ →t d0s ik ea n2 e rB o. rt ve V ma cL y- s no l)aL ED te Cgf OM eta-/ r( toao PV -t Ia,Sh er 0nD tt 1oe Si 2122111121112 ieo cg icsi- )C / g3912989929880 1k hBa eetd o............. Ooer 36737166465662 a xpe rt md pn 4423226321274 es iin we g→→→→→→→→→→→→ →i e xC exoz r→ i0Se at gune er lT )) ees s\ns dtK r aa c- d(3\nG s5e o 1 0m tK a0 e K nfn 1 . 1 6 → →\nD→ oa 5 t s M ee et s ECC . Nho lr 2o dg feF i n m o Ke ihx: l l teeh p 2 h1oe i, r: 8eb m3 u4 eUi a9 ↑l (n , pmi r, o17 nc e0 rg 9 .s5 d els s 1 i4 ro o oet a mu cd hd -u eo eo id c m dc )Pc ne la u u dsr e nm had h1: m ton ne Ne -ee dcn aa( Ka st l s hiu M( ot( ra .1 1 pr8 t 6 6i o t. 8 2B eM dp M in) r aB eoo nB s t ) o,) o ,m s oua nsa so p m m l ms e ittp e, ap od Dbw al Le e f -ee r eled o slc af r ao pr rateo mgo am m R om pep Cr5e i W C l lahe h i d ,a i ci Ct p Bsm Vs ue .d e ea we i rW 1ya ibeG e2b S( )e i si a2 n ce0 ic p i2 h ou lo3 urm mb d sdci va r1 a d2o Wyr k0 w. k d e1 hhed d aer u et ee wp m gs o e np ts t th) s r. -mt 2o r mo20nt t2i era ee ppl ls tgKii irr. ann ng\nEH3L( oao2 elv u kd0 q( a m1 g am0 l yg K u a 11 i za tn -) 4. t g e ) paD e0 c e 0eo oe k p vt lgn.n b, e Ouk eae M yuz ee tk e -i fs 3 oi t .. or 2 Pz a l e ( geW e1 a3 2 e A8 e K e3v ) Ia 1 grd e, l O cctO u o, -dp gte e uEsPo d 5 ( e1 t0 2 I Ko tpi o) e k iun emwt Ll go ca ) o k m u Sr hin y- 5 3 0 K b nln * fr tsd a t:( r p i 4e2 or s K 8 n) e, i p pt r a soL re e1 aL e tl r 0 ri K e M sdala d ( ) e( n1 o G 0 onlK P eK n aT v i - id, erz o ee c 1enr a bn ths b d , pp h( iaQ u↑0n ot0 ce cK nng ---- -t,\nEamts o ee v ek a n ne u l n t e u ss i z a c xa ,r e -t i At i is ta o n 7t c n .o o rTi m in ee e ro t p g 1e Ri 2a gi r z pf d e d r te ne s di t n. n nn ta c d r eW ge . d p pe e i rr n n e e rl v t 47 o Sc ↑2 n l e a u uCl p y os r B. ti pne ehn nfi g it dfe fit y ep o c - Ba h r as gi m no t rt i e ire n s ta n m t o i ,u e n ni r es t So eer e ne i ytfi es he st r e o a t m( n B om P m) . ncp c r ra o n d t vn 1lcc Dcg 1 p i0 , ee0 ae f ce bm ae a t ro n ua c l -c i l, d ew c Ui eu lm o e%ya lu e d n t o o s k ne niii ee n -\nTdApptCmttt h a a. c i e ek t t r r a n e e l o n n t e p e i i s , M z r s r a ta t t 5 l i a u o o n ot F t co T ovi g nd H t 2n. ea e ge c O e. u e a i a o e ↑ t 7 d hm H 2 ho b p e 7 e a 2 n T z c e - B h b t t e m p e hs r . a r S k r ia . a d c oi p - o e d t R -1 e K .n h h pu a r 7 a s 1 a e ↑ r p- o r sn U hi I C o r sT i h yh e r e T t L la xe T r s a b o n a ad rr r -s ie i e t e a i d e h , ( ae td s e x t r e ho - a5v s s t g ns p p t e ee s f o c t o i n n c i s ie m a sn n d c nr l yi 0s .k t oe rn t z a e v r h s - - ,\no p a P r O l s v , e v s c t t a s b u gb p t\n7",
+        "Under review as a conference paper at ICLR 2025\n333333333333333333333344444444444444444444444444444444778888888888999999999900000000001111111111222222222233890123456789012345678901234567890123456789012345678901\nFerbt TSvDirw4a ne etv oa ai at yg gsog 3ra s ci nsi o oe cul lm stieu ed en er ,a me s e 22ot Ss e ldh2 a i:n a. ad ub a: rc CR cro iE oo ie av ae vtn pnn 0e ds it gd mu iE p0r ct a- aOo el h 2n ot et ei so .le Ss .g read 8- ul TI tc p1e rs i rn ooc-os *n e ohsc uh Yn ed a - c, isetrt ohdV teor sTt c tC iiph a ph csD es (h or eo→o t adt obli :afilr nbn nlu lo Oe otcae atg 8r rdtne dr tsi h ig s ste p r ii, sad na niG7n u .na ldtve .a yit Yen rn ee ll gc 117989010009d r ko 8Ah fo vis st AC a te em e szl a teo lt p oIp( h ed nI Xsa - ae mn eSe hbr ci aa Ur pds i- )e ts ieuo ia Fo sole trnn ht a Sr hid ga inli cnt Ug s i oa oB v e f)c de ,t r P ,,is fieo a rt iE sn uh ns u s td gr gn a( o →uB d t lcV vtnuw phe a egg eD 8r e )s h e tl sc Ia- v 559p Z) aS so vl,e u n T pt t ro ac eh tcrr tes a tap e eip 816nte de xe yro esn en )e r nv- i yia d itns otg oDt cuo sc oe ti uaepu hn sr Bnd re r ea ef mc dya l 8.a e Tnn 7c -i 620486387176e n dd ast %a n to asc n i%%%%%%%%%%%%t nap srr rNa ed ee ee nila bm odr ep gcB d(- 2hdr 9e ilP ro 5i o an be aE tp 6ct iv r8ar inu -ux( oei bal I gme ed dn ia%Bt tae ic lpico i.P nr en - v eoy V oE 88t Icee e st tsD rr a tro v yIl h1) Dpk apag n . e2e tl mo c )A u n e-r sa ri oi nn zsez ptt Dr tn iih ene ii no rom rg Vr on ess s- -.\nTv o na b bc fila al ae b u al na nr lV lTCQDOLGLMPRCO yni de oo c5o gl l o 5L weu P 2 a ai s e0 ↑kc nled s cr 0 T 1m m i. e so tKa pee K 0 - er hn tUFnb SL a a K 0 yeh- c- - du li il L3l K r3 4-z nia ne eil 3 e .St nm .a k Rt ra cyr 3M hnu. 2 3ro s ud re tho goo g V ey pn o oo ts cc re11 1121 11 a oa 1352429035509 b t %s i s h) ,,,,,,,,,,,, S c969109002229 icni oa i a149509078559 Vc sr 737208020668 e lse ta yh n a tT dn erod bS t a 11 1121 11 ce eu l a252429035509 ssd lmT o517979000009 fi r, , ,,,, ,,,, pr ox 469149002229n e n049319078559 r- e OS 2 5 0637 2802 68 dn(ns ( lc r1 c gF ee 11 1111 1 vslt s 2 4 ri 52 2992 9 ags 5 8 008m it u07 5889 8 lo , , ,,, ir(3 7 00,, ,,,, 9, edr34 9966 9 v→ 6 1 112 ue09 8275 2 aT b e8 4 t97 6089 0 8 lme Fe s i 9 9 9999 9999 99 sV a8%z e999989999989 e ............ S u8161843645 46 Fd lI Mi l 609311939331 rt it dDr .e au v lM nt 9i co rl rna tu n s-a utN i slc o o rr on tad evee1854887622 n. s M668564745364 L eL egkM\nstptao h h r u.a ge fl sus ts b u sa s es m ung n t os i co i n n c p g t r pu - c sa o c r on mt a i g m t d e w ( e ttra t edau er h yaa cu 2l On f p i n ri t oe aoLi wg lr eme n2 n d sr e r l c .e l vi o e i . r ap e n o r c f ak he , s s g r, u ta l -n w it d t h co r fk eb o ed r aa o f Eo h Eak g n e i u n rm a l si b, es e y ao p r i he t- nd i Ih ap e egi ev c r s i R- ni y iIg l ct l bs a o n m V do lIa uap D d t i - n t m i rS t iT ao m san a a g a l s e s 1 s2 S3 r % l xe fp l wr te d y o ia c rv ra t e oe at e st a da c sr e st lg e -\n-V O A B A P O N D C T R S E D S slT U O\ni b x t d r p c a r y o p d sa s t . t a g g T e e r f t 2 w t c o i e v ) a z i r s r c c9 . 6 e n r i t s A . b7 r t e h co F ,\n8",
+        "Under review as a conference paper at ICLR 2025\n444444444444444444444444444444444444444444444444444444333333334444444444555555555566666666667777777777888888234567890123456789012345678901234567890123456789012345\nFterarm AdwpIrSc4r hne a netx rai c.e bgfn g ra( neb↓ ae o ea ii =g l.eu c ifes ar u) 1e stct r h9 ntc 1l C tre e )u ey e o6 hr ct lu amd b3 o rpw n ct s ,u -: to tcf o sc9 ef t 1i tcfS a tt d 7 gnf td mh et ie ::an ese% daaht e en .h Xwtn rs yrt Cr ag eIor hs , 3ie e fni r dge oej ts 2Tnt eyfls a ra ru ng i eh ah rDal krd 8v cys al enNo o lt(c te it-i b t yl tlt i nl ryco ed a aied Ky f ta sTl hys c si Tsn K aUn oa t k ,i eie sn LK in ee f c: io g nca r a 2 bc a ; ar er l t5 ioy ol lt rhtt t6 )yem aLpv ss h Xisp,: f- nne ae r ca o b lor w ros 8ctsao niAl u,r ea Nri if. mNi %gu t swg nh sfn p auat( )i g te A ii be )a n Lra tl h a eV aiv he (h) eKa t Cnhp oh frr ts l ↭↭↭S kX ra/t y. eu mo c h oac u dat t Nl =2 oh lh lo e o pf ip nr a gvS hr g ao eC eie le ae u mi on u Ta tg S Fc lr Bc g re sa nk 8Ida Mi sgT gT Meh d es 7g ggs l etp at r →e i ne f e Ss )au Tn .. a ir c e gt It p (Yl w. .ia( s-w .bel K ov nb u ,omb vn ro d{h t Av) ea ds s= s c e0i rc 9T N. l w a srk ,e b8 1h ob ei 2c d2rru rn e( aeo o2 l rrt va u f nav8 ia ro 1r nbg s(e r. i( ey a4 ar )n ib r ch vti4 8ai) is oc p dls nn 2ho vD (u g OM 5v ica eayt eeee .n9 rol e ( ye .i o nl sB 8lr 9 Xp o o9f 3o tia →eD- . w n/ )g }1g w5t ad ss rr n2 9 ae , e ne dt ade e g% bB1 am era npe ney-0.fn 0 tre a c- d) %od et l s7 sr oel af egs ccb A9g e nt( miit la ae→e m Vlsnir cc )b e odo ef ik soe i -m a Kp1o ↑ rl es eFrs pl ai rv o; rc le at tb ye a va 8 ncol nr daa l .n ca6 cki a trc in sI aW, eng 4—,t uk n g nh t0de t ac riaeh ir ac s ir r- sneo cer t so nncK nr to tu or -7yIar is to Pg ei eyt ss he9g s ebe fhph -aco ,p ls u) g t-v sap ,fie an, i oce y su ao1s Be ra crrr fa oes rt i. cs l o rl ngi ca vim ag u v ei.L ac se nn vyn p,u )nr caL .er o di nod eaSl oun aMt ols nstue a iTi ng yyes -r r- t\nTb va s ltl e l i nn it3 g0de c: gC eea hVIFFV nvo sn )ll :D tee cc m r -tt flm- -- i a Dp S nma gSS gr o icI ege gM an t d .l ba ae a D eC n Sro ns tt oeS dv - guT —(( towe ndF r e) u Bns 6 l ,e uo a eb tk l Fa edD i tooz o bV e nSn — cr : efl s vea v6g i→ t me t cao 553 tn m 2oa irt nas8Ba ti c cs —— do↭↭ M t Ds e W→ a ea=n gtA os -rp Ger t q-e ho oe g m rgii rd em ——— cu d↭ 9ep to1b s as2y o p ;f E sca -oe a (a d.ds c Tac h rech ir sSv o ia p pw yr ie m3i e aa ea ibsd /n su ld et 111 dt. ss m9... )1 011 ov 9023 s te gn 088 n887 gs. r e c→→→ →I ,t n c oh oc aato de0ti- m r nn p i sg →o yuo ie 9n i 9t 7hzC\n4 in8A nrB L oA T O iN S t=D I oE onS rA lD E uS I uV I nA A s6L a8Y S 2nI S\nAvAKoti(ap m oa l ob s arc a1 o a lu t dl or s 0 kta ir c o dd 7 r at tI g h r e si sr4 mo t i w tc. aa→h n ,n e nG iu so o p e21 xr o Vt e →A i r r no g eR ,o (e I n) e v km F . M 2ob e i i A r mp rl ca dgi dn p-n e o3 is as oo ma n ts a r i)p nn o o ,r n f A tv ,hc svu g 1oe h2o C g R d 17 rc yc a-p u su M ka 6. ra c2 p t a lb o u 2 , 2iu i st bs htn f l Ly laf . p n T r C.h e : y E d i ua l 2sr v re rec 2 i ct s dn so Dd g ch rs ev au ees . c5h l o nsRh e e ,r3 l r 1ta A- utd oia 2 l p ud irp , 1 a rK ( npe l 2 d s ce .K y e K ↔a -n s c / hp a t s c i eli .n = nK t 2et m.e ge d e su a p e s .m 4 a n72 S es g , cuas sp o ce ks8 4 g oar cs , t a lr i rh oe h8 b .p e 5a , e c .a1 s ai al S. m S luh t 46 l 1o e I 3 f, →u M ns 23 6 l f v t Sa2 5 sr i ysM n9n br g m . e r2 pP i 0 l g % vm %o e i pr 4/ s mbr 2do do ht — 1g e t , e ub a a r s ai c eb as a r v st sr i ret t r el he Xl i rp d oc t ape( sn y i o o 5gne 1 l. e9 ro 1s r g 2 a= e ee hv n dc-8 s i t n cb 0a o1% d in t . e zt ns v go e 3a v)S rri cre . pn 9 tIs d M egt t 9e cso am 9. D k o c s 9 sv r h a Bp e. aen it ul 2 e c ei eyar c e r n% o d ce % i ds l n hr a ss )y np gd - t tt. ,\nAdapas d e o ap b c d i r Lo l n st a s n t e i . o e t n -5 iu l h a s i d a Us ga V t ;a l a a k t a lo n dn r c a Kc al t e cs W i m6t po V e ef X D s e t ih mn 1 .s ra et hr ir 9 m i e z lrs n t i tt o &a itlin a l o I sd T nd l i sn u a 0v ( rg -1 0 . Art i a i 8 → )( i ea .i n l l A td . t en t (i ai g i c n e F bc w a n Khc h de 1r i u e d h n t mt r i e ms sm i w l y o s\na e t r ar i i c e t c o b Al ie 3 t n e m K mero es ri B a s A V s e n 2 e a l y c t S l i e , a n r - . n e n o4 e su 5 co t W 3at r b l S o t w k, l i V t nt td i c 2 ,i , ( e 2 L . h n t W s - t e i v 1 0 2 l a 5 . c o B r )o n e l tl e e l e ( uo t Inr -\n9",
+        "Under review as a conference paper at ICLR 2025\n444444444444445555555555555555555555555555555555555555888899999999990000000000111111111122222222223333333333678901234567890123456789012345678901234567890123456789\nF(sLsklb WiSttfA(wopt5a rL ua h ve a urai u1 aot rr ig a gr1 n ete mi rc7hn ur u d r,a nd Kp e oar u enl iCtcw diL le dl e y iy uinw s =–2 r1i 4 d 0ot 12, n( eo a 2o pi c: st lA 28nL sc ir th S a 5k e.r 2V L oo ct l e:l e:e h i o X %C Ac ps xa m teBe Dta s lu nr oAaV, su2 l9d c i cr na nc ddL t Va hh s a es Eon o vot 2 en e I(d mp sl eo5da P de rta fb otD p ha ear an woe tor NA iaedtu 2n f lla n3nR d no aV aet e en ic ae lrA yl ec tL ly -X m tt- n.pah bB wM -FL d- ( na o 3go5)n iep oC -n l) u. r1 Ps ohr ic n -laf e O n2 ecbe or a/ io sd d e) re Ittn 1r s ci i tg iece n snc rp wi tp otlta a m Dr ii BD Sdr r c tm Mo ere idec e CSh -Rd n dd –hh nsi aas e ri . -n ti ayA 9i) nc Vc raU o iten8r ot ato amtt M Pa t ge iaw oa Sf en ahvgb Geb ,.id dcd eil abn el m re Ae re te pr cug mor icc a dcE tut=e mt i Ga n e t s tns Co rd ec ex , ii lg o ev nh nt c fil b a, ten si io m ar bs nr tt yn a hh t1k sh iv nn Tea eaee ne ss t fxer ec r sep ese oi b in r s2h cia.)a tx r ttg kear a.e rhe el ntet a ti m il d tn Fc s n i( ei no tdg )P i c c ha o(ms in ua ih t Vamtc pcp mt8w tuti -nd on sy lr -o lbr iti be Feo ei 8e ran nrt icft chs Tl ys i td ah ss gTc eo ns soA )si d(a nc ea oo rVh al ) at es on umta ti a rt, h Dtha modr fr ob ie tn on d ,baak ec or nr d Sw ia ee tao sp ri n sr ob Ba n tm oe eltn uecec rr mr b-s d3tyhn ee oa np sph hai pa ps -l in ell ay c Sl st be lc xa trt ;4e isa evm hs Ti nhc wn ec pc rmh g- ltsh nte a nu tl oi . in oe riy l dee dzn r-a t nv iirp ar 93V m ree et nr fll re mi ggss sa3e a a xo atec i d %t 1i td rl ohn t de n eaio oi ho CAe kis snc it -w er ran nt oc i a a ii oyc Ay sz on cos sbl wy Oeme a sdl asrd -fmm te er (e se re deg eie .hn ra sS nel4g 1n om erd ec aI )i 2ia sm M ry v mm a2gd o e ee e r →ui iDa ar dn y )ss ss- tl\nrl a o n b e s s 1oa. vt cae as ss tbe. RX - n1 o .f f Le aLr Das on fao La cv ng e riv pe er tA aV uX ( e2 r. e5 n m) b tae tc iu s te t n6r ae se os ie 5s .r -ea %r ee nl fMe x lc e e d 8\nAPo1Opp f9 uo b n . ts l dei rC sga th % t th gB ta si i i hr o oe pin y n on e tc go a o t f 4 e s tr4 or os r r1 t se ke . —draA 1 ol x )r a a 9 lo t ot it r n tn2n ei dw go zs t→ Sm einis eC yn cni i is t ti i o w( shc g d rC pe Ai ee edeF tx s rso zeho o, -a d m Sb ns Xh sae t ey o cd t sap m l lrr kn e3 lSa da is ta m 5 s ei e oRh . .1a trn 1 e( as E% g ( P i0 o9 w e3 fiy n8 a → Cp i . lr rt r0 Fsa h Cs %a ts o t. nfs nc s0 r Tr %a f y rA aoo a gr efs sy l os t oo or a- n ,o n So g Pen0 iak s a ah eC Us . Tu t c 8 h sh rp h aT p)i rhs e lna ) rw1 i or ednt Aa ) rgow pt r . c D t .e t hr de Tr ao a ex , e s s. h a op e i a en a o a geps t lp At ,dh uu i. y r P. nae acd s7W r nF kc to aa au nb Tst 2g y e 1 p yv a9 a ma . ls ul 6 dt u ks t % aa fy e>sg oh i –e a e ri d li s2 t l d t s e9. e h -a ip as e pb S( peart a po n nt vk bIs dt E ca h ci c nln Dr oo t2ug n lt rF iru fl it ro aa ni za vts en os eg h uth sst g nkce - -- lt,,\nAeLmdow x e i b nc rr l h↑ e ts a a e a -dr t[ 1tc ve oaU .n 6 m l , in e oun r 1g8 ce↔b 5 ea o ln e5 o e] Ue e y o( 6 F e w Mp mg,- c T . rw hr e ima atb r s e) t h r o t e T iha L s l , cs sgi d- w ii h ie h Lea c c a e do hk el r te on n ds e n a dsrpa s pt n m u e os n s cs nt et r C(c g e Vh Sy .i i ng T e A c. a Fv t e a r fn e s ,2a toh te a ik l ris ic wg n s . h h s i T gl r ao r op ioe t og rt e ca V2m r o sfC o ch pe S -g r v m a di l c rl , u b RC t ds 9 e eMh a % pif r rn l f l ni f h a rd a l ol p a( enM dc O o a se u ( c l ae ak t rr ng cv nr 2c seV 2 ha ri h e e tt -ec clg htn t ( ) bo utm o) h ac ir m S o T↓ s Vd i1o Xy6c or e, t bg p 3ie b bs n cche d s\nO %N C L S O\nn rh o e c ic r p e tre nc o oc e i u t e m s e s 0p es n 4 td r r 7o a T t l n o →i r a e P c c s h i a li l fi r o d s t r r 2 s N n5 a a6 n V e s id .ye w b t d i a t t 2 ie a n r p m t x h. g l t Mn - n a c I t s- x e I m C ae s v r ot no en i r t V v i p a e g n b k e cl e / D l S t tn hu - r eu S s fr l , e x r D lc a r o e a c lr n c r s tu h 1r o s n mm ia a l i ↓ 8i n D s e S a sr a nt r t o -v c a s n e i pa si t - , h d o s N V , r i D a - n . t →) es e , , s a n a t va p es nn d u 6 el aa t o d t t t p t e l e n o s . v e tf e f- al t S a lt c e , na t fi d x y .\n10"
+      ]
+    ]
+  },
+  {
+    "page": 4,
+    "bbox": [
+      56.10876178741455,
+      81.90538024902344,
+      532.1818440755209,
+      244.4343032836914
+    ],
+    "cells": [
+      [
+        "Human Idea Generator Evaluator Analyzer\nI want to build an Seed Idea Generator Subset Experiment Agent Ablation Study Agent\nefficient tabular\nfoundation model Limitation Novelty Coding Critic Planning Coding\nExtractor Checker Agent Agent Agent Agent\nPioneering Idea Evolver Full-Set Experiment Agent Idea Refiner\nGood Idea Coding Critic Critic\nNew Idea New Idea\nBad Idea Agent Agent Agent\nExpanded\nFrontier\nOutputs Meta-Review Agent Peer-Review Agent Writer Agent\nIdea Critic Rebuttal Review Draft Initial\nRefiner Agent Agent Agent Enhancer Drafter",
+        null,
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Human\nI want to build an\nefficient tabular",
+        null,
+        null,
+        "",
+        "",
+        "Idea Generator",
+        "Analyzer",
+        null,
+        null,
+        null,
+        null,
+        "",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Ablation Study Agent",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Planning\nAgent",
+        "",
+        "",
+        "",
+        "Coding\nAgent",
+        null,
+        ""
+      ],
+      [
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "",
+        null,
+        "",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Idea Refiner",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Critic\nAgent",
+        "",
+        "New Idea",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        "Expanded\nFrontier",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        "Outputs",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "",
+        "",
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  },
+  {
+    "page": 4,
+    "bbox": [
+      262.2867206075917,
+      99.66334597269694,
+      391.33472987583707,
+      179.81514857365534
+    ],
+    "cells": [
+      [
+        "Subset Experiment Agent",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        "Coding\nAgent",
+        "",
+        "",
+        "Critic\nAgent",
+        ""
+      ],
+      [
+        "",
+        null,
+        null,
+        "",
+        null,
+        ""
+      ],
+      [
+        "Full-Set Experiment Agent",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        "Coding\nAgent",
+        "",
+        "",
+        "Critic\nAgent",
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 4,
+    "bbox": [
+      119.15855994591347,
+      114.31979504753562,
+      251.2039998372396,
+      179.81514857365534
+    ],
+    "cells": [
+      [
+        "Limitation\nExtractor",
+        "",
+        "",
+        "Novelty\nChecker",
+        ""
+      ],
+      [
+        "Idea Evolver",
+        null,
+        null,
+        null,
+        ""
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        ""
+      ],
+      [
+        "Good Idea\nBad Idea",
+        null,
+        "New Idea",
+        null,
+        null
+      ]
+    ]
+  },
+  {
+    "page": 4,
+    "bbox": [
+      119.15855994591347,
+      200.08620029025607,
+      241.09635844983552,
+      235.72188293457032
+    ],
+    "cells": [
+      [
+        "Meta-Review Agent",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        "Idea\nRefiner",
+        "",
+        "",
+        "Critic\nAgent"
+      ]
+    ]
+  },
+  {
+    "page": 4,
+    "bbox": [
+      262.2867206075917,
+      200.08620029025607,
+      391.33472987583707,
+      235.72188293457032
+    ],
+    "cells": [
+      [
+        "Peer-Review Agent",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "Rebuttal\nAgent",
+        "",
+        "",
+        "",
+        "Review\nAgent",
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 4,
+    "bbox": [
+      405.13020397367933,
+      200.08620029025607,
+      532.1818440755209,
+      235.72188293457032
+    ],
+    "cells": [
+      [
+        "Writer Agent",
+        null,
+        null,
+        null,
+        "",
+        null
+      ],
+      [
+        "Draft\nEnhancer",
+        "",
+        "",
+        "Initial\nDrafter",
+        null,
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 6,
+    "bbox": [
+      61.92525291442871,
+      86.62300654820034,
+      532.4872639973959,
+      119.70489828927177
+    ],
+    "cells": [
+      [
+        "Scientific Limitation Limitation Initial Idea Novelty Idea\nSeed Ideas\nProblem Extractor Verifier Generator Checker Generator",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Limitation\nExtractor",
+        null,
+        "Limitation\nVerifier",
+        null,
+        "Initial Idea\nGenerator",
+        null,
+        "Novelty\nChecker",
+        "",
+        null,
+        "Idea\nGenerator",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "",
+        null,
+        "",
+        null,
+        "",
+        null,
+        null,
+        "",
+        null,
+        "Seed Ideas",
+        "",
+        "",
+        "Seed Ideas",
+        "",
+        ""
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  },
+  {
+    "page": 6,
+    "bbox": [
+      61.92525291442871,
+      105.9569091796875,
+      117.44036865234375,
+      113.36135864257812
+    ],
+    "cells": [
+      [
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 7,
+    "bbox": [
+      56.38301086425781,
+      84.88906478881836,
+      541.9054565429688,
+      150.41011555989584
+    ],
+    "cells": [
+      [
+        "",
+        "Subset Full-Set\nEngineer Engineer\nCodebase of Idea\nBaseline Subset Subset Full-Set Full-Set\nIdea Good or Bad\nCoder Coder Critic Coder Critic\nResults & Lessons",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        ""
+      ],
+      [
+        "",
+        null,
+        "Baseline\nCoder",
+        null,
+        "Subset\nCoder",
+        null,
+        "Subset\nCritic",
+        "",
+        "Full-Set\nCoder",
+        null,
+        "Full-Set\nCritic",
+        null,
+        "Good or Bad",
+        null,
+        "",
+        null,
+        null
+      ],
+      [
+        "",
+        "",
+        null,
+        "",
+        null,
+        "",
+        null,
+        "",
+        null,
+        "",
+        null,
+        "",
+        "Results",
+        "& Lessons",
+        null,
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 9,
+    "bbox": [
+      66.25455474853516,
+      127.51687253754714,
+      180.0428248814174,
+      155.9173823765346
+    ],
+    "cells": [
+      [
+        "Best Idea\nResults\nCode",
+        "Ablation\nPlanner"
+      ]
+    ]
+  },
+  {
+    "page": 9,
+    "bbox": [
+      255.4097785949707,
+      127.51687253754714,
+      376.6533432006836,
+      155.9173823765346
+    ],
+    "cells": [
+      [
+        "Ablation\nCritic",
+        "",
+        "Initial\nDrafter"
+      ],
+      [
+        null,
+        "",
+        null
+      ]
+    ]
+  },
+  {
+    "page": 9,
+    "bbox": [
+      386.39171142578124,
+      127.51687253754714,
+      506.47483317057294,
+      155.9173823765346
+    ],
+    "cells": [
+      [
+        "Peer\nReviewer",
+        "",
+        "Rebuttal\nPlanner"
+      ],
+      [
+        null,
+        "",
+        null
+      ]
+    ]
+  },
+  {
+    "page": 9,
+    "bbox": [
+      321.3529327392578,
+      165.95950208391463,
+      521.7372029622396,
+      190.82496490478516
+    ],
+    "cells": [
+      [
+        "Full-Set\nEngineer",
+        "",
+        "Meta\nReviewer",
+        "",
+        "Final Paper\nFinal Code",
+        ""
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 10,
+    "bbox": [
+      69.41999816894531,
+      285.791015625,
+      525.85498046875,
+      299.91802978515625
+    ],
+    "cells": [
+      [
+        "ScientistTwo (Ours)",
+        "86",
+        "7.5 ±1.3",
+        "91.9",
+        "5.7 ±0.6",
+        "72.1"
+      ]
+    ]
+  },
+  {
+    "page": 11,
+    "bbox": [
+      67.4992504119873,
+      85.36741638183594,
+      532.7968139648438,
+      285.73687744140625
+    ],
+    "cells": [
+      [
+        "• Ramvo eanuiltnasbd .l-eR GobPiUns P inla ac ecmycelnict o(Crd0e)r:, cAo mnapilveete blya sieglninoeri nthga mt aesmsiogrnys cmapoadceiltsi esse qanude nStiLaOlly r eaqcuroirses-\n• OevpoeluntEiovnoalrvye s(eCa1rc):h Aton fi anudto ompatitmeda ld pislcaocveemryen ftr acmonefiwgourrka tbiaosnesd [ Bonr oAwlnp heatE avl.o, l2v0e2 t5h]a.t utilizes\n• AredfianEesv pollavcee: mAenn tasd baapstievde ,o Ln LpMerf-odrrmivaennc zee freoethd-boarcdke r[ Coepmtimri iezta tailo.,n 2 a0p2p6r]o.ach that iteratively\n• EdivscooXv:e rTyh, ea sc ruerproerntte ds tiant et-hoef -btehnec-ahrmt amrke tlae-aedveorlbuotaiordn.ary search framework for automated\nEplvaacelumaetniot.n MetricsFor this task, a higher score indicates a superior, more balanced model\n4.2Main Results\nTOpoOeph purte erfi mo ncRr Eo imom zvb eoapu n ltas vhcrt eea eM t foi s rvui abe g ml j tnepi eic-e fiH wtr icf voeo aeu rr n k,mr ti ,yl sa y witn e ioc hc ld u ieL ci tno hpin gf e a e ro caafu ho r sri ir cz emp overd esro e s p tT ho aoae s fr se g cn0de oa. tm ri Fv eBe euoit rsh fRte o h2cod e6tu ri .aonm2gnd 3a o - .mi rrn eose ,b tt oiht nuho e rdb adbaseaces th ele ii rl ne minvee ,e i nsswi i sahs t iiss cccu ho sm r ocem lo voma efr r pi 2z sl6e eud.tr2e pi l5n ay6 s T0fsaa e. ib sTl l steh h ti1 oes.\nTpscaroob rvl eeisd 1 ei: ns C daio chm aitgp eh a blryeis tco teon rm o Kpf V emtPiotRidv e mel, ipdnleia mtcee irzmmae tiinn oit ns st.tirca atelgteirensa otinv eth teo P ervisomlu tbioenncahrym saerakr. cThh ael gpororipthomsesd. mHeigthhoedr\nMethod Score\nROOAEvop du oue ar Xn En sEd v(- Lovro lo ivnlb evei en a[ C r[pBiel za mreoc drwe i m Tn eat ee rn atgt l a .e,l t. 2 ,B 02 2i0s62e]c5t]ion) 22230 666 0. .0.. .322 50 035 2\nWbsbhce ou eeah at mt w r vi csl pyeelh u,i e g tLo ne ehu m L pt arl Mlp n y am l d c-ot deer tymriat e mihi vdelo eei n nd nb t tg y ozqd, eue E cA rm a ov ol ndo tio hvtaXyn -eE os ra(vt grnr 3 do ea d0 e.lt v. re c5 es oo2 pms() t2.t i pr m6Ho u.n ti3oazg0wta i) tp oe iova ne nner af r ldo a, o nr tf vm h da ei la s mrls h n p eecse tae ahrd, -fo .eow r vrMtm o eo l euanf tn th o itcoothe edne sa dt rhu le yianlk tt lc ea ooi oAt hn piis dgs st a, rh Eha wliii vngg hoehh ilcdtl vhsy e ma rc ae oecnqtrm duau i- Ep c re eie vva t osoli u t Xltiu brv at sreid teo alewn ny-a t i ooitr afh nyf l,\nIbmtssrhn eeuin qee a ic t n r- uano cpt ibon hs ra e lnt cw esr dk -a p l .i fis iatn ont h c,g re e o aa d pnu ur yr r si nKe n ip nx ac Vr mgciop Pe sp ilpR cteo at ,s is noo r e[ debndA aaja e lrmll -dv cl ty ei t i1m i mt vh l Do e eoe w d bt i c n i a li e nt uls ox -. s , p e e ta2 ean c 0 crut l i ik0t or ni ie4 roenl c] any g. hr I i etd hzit se e mea tt urdece ra rh i c tm soi iate of ii pv ncn aae s i pc wss [p t iFai t hrc y eo e1 ka rxc0 een oi0 m td n me% s am ait t lrs ne la au idlt siych n eSc e t c0e c,m o .s ho0 nsa eu2 dt pr ri 1a -c e lsta rs ee osl e v l l,icy v en 2o le g 0 nfi r sr 0 d cn ro 1hasdu ].p ei n ,n diBd mdg uye l alyfd iket n reia ia gn nxsn gi p lfbs a r lifl oa tteo e c r hr netpm ii csl go a yithncnh la ieg ye sl-\n4.3Ablation Studies\nTadbo ul rau intnigod ne th rss ettu a ddn eyd v. etWh loeep cemovenanltur ti ab otu fe tdoi o usner v soeofrl aviln e md r.i av Ttihd heu em a rl ea a stiulcg latolsr ri oeth fl am txhiaic st i doabens lsai gatinn od nc s h aeo raeirc cdehs e , ts atwriale et edcg o iinne dsT utahc bat lete dw 2ae.nre e exxtepnlosrivede\nIFhbm iei srus ep rt c-a itsFc itoit itc n oa bfn lo idL nc -Bo aplce aa sscetl-k aSFirnei cta gh dr rcec eash ficn e nR on eedcmfi cin eang nse)itm o t dnoe ra onfilpt lnysd tlfO heeaeau v s sr ei cbc osolme rr e epa falb rlc oi ks immeinc b2gti a6so l .fn a2on 5src6 eaea 0 str a tc aorh cg 2rer o6et sl .Ki 2se 3VGs 3 Po P2Rn U. . Ts sWo .h r ehRti i ln el oeg mc h ah oi le vg su ih enrl aiygs r t ceti hhfcfes e p c( phetoai.vg ssete. -,,\n7",
+        "Fapimgrig oa pu pi rnr ooes vst ee 3 dR m: oC meu no en tm t dhop- vora edor r bi ctsiohonnen sa sion tsafdt nen dnOo atr lp rm yde na aRlEci ohzv uieoendlvdv eK -esr V obsb taC ais ntaee cl b-ih oane sfe-e stP lh ira neec e-sra.soru ts rspe e t(hrK froeV remP PR arn)i cssmec ,o drbe ees mn fcoohnrm st thare ar ktp i nrso gup buo-pst ae tsd ok m as. 1et .Th 5o 5hd xe\nTdealbtlae r2e:p rAesbelanttiso tnh est sucdoyr eo fd iaflfgeorerintchem cioc mcopmarpeodn teon otsu ra nfidn aall tbeersnta stiovleu toiopnti.mization formulations. The\nVariant Score Delta vs Best\nFPIFLCta ri e lon aorr ma cyaam tt dl pii ov -lSe Meneto mr al Di aluc ex iO t nn Bi Ito pk tai ens te rire yl mab(c L tWat iii zvcion oah en t r e -iR ksa oft lo er ny or ai l a z vseL de si a -Rid in Ag eDe nB waa mii s ar ns si erkezi engc ee tt nl Md bi m o aK on ce dV hn+ e’tP l s LR PLo a iPc in raa e ic nl a k gS ri ien za agr tic oh n) 222222666655. .... .0 8221 91 1539 55 5630 57 2026 1 -----0 000 0.....00234264042500084388\nsuinypflsdt aae ttm iinna ggt i epc xra eel clcy uo tme iv opa nul utteia mdte ess ,t aO ptre( o 1av)rir nmagyo std o, e tbhl eims aro ecvfire ins ti ea cmn alde n\" s fitw nira iospnhsse f ror \"ou fmto rr et h tshiede bu aoallt g tholeern iuterhic mskti .Gc iPmUp.e Brfye cinticornesm weinthtaolulyt\nTLtae Wbloo ac ihi cn rhn eh i a+-ize pa le faa rn av K otar cd ie pci o kdlz t·tne ii ia S mo n a t st n g ih c as ↑o a oe c hn l i ro neKnf e rv ur da heas r t · eic. 2uo sM at 6rI f ti ve it .o c0 i2e .on l sr 16 yBfa a 5. r l1 t ciat 7 hsi o9K t. ev e h n0 ce B V eo s6 t ri toR bP, o r t tj awR ne h he ia c an h oas to nep vi is v bl dp ei re egj err se on a lWt pc yh am atp ic ei n/ cvuh e e(tgern e aM se . s rot . g F nu A e→ nr tinW a d tKS ec eIe rt )rt i a pe aoa t↑r e lil n lvas r oao ft eKwli o ,v e rO sge mx t r rtppD ahaetl dnd eioim is nr sc efek oioo nd ze lmr tv a -l mab letpl ii rsat koa e c tr epnr oeh en r dv- rla es e fit t at evai oy sv c e sDl toe re ila u gyi m gnR r ni eka nt me at e rtah rooelgsbe n bs tem a tuhi t scg sea bhn tt t ,li h’im issc gane a lte eIc o l t an at beia r rt or a p ecaa n l p olt pp yir mn rvpo -osaer ea t no w trc Lh eaah aoi ice tnrndh oes t-.\nFLPmtfooaal o roii c drly caiu en ad pr l pg- saeM a c p(o cisra tf iciyt x oo yC - rr l I l ue it tu ne o: t s ier 2 lpta aie 5 zlt rari. iav8ci ztne1eeio g md5R n- 2 eB be ) ina i.a s sts s T.eas e cH hid pg te io rns oH ewme nre e e.meu v qn Tr ee uti rt hi s ,h( s ets to ii h tcc d seeos ts yrfr io ea cct: rF tot ne2 oi nn m e5 pssa i. tp ss9l il mt t5y e ot,5 n ifo zw 1 t tl ib) hy ne a e a gflt nae a mtdns i hlt c ee eeCedm d f o t rtoc hm o al re c u yp t tis m il gt coee he om nr ta ni aln ne yslgn toKpr-t aba ai Vn ir c jnesy kPp tc RW ti tdhr i vie oeo cd e rr t8 ; k ah p0 ctle a eGo lu i usarBr s d ti c t hs- ebotA ari imc itnw n s sp og,a l pcir e mn otem ic m mM el eu tpin hzod at oii rda nn e dre gg dy sl\n8",
+        "FoBirthtebi si aeg s j ss eu e hsuccr iipte ggtiie v hno4 re lmni: y o s eA wc r onio ptb i tyrt .tle h i a Tmos t Lvhio io zeeofn er c yv daas -a ll at vr t u xi e aSod ir reu sy n i aas ain ro stoc i tf tvp sh r.a et u il R nmg mceoi aafizr ttian ehtth e deiomm mtn oei a cfn hto it ic cr, g om aham llu c irhlp geaio hlteain tvo x e ten ahn ss tet i. s o t fi hT na neh sn e ed hs- gu fiis g rcne ahhaa ie nlr a s ecp st dh r Dso ps cp it eonor rra ks fet oe ee d rlog mb fim ae ac2se nh 6t cch -. eo s2o tm 5d dy6, ilp fe0L fa e,i ar rni nd ene dnegam cr Leitzoh lsoen e bd y s eo dtTr tv -waa Me tr er igna eael g nxlt\nisnuhbe-orepntitmlya sl tmruagxgilme utom g KuVarPanRt ebeo utingdhst. bin packings, leading to premature memory exhaustion and\n5 Discussion and Conclusion\nIiptboafmhnn rcl bi aaar s hjtm e me ic eih ne ece ciu et- vtms t awpil ie ot v iw he si none- na io art , nste i k r hnae gnk t sna it a, a go a s sdnw l h k u g nat ll ce o y eoaL s h g rs ca oc a i lad alt oa ir vhl gd sg m s am s iret Obbe per i ls laiL epc eecs r t a e te icp c1 tn nd hn ii oDvg Ep o mt eru e h vn e cla pKe o- fii agl u n lpVnic ve tne ar e ae P ei cmM tc t Ra iii [o otc r Beo ym nsa nfd r c al r ct op e oa l.c o w rlc r oh Oi nets( nva i s L iu ool etnl err fnL re g a th2a an M i eagl n6pg alr .b tp)e .2 d.e ,i r s 5e no Eo 2oe d 6-f ax 0frp 0y cmv p 2aa , hi ei 5pc oin n rn ]k pe ug ii i i mf rt ta m nif ope naeg e xeni l dcnz ri ivp t z mfi ti Ai on aravro arlg to e d mi tb rn lo aeK eyl im lEne sn ye m,tu vge y r 0m l oa n- , ts . nV lst 0w ou vs sa 2pdl e. fet l 1he oiu B [-i mi re Cnh ssmy ett oeC eir ccusno mf oa ao r sd tc ni trthr esu rh idm et adce i se t ecu n .me tP d l o l aa tr e inhae lnt t.i - a as e ,nd l s -tai 2ge e u nor v0t r iee ut oe z 2h ar r e l6m re( ud m K ] tKi m int weV oaVi to nr hs hP Pd g at ioR i rle eRc dyel t) ,\nw(Da sdeSr sGmpS et yt ay ea ise Pfl eL s ga tn ct ts mhtUeia lO ioap ec . n ct ,m n mmi o is gtt pc m2d) s re i sil,. y0 [, c x a s e t Pu I 2 lo h ec t min fep ra5 kduee rx a nf ] am oehs r ber , mde g i r o fc hHeg o ya mos en u unh u r et r mt t d t aer l rm l i e yo ip sn om om txh n ul tnd r aaa i aag el y[-y g l c a ty M tl . in h ce hee t ,c oi e oam v -m o ae 2o nevm ne pd i 0np nee l ta ee 2i i inn d dac c cr tgf4t ot i f sh iu ua a c p ]etseo u .ilca a or cus e.fo n cl l ,u t m s l n id em kr y 2s ve o olu i e 0 eeo ns l t prc s 2e lr u d g t oc yaca 4aile u oo ott d[ ]s ol turA n lm s h, ar ,t rn eo r no geb pid ron nu dfra els e utoa evr s u ll p Dw gyxryie ba r ml h id iop o ao n na s l yp np d eo Hgt8 er m met tan 0io we ctp om Ge e la hp at noin nc a s nr l Bt rth .o tl o k its , [s qh fi r Z mh ,2rw te uel e oa i h0se e eth as pao2 ad m s l de no sus 3- r or t se g llor]e ie io uev c mr k q o egw see my etu r e r i no u ea c pa e l vt or stl i o ls trik v i., itat ll n r, o l e i i w tf aor sm z 2nu fia ctmaa h0 arcti cdt a ti2te l ii o hca so igs 6p mn ht uh a nri ]aa t t nio a .. h e t fn at tn t t uF mU ai ed scs fo nvir o. rn onan nS e dorlF f a rs ee i sto ybl hki e rr sfl lr f e lv e yer s su ya e ,K tit tts c el nc i, ih o l nyt tV re o eu u ceo gs G u h La rxt gi cer Pnt ispme e aem nyis U lv nc t go oou sise h esal r tdn l ov . ee oet l p eh Oe m udW rps lrar s e ltb dai st a aa hd n c j b ye ctse ii h le s nm es rc luc as e teu mt art s nap cim a m[ ttvb e del ehH coe ne l n liri tyy ece ss s ss t t, .\nFsceourutvu ldirn e ag lr lse ocs wee na thracrehi os yssh.s toIenu mtled tg oer ax ctopinnlo tgir n eou ue orx u tpse lln ya dcrei enmbg ae lonanut cra ellg i Knoe VraitPrhi Rzm e a dws rbietihqs e upc ert soi toa rncat tif evr sae m d leievvweia omterk ifg rtrooam toi oin nnl ii tmn iaeel, cedhsyatinnmaism amteicss\n9"
+      ]
+    ]
+  },
+  {
+    "page": 11,
+    "bbox": [
+      135.064208984375,
+      187.43504905700684,
+      153.9764633178711,
+      192.99267578125
+    ],
+    "cells": [
+      [
+        "Criezmedri Teat ragl.e, t",
+        "2 B02is6e]c"
+      ]
+    ]
+  },
+  {
+    "page": 11,
+    "bbox": [
+      67.4992504119873,
+      309.30511474609375,
+      532.7968139648438,
+      509.67449951171875
+    ],
+    "cells": [
+      [
+        "Under review as a conference paper at ICLR 2025\n324\n325\n326\n327\n328\n329\n330\n331\n332\n333\n334\n3 3 33 3 35 6 7 Fmpeiag rtgucrhr aeed si3 etn:h tesE ptnrrad ej- set eco rt- voe erni fed us l t lar a oni pdn t i ifin mng ia- zllo a ltsois os nsc o pon efv refe oxr rgamecnta c nKe cK eo .Tn dtihfefe rthenretiea tbioenn,c hshmoawrkinsg. thOaFt Pm-aStHriAx-DfrOeWe, d(rueadl)- frceleo sheyly-\n3 3 33 3 48 9 TSaHbAlDe O2W: Eanndd- etox-aecnt ds otrlvaienrisn agr-el o →ss 0c.o0n0v0e6r.g “e—nce” m(maerkans s±ol vstedr so nvoetr a3p pseliecdasb)l.e Ftoin tahle- ecpooncihc lgaaypesr .between OFP-\n0\n3 3 3 3 3 3 3 3 3 3 34 4 4 4 4 4 4 4 4 5 51 2 3 4 5 6 7 8 9 0 1 TSEEFSEEFSEEFy u Oi i ia pp pp ppn n nn ds oo oo ooCa a atk occ cc cch l l l TPk hh hh hhe/ u atE 01 01 01i nc ( bp t e rDo la a ecF r inh - L L 3 l P oQ :s OP s→ → F ( 1 F =t o0 0r .P( 1a . . rt m4 0i-r 4 wnSa 9 7→→ →→9e ih M119 2 an a000 00a ..8 5 n r32 l S.. ..d ±o ( d34 00 85± ±Eo ys89 57 10 w 0s , 49 70 / 76 ·0 0 l .=46 69 yo 0 b( ..0 0wO ω0 am )0 0e 4u , c0 0 re 8r l ko6 2a is s w)n w b( ey e art → → rt i· 1e s dy 0 0 .r bC 1ω ) . .4 0 /e4)v →→ →→t9 7, 9 t tx 119 2l e6 o00 00po .. r5 532 .. ..w t)±y 0 34 085 a± ±Le 589 7 20 l0r 709 1a 06 0 0 . 532 1yi e0 ..se 0 00 x br 0 04 ee 0 04t c6 3te ur t) i→ o10 . n1.4 4 t→→9 9 iQ 119 0 m00 ..3P 32.. ———±34 85T ± e89 100 H 29 63 p0 .45 0. e0 0 r0 4 0 7 i7 tera→ 1 t0 i.1 o.4 7 n→→9F 5119 4F 00 .. (4 32 .. ———O ± s34 87± /79C 30 i0 99 80 t0P .70 e0.0 0 r0 1 )0 .1 4 Be→ s1 t0 . 1. i4 4 n→→9 8L 11 8 800 e..P 6 32 ———.. ± a24 G 75± c57 820D 99 h680 .26 0. 0 0 c0 6 o0 0 l8 um→ → n10 0. 1. . i4 04 n→→ →→9 7911 B 9 3000 00 b..8 4P 32 .. ..± o34 00 85Q ± ±79 67 10 l0P 99 12 d63 00 .65 720. . .0 000 040 066 0\n3 35 52 3 Synthetic DFL QP Sudoku (near-LP)\n3 3 3 3 3 3 35 5 5 5 5 5 64 5 6 7 8 9 0 M OCQFLBFPv PPFe Ox GQTt Pph CH DP-yo S P L (d ( (h be fia (a lxpy rad saae cto cpr -k w t oe( - rQe rb )d(x oPO ea x) rcu ))tr)s) F 000000o ..... .r 27074 1w 37675797475 4ar 636879d B 0 00 001ac . .... .1 0411 1k 1 2187 5w 9 9265 6a 5 6482 9rd 0 0000 1T . .... .1 49 693o 5 95 943ta 4 5242 1l 1 2264 9 F 0 00000o . ... ..r 0 00000w 2 262356 07737ar 3 137 10d B 0000 0 0ac .... . .0000 0 0k 4220 0 2w 2 897 3 0a 4123 4 1rd 0 00000T . ... ..0 00000o 3 47768ta 3 00520l 6 260 51\n361\n3 3 3 36 6 6 62 3 4 5 Ltvisma . te0e .no0cv4ye8.r 4 fisB )ry ,s wt-roe hmridleoe vrm iFn aFg tc OhseCincPgo nbodyra br3ey.a5 s t↑io nl gvo enes x Qaa cPn td (s 0oK.l1K v1eT9rs 5 fsoa ncvt so to.r ti0az.la4 t t1i io m2n4ess ,)( TOaanF bdlP e6- 3.S6)H .↑ADonO WSu cduotksu b (a0c.k0w07a3rds\n3 36 66 7 4.2SCALABILITY IN TIME AND MEMORY\n3 3 3 3 3 36 6 7 7 7 78 9 0 1 2 3 W N vfiKflen ae Ke r tiu s sTas um h tc sef aa 7 asCnl 2c e in v t1n o d x –a r0py 8d iz .y 9j 3ao↓ L 95ti ian s Mo{ y t nw 1 ei B s0 r ch ’ .0 ou es, n s rO ee2 s d u0 (C. md0 vF, 1y e x.4i6 sg p0 7 2u y0 ) 9r L:,e .8 aa 3 4 y0 t G e0 da r,n y B 1d t= ia6 mT 8 t0 a 0 de0b s0 y} l = oe io t u8 4n it0s s (t 0h 5>h o . (e 9 3 w 4↑Q 9 5 ↑OP 0fa F sOb s)P .te F e-n Mr PSc ih -H en Sm mA t HhDa o Aer rOk y DbW a( Oisb c Ws a kdct w )a ec ,l c h ae wi rs s8 d h is v) iu p, le eb a:w s- OCc sh ,u Fe v abr Pxe ni p-c d Syt a h Lal He l ty a A dm y ( DyeOa = Ort ’(r Ws1di x 6d 0y s-. 0et6f na0r4 ye s ) iee s) t\n3 3 3 37 7 7 74 5 6 7 Wi4 z. ae3 t ifounrC t:h O deM Qr bP PA e n(R McI hS amO gN aor okT n O O e O tF aPP lE -.,SN 2H- 0S A2O D4U )O R (WOC SaE gQ I aM Pin P fsoL t rI twwCI aoT r - doD ,p seI pF nF a-srE soR euE rQN cDeT lI LaA DyT eLI rO /sSN tch L iaPtA y aY vbE oaR icdS k wdeanrsde) KanKdT J afaxcOtopr-t\n7",
+        "Under review as a conference paper at ICLR 2025\n378\n379\n380\n381\n382\n383\n384\n385\n386\n387\n388\n389\n3 3 3 3 39 9 9 9 90 1 2 3 4 FstKicmi Kagleu Tesrs de os i ufu4 ftb: .e - r(Sc eBuc n)ba t iliPaicn tea ig aoll knyw ,pe ibt srh oce acad let aie sn tc segi ss R iC to Sovn S x 2 dp(9siy .m e3Lm ea Gn iy-Bseli or o a gnb t) y:dd yOy5 = .F(9Q 8P→ 0P -0S,a .b Ht adAt yc Dh=O 88W)0 .0 st ( aaA yn) sd B nceaoacmrk wp8l0ae0rtdi nM tgi B md e yu =p(l 1o to6g 0– dl0 yo =gw) 1h: 6eO 0re0F ,C P wv- hSxipH lyeA LeDaxOyaWecrt\n3 3 3 3 3 4 4 4 4 4 4 4 4 49 9 9 9 9 0 0 0 0 0 0 0 0 05 6 7 8 9 0 1 2 3 4 5 6 7 8 Table 4 M BOCFB POCFB: eF FaE v P v PF Fe ac O Ox xQ Qx t P Pkk p pre C C P Pw- -y yi pc S Sc P P u a L Lr( ( h ho b b/t r a a( ( i a ad cl lp pMo y ya ad de a an e ee c cso op pe r rx k kst w wt e ee i ( (- -h Rm r rc e eb b ) )o ( (x xu So oe O Od a at Sx x i c ca ou u) )mt tn nr r) )d e s st m) )ip me oea r k yd p0000 y 7877fep .... o= 0010 2242rr o o 5211 1020i1 tc t8546 ....pe 20950e 8790 rr0s ias nt tiR o (S nd M0000 1S y 7 77(.... 7B = s0010 2 62m 2) )7462 1 2722e 6997 . ...7 150m 94 1460ory ds 0000 6c y 7 87.... 8a = 01 2 9530 0l 9775 8 42i 14n 3187 . ..1.320g 20 0490 acro d 2s 00 100y 79 8s .. 1.. = 18 282 5 4d 54251 79 8e 38 09 204 . .c 4 .20 49 .77 2i 40sion Td Oii mm Od ee My o0 2141n 8= u . 3.. 2s /3 930i t 60 o 4 83 9T1 ( 25n 6 42 .6 i> 0 ..ms 7 74 290 40d e5 oy 0 u( s tb )atch 8).\n409\n410\n411\n412\n413\n414\n415\n416\n417\n418\n419\n420\n4 4 4 42 2 2 21 2 3 FBwdyiahg .ceukrr ewe Ja a5rdx: OtQipmP t e t is(mclaoelgsin– oglou gtv .)e :(r BsOu )sF PPo ep-aSe knH R-As SoDSuO r mcWe e hmimaosp rtylhi :ce i Otl-od Fwi Pfef -esStr e HenxAtpi Daot Onio Wenn tsb taaanysde s li flinsa e3ts .w 2( →hb ia lt efca h ds tQe8rP, t1ha6 na ndC dJP aQU xPO t h partt edga yrd o=s w)1. 6w(0iA t0h),\n4\n425\n426\n4 4 4 4 42 2 2 3 37 8 9 0 1 (nad(q>B te uytel a a= odi l6n in 1 0tnsd y60 oe 0t sih l 0 s)c e . eo i i dt tlm M so ea w nbml e. ta, me ie c cs2r okt ac0 rw lei2 y am aa1 l cs r) pl rdt i aoi( cri pysie scasmn as aps flsl le al lti i ts( ti m h A (3c 9rep . ei 52 pe e1→t x . ( ↑ pC Qd foa) 1Pi n. s0 tef fiO e9nf nr8nt a t (o hMltO hf a l e oBn(a sd n )Q d s 0y QwO .P ↓6S P h0 0s) eQc a . r4avP ne9lsd ai. 9fin s 7d 8 xg d.Q e 5 eQsd →P aw Pc’pes h fo e na ;Oi p esn St a(t e u() rdF r; ld1y yi i ob .g n 9 ko d.2 t ut o)5 oh u, 1ta aba n .T l 1lr d,a ee 4w b s J 9f lahu (0ex 2il /ll5 1O 0ey) .4 p 1, Jo 2 t 5aO’p x 0s MeF O 4On B/P p- 1(s )- t .do , S 1t 2yu ia4H m.r n2 9Ac 0 de 7e )D s ) ) t .a O a:o n sW ua kd tt\n8",
+        "Under review as a conference paper at ICLR 2025\n4 4 43 3 42 3 Tex Tap ob aeo tcl aen e 5 (cn s: at Qp P fi ts )s c →ta l →ingd OdJMvpy Qe. erB Ps ue Oss t S(o ap Qp de me or pn c l- oos (ol cuu im ur -c rn oe dib rn ca fsb )e fol )lidne.s yd 00Q 721P 0and 00J ya 11x 374O 93p 0t (b 5a 2yt ..c 7h 908 00, 16 C mP eU ..t th (r >e 870a 60d 0s 0) s. Em Ep xi pr 012i oc 692a 200l nt ti m pe\n4 4 4 4 4 4 3 3 3 3 3 3 4 5 6 7 8 9 0 M B t kr l i w ) r →d (s OdJ a aQ F Fx x P PO Ot P h - -( (p po S SO t td h hS( i ia Q d m P Po p , , w w l o p pi i( O Oe ec n ni u - s st tr o s s ) )u u d r i ic e ef ) f ) d 0 000 00 . ... ..= 2 400 9 250 6 295 770 3 243 40 d 5 900 . ... ..= 9 500 9 395 6 776 090 6 451 d 2 00 009 .. = . .12 162 43 983 78 43 681 59 471 T T i im d e o o01 03y u u= .. 31 42t 53 49 1 ( 19 196 > 19 6 0 0 s ) ) ———...n e\n4 4 44 4 41 2 3 Peak RSS (MB) →OdJaQF xPOP -(pSOt hS(iaQd mPo p,w lo pi(Oecniu-stros )udricef)f)199 255 0040..18 .2 11903538273..9 .71 11938809559.7..82 T21 i00m49 e81o..94 ut SSccFaalllaiinntgg\n444\n445\n446\n447\n448\n449\n450\n451\n452\n453\n454\n4 4 4 4 4 4 45 5 5 5 5 6 65 6 7 8 9 0 1 Fm1 Tmpe2 aia ag r. bt t 9uc crl↑ oeh hr w ee e6 fs s 6 a : ge e s: rx x t oRea aR ur ec c pe att t h a lC iC-l a nw-vn v w bx oxFo op rpF lr ly yd dl OLd L . PaC aPy yRPRe eE r raE D anD rOn edO gd P2 r P Tb e.T 6 e t ↑ ba wbt ese inf tn afi chc s hr h t cs met om r- as oa t irrh nr kdk a e ens rr s e ie( sF m3 x uF a ilsO ltc ase t C re C i(d tP mys v. , ex( 1B apb .n0ya) t 0LB ±c 0aha 0y c s e3k wtr2 dw. h) a. oi lr ved( e A bt ri e)m 3 inN e gs op e r meem dr a sab r,l ka it ebzc de ahd lt: yc h rO fe agF 3sr 2tPe e)-t r.: S aH nO OA dF F D lP PiO g- -hWS StH H ei rA As . uD DBpO Oe W Wt so t\n4 4 4 4 4 4 4 4 4 46 6 6 6 6 6 6 6 7 72 3 4 5 6 7 8 9 0 1 B S( P( E(5 M rh o ee n↑ r an o a et l5r rc r fkt 4g h oge o 8ym lsr iw h it o Sda i P pct Or L z rhak i pPt eQ c ht t de)a .P s.s ) )k N BBP NBP N PM e e eaa ao o oe a a acc cr r rt k k km kk mk mr ww wi m m ma a ac aa al l le e ei i irr rz z zm m mdd de e e o o od d d// / r r r bb br r ry y ye e eaa a g g gtt t( ( (cc cM M Mr r rhh he e e B B Bt t t(( ( → → →ss s) ) ))) ) → → → →→ →OF 0 0 0P . . .01 6- 84 1S 79 7h 0 0 046 6a . . .8 8 9 0 0 0 d ± ± ±8 7 47 2 2o 0 0 87 6 2 w 0 0 09 7 3. . . 00 0( 05 1O 06 2u 6 4 6rs)Cv 00 0x .. .0 001 6p 2. .84 10 03y 77 86 57L 0 43 59 31 10.a 0 7 30 2 ± ± ±y (6 4 02( (e 0 2 27 2.0 0 0r 8 7. . . . .6 4( ↑0 00e ↑ ↑5 01x ) 01 8) )a 4 67ct)FF 0 00O 0 0.. .0 0. .1 63 2.C 85 23 0 87P 9 10 5 649 78 1 5( 8 8 9 8fi ± ± ± 7 6 4( ( r ( 114 3 7 4s 0 0 021t .. . .. .0- 00 04 9o ↑ 04 0↑ ↑r 7 3 0)d ) )60 3er)\n4 47 72 3 4.4REAL-WORLD DECISION-FOCUSED BENCHMARKS (PREDOPT)\n4 4 4 4 4 4 4 47 7 7 7 7 7 8 84 5 6 7 8 9 0 T tdrt(qP h ↓i e uyo mR ga a= nrm E 9i lez i4D 4tto Ca y8 8Ov t o .v) ie .n MxoP b pnT Ta Be y la(y L)d lMb —oe atlnc hyea sdi rers oe6k ris e ooy taa hwnn ntn e- at i ddf h t s eo z ke 1fFc st fiQ 2ui i c cg .s (P 9 icuep , e↑ od rr ndes-o cy l ifbe yn6= ala e se g5r s tmn aeh10i iro.)sn n 0,, w t g s 0haw 0 tans O re n0du a e Fi nFEt vv se P Fsa fn: .- e l O eu S rS er Ca Hx thgt oPae Aoy c rr- Do it eCt n n O ae h o ls W tt y -st hh w t p erP eme oS a rbe rc ga lt ahs dth rcct ae a kh Ddd(n we5 iu Fd es↑ al Lna i rtr5 tn d hsd p g )e g ip r pr(e waei era sd xe lhsl i aa- i,nLw c ll ee atP4o s t, 8C b r wadl - evd hy i iflx n to=t hapa gu otys4 r uk uL m0e ts p) a l e, l ef y omtr cP eoo str oo s rm i r2r nc iy t . noit 6f th o fry ↑ de oml ei oppo caftru il paiO sicb srz ie it ol ep nei s ndc- rt,\n1\n4 4 4 48 8 8 82 3 4 5 Fω4 ,i. g5 duarmeA p7B i nsL ugA m εT ,mI O satN erip zS esT sizU tehD ϑeI E )t S ha rrA eeeN i nmD AoS spT tp A d.B eBcIL .isI iT vY e aD bI lA atG ioN nO sS ; T fuIC llS tables for all six ablations (temperature\n9"
+      ]
+    ]
+  },
+  {
+    "page": 12,
+    "bbox": [
+      65.0049057006836,
+      284.09893798828125,
+      532.9234313964844,
+      297.1899948120117
+    ],
+    "cells": [
+      [
+        "ScientistTwo (Ours)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 12,
+    "bbox": [
+      65.0049057006836,
+      461.8037109375,
+      532.9234313964844,
+      473.20086669921875
+    ],
+    "cells": [
+      [
+        "ScientistTwo (Ours)",
+        "86",
+        "7.7",
+        "25.2",
+        "7.0",
+        "13.9",
+        "2.2",
+        "3.8"
+      ]
+    ]
+  },
+  {
+    "page": 13,
+    "bbox": [
+      63.59334945678711,
+      433.3716735839844,
+      533.1943664550781,
+      444.79022216796875
+    ],
+    "cells": [
+      [
+        "ScientistTwo (Ours)",
+        "2",
+        "✓",
+        "7.6±1.0",
+        "93.9",
+        "5.7\n±0.6",
+        "69.4"
+      ]
+    ]
+  },
+  {
+    "page": 14,
+    "bbox": [
+      65.08245086669922,
+      179.87615966796875,
+      532.9134521484375,
+      192.22228449041194
+    ],
+    "cells": [
+      [
+        "ScientistTwo (Ours)",
+        "FCD-Engram",
+        "✓",
+        "0.916",
+        "0.969",
+        "0.926",
+        "0.860",
+        "0.071",
+        "-0.001"
+      ]
+    ]
+  },
+  {
+    "page": 14,
+    "bbox": [
+      65.08245086669922,
+      357.64739990234375,
+      532.9134521484375,
+      370.3899169921875
+    ],
+    "cells": [
+      [
+        "ScientistTwo (Ours)",
+        "✓",
+        "✓",
+        "✓",
+        "49/49",
+        "0/49",
+        "0/1814",
+        "49/49"
+      ]
+    ]
+  },
+  {
+    "page": 15,
+    "bbox": [
+      53.3253173828125,
+      220.527197265625,
+      279.3976745605469,
+      366.01739501953125
+    ],
+    "cells": [
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        "(a) Required Time per Task (Days)"
+      ]
+    ]
+  },
+  {
+    "page": 15,
+    "bbox": [
+      380.90599568684894,
+      220.527197265625,
+      538.2198486328125,
+      366.01739501953125
+    ],
+    "cells": [
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        null
+      ],
+      [
+        null,
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 16,
+    "bbox": [
+      117.51300048828125,
+      177.61402893066406,
+      477.7621612548828,
+      191.16302490234375
+    ],
+    "cells": [
+      [
+        "First Iteration",
+        "ScientistTwo (Ours)",
+        "VD-STrans (Rating: 6.5)"
+      ]
+    ]
+  },
+  {
+    "page": 16,
+    "bbox": [
+      117.51300048828125,
+      204.71302795410156,
+      477.7621612548828,
+      218.26202392578125
+    ],
+    "cells": [
+      [
+        "Second Iteration",
+        "ScientistTwo (Ours)",
+        "BXT-Transducer (Rating: 5.6)"
+      ]
+    ]
+  },
+  {
+    "page": 16,
+    "bbox": [
+      117.51300048828125,
+      231.8109893798828,
+      477.7621612548828,
+      246.2847900390625
+    ],
+    "cells": [
+      [
+        "Third Iteration",
+        "ScientistTwo (Ours)",
+        "SBR-Transducer (Rating: 7.1)"
+      ]
+    ]
+  },
+  {
+    "page": 40,
+    "bbox": [
+      258.0761091334881,
+      354.10338919503346,
+      539.8084716796875,
+      533.697868347168
+    ],
+    "cells": [
+      [
+        "",
+        null,
+        ""
+      ],
+      [
+        "w_l ~ trace_l *\n(S_b/S_w)_l^2",
+        null,
+        null
+      ],
+      [
+        null,
+        "*",
+        ""
+      ],
+      [
+        null,
+        null,
+        ""
+      ],
+      [
+        "",
+        null,
+        null
+      ],
+      [
+        "min(0, z-theta)",
+        null,
+        null
+      ],
+      [
+        "Sigma <- (1-s)Sigma + s(trSigma/d)I",
+        null,
+        null
+      ],
+      [
+        "",
+        null,
+        null
+      ]
+    ]
+  },
+  {
+    "page": 41,
+    "bbox": [
+      260.0710057996082,
+      667.5084228515625,
+      519.819091796875,
+      677.5031127929688
+    ],
+    "cells": [
+      [
+        "000 0.000 0.000 0.001 0.003 0.009 0.036 0.053 0.058 0.083 0.206",
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 48,
+    "bbox": [
+      261.8471744171881,
+      547.4001220703125,
+      550.3292236328125,
+      553.8260904947916
+    ],
+    "cells": [
+      [
+        "_feat.norm(...) final.py:338-339 blend = Σ",
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "bbox": [
+      145.01766967773438,
+      604.3248901367188,
+      236.51559448242188,
+      620.8264441856971
+    ],
+    "cells": [
+      [
+        "retraining (",
+        null,
+        "Garza et al.,",
+        "2023"
+      ],
+      [
+        "2023;",
+        "John,",
+        "2026",
+        null
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "bbox": [
+      239.59115600585938,
+      604.3248901367188,
+      298.7956848144531,
+      612.7826538085938
+    ],
+    "cells": [
+      [
+        "Ansari et al.,",
+        "2024"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "bbox": [
+      301.8712463378906,
+      604.3248901367188,
+      354.5402069091797,
+      620.8264441856971
+    ],
+    "cells": [
+      [
+        "Woo et al.",
+        null,
+        ", 2024"
+      ],
+      [
+        null,
+        "Das et al.",
+        ", 2023)"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "bbox": [
+      282.1876525878906,
+      604.3248901367188,
+      448.6194065638951,
+      646.6138305664062
+    ],
+    "cells": [
+      [
+        null,
+        null,
+        null,
+        "Das et al.",
+        null,
+        ", 2023",
+        ";",
+        "Rasul et al.",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Ansari et al.,",
+        null,
+        null,
+        null,
+        "2024)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Ekambaram et al.,",
+        null,
+        null,
+        null,
+        null,
+        "2024)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Dooley et al.",
+        null,
+        null,
+        null,
+        ", 2023)",
+        null
+      ],
+      [
+        "Nie et al.,",
+        "2022;",
+        "Zhou et al.,",
+        null,
+        "2023;",
+        "Jin et al.,",
+        null,
+        null,
+        "2023",
+        null,
+        "Liu"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "bbox": [
+      197.3022003173828,
+      620.8264441856971,
+      244.20448303222656,
+      638.156005859375
+    ],
+    "cells": [
+      [
+        null,
+        "2024)",
+        null
+      ],
+      [
+        "Shi et al.,",
+        null,
+        "2024"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "bbox": [
+      145.01766967773438,
+      646.6138305664062,
+      181.155517578125,
+      654.3027038574219
+    ],
+    "cells": [
+      [
+        "et al.,",
+        "2023"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "bbox": [
+      145.01766967773438,
+      654.3027038574219,
+      275.7289733886719,
+      679.6760864257812
+    ],
+    "cells": [
+      [
+        null,
+        null,
+        "˙Ibrahim Aksu et al.,",
+        "2024"
+      ],
+      [
+        null,
+        "(Zhou et al.,",
+        "2020)",
+        null
+      ],
+      [
+        "et al.,",
+        "2025)",
+        null,
+        null
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "bbox": [
+      250.35560607910156,
+      663.5294189453125,
+      301.8712463378906,
+      671.9871826171875
+    ],
+    "cells": [
+      [
+        "Rasp et al.",
+        ", 2020"
+      ]
+    ]
+  },
+  {
+    "page": 56,
+    "bbox": [
+      368.7646789550781,
+      663.5294189453125,
+      448.6194065638951,
+      671.9871826171875
+    ],
+    "cells": [
+      [
+        "(Lai et al.,",
+        "2017;",
+        "Kottapall"
+      ]
+    ]
+  },
+  {
+    "page": 57,
+    "bbox": [
+      158.85769653320312,
+      222.95541381835938,
+      210.37332153320312,
+      231.4132080078125
+    ],
+    "cells": [
+      [
+        "Jing et al.,",
+        "2022"
+      ]
+    ]
+  },
+  {
+    "page": 57,
+    "bbox": [
+      247.28004455566406,
+      222.95541381835938,
+      320.3246154785156,
+      231.4132080078125
+    ],
+    "cells": [
+      [
+        "2024;",
+        "Ning et al.,",
+        "2025"
+      ]
+    ]
+  },
+  {
+    "page": 57,
+    "bbox": [
+      301.6790237426758,
+      261.3999328613281,
+      328.7823791503906,
+      269.8576965332031
+    ],
+    "cells": [
+      [
+        "Li,",
+        "2025"
+      ]
+    ]
+  },
+  {
+    "page": 57,
+    "bbox": [
+      332.2423858642578,
+      261.3999328613281,
+      384.911376953125,
+      269.8576965332031
+    ],
+    "cells": [
+      [
+        "Xiao et al.,",
+        "2025"
+      ]
+    ]
+  },
+  {
+    "page": 57,
+    "bbox": [
+      175.77328491210938,
+      433.63128662109375,
+      226.52001953125,
+      442.0890808105469
+    ],
+    "cells": [
+      [
+        "2022;",
+        "Liu et al."
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "bbox": [
+      393.7535934448242,
+      333.6755676269531,
+      448.9855448404948,
+      367.5067443847656
+    ],
+    "cells": [
+      [
+        "rgets (",
+        null,
+        "Garza et al.,",
+        null,
+        null
+      ],
+      [
+        "ohn,",
+        "2026",
+        null,
+        "). Archi-",
+        null
+      ],
+      [
+        "(Woo et al.,",
+        null,
+        null,
+        null,
+        "2024),"
+      ],
+      [
+        "(Shi et al.,",
+        null,
+        null,
+        null,
+        "2024),"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "bbox": [
+      145.01766967773438,
+      342.13336181640625,
+      385.1676737467448,
+      375.96453857421875
+    ],
+    "cells": [
+      [
+        "2023;",
+        "Ansari et al.,",
+        "2024;",
+        "Woo et al.,",
+        "2024;",
+        "Das et al.",
+        null,
+        ", 2023;",
+        "Rasul et al.,",
+        null,
+        "2023"
+      ],
+      [
+        null,
+        "es such as TimesFM (Das et al., 2023), Chronos (Ansari et al., 2\nENT (Goswami et al., 2024), TTM (Ekambaram et al., 2024\n(Liu et al., 2024), and ForecastPFN (Dooley et al., 2023)",
+        null,
+        "(Das et al.,",
+        null,
+        "Chronos (",
+        null,
+        "Ansari et al., 2",
+        null,
+        "024)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Ekambaram et al",
+        null,
+        null,
+        "., 2024",
+        "), Ti\nlever",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Dooley et al.,",
+        null,
+        "2023)",
+        null,
+        null
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "bbox": [
+      182.0098402235243,
+      359.0489501953125,
+      251.12449645996094,
+      367.5067443847656
+    ],
+    "cells": [
+      [
+        "(Goswami et al.,",
+        "2024"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "bbox": [
+      367.61134338378906,
+      384.4223327636719,
+      448.9855448404948,
+      409.7956848144531
+    ],
+    "cells": [
+      [
+        "TST (",
+        "Nie et al.,",
+        null,
+        "202"
+      ],
+      [
+        "Liu et al",
+        null,
+        "., 2023",
+        null
+      ],
+      [
+        "ational reviews",
+        null,
+        null,
+        "(Kottapalli"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "bbox": [
+      173.92794799804688,
+      392.880126953125,
+      225.09757232666016,
+      400.8765563964844
+    ],
+    "cells": [
+      [
+        "Zhou et al",
+        "., 2023"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "bbox": [
+      257.8248203822545,
+      392.880126953125,
+      331.08905029296875,
+      409.7956848144531
+    ],
+    "cells": [
+      [
+        "M (",
+        "Jin et al.,",
+        "2023",
+        "), an"
+      ],
+      [
+        "˙Ibrahim Aksu et al.,",
+        null,
+        null,
+        "202"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "bbox": [
+      145.01766967773438,
+      409.7956848144531,
+      244.1083755493164,
+      418.25347900390625
+    ],
+    "cells": [
+      [
+        "et al.,",
+        "2025",
+        "; Zhang et al.,",
+        "2024"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "bbox": [
+      291.87567138671875,
+      481.3024597167969,
+      375.3551679338728,
+      498.2180480957031
+    ],
+    "cells": [
+      [
+        "(Tire et al., 2",
+        null,
+        "024",
+        "; L",
+        "i, 2025",
+        null
+      ],
+      [
+        "RAG (",
+        "Ravuru et al.,",
+        null,
+        null,
+        "2024",
+        ") r"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "bbox": [
+      194.2266387939453,
+      489.76025390625,
+      244.1083755493164,
+      498.2180480957031
+    ],
+    "cells": [
+      [
+        "Xiao et al",
+        "., 2025"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "bbox": [
+      244.1083755493164,
+      587.4093017578125,
+      448.9855448404948,
+      604.3248901367188
+    ],
+    "cells": [
+      [
+        "(Takeishi et al.,",
+        "2017;",
+        "Azencot et al.",
+        ", 2020;",
+        "bin Shi & Meng,",
+        "2022).",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "mics, while Sonnet (",
+        null,
+        "Shu"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "bbox": [
+      145.01766967773438,
+      595.8670654296875,
+      205.17201861213235,
+      612.7826538085938
+    ],
+    "cells": [
+      [
+        "Koop",
+        "a (Liu et al., 2",
+        null
+      ],
+      [
+        "& Lampos,",
+        null,
+        "2025) c"
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "bbox": [
+      145.01766967773438,
+      621.240478515625,
+      448.9855448404948,
+      655.0715942382812
+    ],
+    "cells": [
+      [
+        "TimesNet (Wu et al., 2022), FEDformer (Zhou et al., 2022b), FiLM (Zhou et al., 2022a)\net al., 2023), WaveForM (qiang Yang et al., 2023), AMD (Hu et al., 2024), StemGNN\n2020), and Wave-Net (Yu et al., 2025), frequently optimizing objectives such as the Hub\nber, 1964). However, conventional spectral models apply static or global frequency fi",
+        null,
+        null,
+        "Wu et al",
+        "., 2022",
+        "), FEDformer",
+        "(Zhou et al.,",
+        null,
+        "2022b)",
+        ", FiLM",
+        "(Zhou et al.,",
+        "2022a)",
+        ", FreTS (",
+        null,
+        "Yi"
+      ],
+      [
+        "et al.,",
+        null,
+        "2023)",
+        null,
+        null,
+        "qiang Yang et al.",
+        null,
+        ", 2023",
+        null,
+        "u et al",
+        "., 2024",
+        null,
+        "(Cao et al.,",
+        null,
+        null
+      ],
+      [
+        "2020)",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "er loss (",
+        "Hu-",
+        null
+      ],
+      [
+        "ber",
+        ", 1",
+        "964",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  },
+  {
+    "page": 58,
+    "bbox": [
+      214.2177734375,
+      638.156005859375,
+      257.8248203822545,
+      646.6138305664062
+    ],
+    "cells": [
+      [
+        "Yu et al.,",
+        "2025"
+      ]
+    ]
+  },
+  {
+    "page": 60,
+    "bbox": [
+      158.08880615234375,
+      346.7467041015625,
+      222.67556762695312,
+      355.2044982910156
+    ],
+    "cells": [
+      [
+        "Takeishi et al.,",
+        "2017"
+      ]
+    ]
+  },
+  {
+    "page": 62,
+    "bbox": [
+      165.56688343394887,
+      196.42859497070313,
+      280.4469659423828,
+      260.32262844509546
+    ],
+    "cells": [
+      [
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        null,
+        "",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        null,
+        "",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        "",
+        "\b\u0007",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 62,
+    "bbox": [
+      317.2748552958171,
+      196.42859497070313,
+      435.27504098074775,
+      260.32262844509546
+    ],
+    "cells": [
+      [
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        "",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        "",
+        null,
+        null,
+        null,
+        "\b\u0007",
+        null
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 62,
+    "bbox": [
+      145.20989990234375,
+      488.9913635253906,
+      250.6026085747613,
+      514.36474609375
+    ],
+    "cells": [
+      [
+        "et al.,",
+        "2025",
+        null,
+        null
+      ],
+      [
+        null,
+        "(Goswami et\nTimesFM (Da",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "s et al.,",
+        "2023"
+      ]
+    ]
+  },
+  {
+    "page": 62,
+    "bbox": [
+      317.2748552958171,
+      488.9913635253906,
+      403.11500379774304,
+      514.36474609375
+    ],
+    "cells": [
+      [
+        null,
+        null,
+        "nsari et al"
+      ],
+      [
+        null,
+        "2024),",
+        "Moirai Ba\n4)."
+      ],
+      [
+        "Ansari et",
+        "al., 202",
+        null
+      ]
+    ]
+  },
+  {
+    "page": 63,
+    "bbox": [
+      218.44859313964844,
+      325.7340823086825,
+      388.512212117513,
+      401.2552490234375
+    ],
+    "cells": [
+      [
+        "\u0007 \b \u0004 \u00130( \u001b*\"!",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "\u0006\u001a\u0011\u0015\u0003\u00041\"+)\u0003+\"-+ %(\u0005",
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        null,
+        null,
+        null,
+        "",
+        "",
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        null,
+        null,
+        null,
+        "",
+        "",
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        null
+      ],
+      [
+        "\u0007 \b \u0004",
+        null,
+        null,
+        null,
+        "",
+        "",
+        "\u0007\u000f\b \u0004",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "\u0007 \b\u000e\u0004",
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        null,
+        null,
+        null,
+        "",
+        "",
+        "",
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        null,
+        null,
+        null,
+        "",
+        "",
+        "",
+        null,
+        null,
+        null,
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "\u0007 \u000e\b \u0004",
+        null,
+        null,
+        null,
+        "",
+        "",
+        "\u0007 \b \u0004",
+        null,
+        null,
+        null,
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page": 64,
+    "bbox": [
+      145.20989990234375,
+      179.40765380859375,
+      449.21102142333984,
+      775.2020263671875
+    ],
+    "cells": [
+      [
+        "\u0004 \u0005\u0003 \u0017\u000f\u0016\u001a\u000f\u0013 \u001b\u0003\b\u000f \u0014\u0012\u0015\u0014\u0018\u0010\u0019\u0010\u0014\u0013\u0003 \u0018\u0014\u0011 \u0019\u0010\u0014\u0013 \u0004 \u0005\u0003\u0006\u0014\u001a\u0013\u000e \u0017\u001b\u0003\u0007\u0014\u0013\u0019\u0010\u0013\u001a \u0019\u0010\u0014\u0013\u0003 \u0018\u0014\u0011 \u0019\u0010\u0014\u0013\n\b\u0007 \b \b\u0007 \b\u0007 \b \b\u0007 \b\u000e\n\b\u0007 \u0010 \u0013% +- /. *\u0003\u001b $! ,\u0016 1\u0003 \u0015\u0016 \b\u0007 \u0011 \b\u0007 \b \b\u0007 \u0010 \u0013% +- /. *\u0003\u001b $! ,\u0016 1\u0003 \u0015\u0016 \u0003 \u0006 \u0012\u0018\u0003\"!-% \b\u0007 \b \b\u0007 \u000e \u0003\u0012 \u001b\u0003\"!-% \u0016\u0003\u0004)+0%,\u0003(-\u0003\"%..%,\u0005 \u0013+/*$!,1\u0003\u0014+*.(*/(.1\u0003\u0016,,+,\u0003\u0004 \u0015\u0016\u0005 \u0016\u0003\u0004)+0%,\u0003(-\u0003\"%..%,\u0005 \u0013+/*$!,1\u0003\u0014+*.(*/(.1\u0003\u0016,,+,\u0003\u0004 \u0015\u0016\u0005\n\b\u0007 \b\u0007 \u000f \b\u0007 \u000e \b\u0007 \u0010 \b\u0007 \u000e \b\u0007 \u000f \b\u0007 \b\n\b\b \u0007\u0007 \b \b\u0007 \u0011\u0011\b\u0007 \u0010 \b\u0007 \b \b\u0007 \b \b\u0007 \u000e \b\b \u0007\u0007 \u000e \b\b \u0007\u0007 \b\u0007 \b\u0007 \b \u000e \b\u0007 \b \u000e \b\b \u0007\u0007 \b\b %-.\u0003\u001b %-.\u0003\u001b\n\b\u0007 \u0010 \b\u0007 \b\u0007 \b \b\u0007 \b\n\b\u0007 \u000e\n\b\u0007 \b \b\u0007 \u0010 \b\u0007 \b\b\n\u0017/)) \u001a+0\u0006 *)1 \u0019(&'\u0006 *)1 \u001b+*+)(.'(# (.'\u0003\u0013+/*$!,1 !0\u0003 %-($/!)\n\u0015/!)\u0006\u0013!*$ \u0014+*.(*/!.(+* \u0004*+\u0003\"+/*$!,1\u0005",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "%-.\n\u0013+/",
+        null,
+        "\u0003\u001b \u0016\n*$!,1\u0003 \u0015\u0016",
+        null,
+        "",
+        null,
+        null,
+        "",
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        "",
+        null,
+        null,
+        null,
+        "%-.\u0003\u001b \u0016\n\u0013+/*$!,1\u0003 \u0015\u0016",
+        null,
+        null,
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "\u0003 \u0006 \u0012\u0018\u0003\"",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "",
+        null,
+        "",
+        null,
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        null,
+        "\b\u0007 \u0011",
+        null,
+        null,
+        "",
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        "\b\u0007 \u000f",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "",
+        null,
+        "",
+        null,
+        null,
+        null,
+        null,
+        "\b\u0007 \u000e",
+        null,
+        null,
+        null,
+        "",
+        "",
+        null,
+        "\u0003\u0012 \u001b\u0003\"!-%",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "",
+        null,
+        "\b\u0007 \u0010",
+        null,
+        null,
+        null,
+        null,
+        "\b\u0007 \u000f",
+        "",
+        "",
+        null,
+        "",
+        "",
+        null,
+        "\b\u0007 \u000e",
+        null,
+        null,
+        null,
+        "\b\u0007",
+        null,
+        null,
+        "\b\u0007 \b \u000e",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        "\b\u0007 \b \u000e",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "\b\u0007 \u0011\u0011",
+        null,
+        "",
+        null,
+        "",
+        "\b\u0007 \b",
+        null,
+        "",
+        "",
+        "",
+        null,
+        "",
+        "\b\u0007 \b",
+        null,
+        "",
+        null,
+        "",
+        null,
+        "",
+        "",
+        null,
+        "",
+        null,
+        null,
+        "",
+        null,
+        null,
+        "",
+        null,
+        null,
+        "",
+        null,
+        null,
+        ""
+      ],
+      [
+        null,
+        "",
+        "",
+        "",
+        null,
+        "",
+        "",
+        null,
+        "",
+        "",
+        "",
+        null,
+        "",
+        "",
+        "",
+        "",
+        null,
+        "",
+        null,
+        "",
+        "",
+        null,
+        "",
+        null,
+        null,
+        "",
+        null,
+        null,
+        "",
+        null,
+        null,
+        "",
+        null,
+        null,
+        ""
+      ],
+      [
+        null,
+        "",
+        "",
+        "",
+        null,
+        "",
+        "",
+        null,
+        "",
+        "",
+        "",
+        null,
+        "",
+        "",
+        "",
+        "",
+        null,
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "\u0017\n\u0015/!)",
+        "/))\n\u0006\u0013!*$",
+        null,
+        "",
+        "\u001a+0\u0006",
+        null,
+        "*)1",
+        "",
+        "\u0019(&'\u0006",
+        null,
+        "*)1",
+        "",
+        "\u001b+*",
+        "+)(.'(#",
+        null,
+        null,
+        null,
+        null,
+        "(.'\u0003\u0013+\n\u0014+*.(*",
+        null,
+        "/*$!,1\n/!.(+*",
+        null,
+        null,
+        "",
+        null,
+        null,
+        "!0\u0003\n\u0004*+\u0003\"+",
+        null,
+        null,
+        "%-($/!)\n/*$!,1\u0005",
+        null,
+        null,
+        null
+      ],
+      [
+        "Figure\nants, on\nfor both\nachieve",
+        null,
+        "4: I\nT\n. T\ns th",
+        "mpa\nest\nhe f\ne be",
+        null,
+        "ct\nM\nul\nst",
+        "of\nSE\nl du\nfor",
+        null,
+        "fre\n(le\nal-\neca",
+        "qu\nft a\nba\nsti",
+        "ency\nxis)\nnd s\nng a",
+        null,
+        "de\nan\npec\ncc",
+        "co\nd\ntra\nura",
+        "mp\nBo\nl ar\ncy",
+        "osit\nund\nchi\nand",
+        null,
+        "ion (a) and bo\nary Continuity\ntecture combin\na smoother co",
+        null,
+        null,
+        "undary\nError\ned with\nntext-to",
+        null,
+        "continu\n/ SDE\nsingle\n-foreca",
+        null,
+        null,
+        "ation\n(right\n-step\nst inte",
+        null,
+        null,
+        "(b) acr\naxis);\nbounda\nrface.",
+        null,
+        null,
+        "oss mod\nlower i\nry conti",
+        null,
+        null,
+        "el vari-\ns better\nnuation"
+      ],
+      [
+        "\b \u000e\n\b \u0012\n\b \u0010\n!\u0019\n\b \u000e \u00156'2#)'\u0003\"'34\u0003\n\b\n\b\n\b \u0012\n\b \u0010",
+        null,
+        "",
+        "",
+        null,
+        "\u0004",
+        "\u0005\u0003\b \u0018\u0012",
+        null,
+        "\u0015\u0011\u0003",
+        "\u000f\u0018\u001a",
+        "\u0016\u0017\u0013\u0003\b\u0017",
+        null,
+        "\u0015\u0019\u0014",
+        "\u0017\u0012\u0018\u001b",
+        "",
+        "",
+        null,
+        "\b \u0011\u0010 \u0011\n!\u0019\n\u0015\u0019 \u0010 ')#4+6'\u0007\"2#/3('2\u0003\u0018#4#3'43\u0003\u00050(\u0003\u0011\u0006\n\b \u0011\u000f\n\u000f \u0015\u0019\n\b \u0011\u000e \u000e \u00156'2#)'\u0003\"'34\u0003\n\u0013 \b \u0011\n\b \u0011\n\u0004\u0003\n\b \u0011\n+6' \u001a",
+        null,
+        null,
+        "\u0004 \u0005\u0003",
+        null,
+        "\u0014\u0012\u000e \u0018\u0012\u0016\u0015\u0006\u0007",
+        null,
+        null,
+        "\u0014\u0012 \u0017 \u0018\u000f\u000e",
+        null,
+        null,
+        "\u0003 \u0010\u000f\u0018\u001b\u0003\b\u0019",
+        null,
+        null,
+        "\u0017\u000e",
+        null,
+        null,
+        "\b \u0013\u0010\n\b \u0013\u000e\n!\u0019\n\b \u0013 \u00156'2#)'\u0003\"'34\u0003\n\b \u0013\n\b \u0012\u0012\n\b \u0012\u0010"
+      ],
+      [
+        null,
+        "",
+        "",
+        "",
+        null,
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        null,
+        "",
+        "",
+        "",
+        "\u00156)\u0003\n\u00156)\u0003",
+        "\"'34\u0003\n\"'34\u0003",
+        "!\u0019\n\u0015\u0019",
+        null,
+        "",
+        "\u00156",
+        "')\b\u000742#/3('2\u0003&#4\n)\u0003\"'34\u0003 !\u0019",
+        "#3'4",
+        "3",
+        null,
+        "",
+        "",
+        null,
+        "",
+        null,
+        "\u001b+)*",
+        "\u00032+3,",
+        null,
+        "",
+        ""
+      ],
+      [
+        null,
+        "",
+        "\b \u0010\u0010",
+        "",
+        null,
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        null,
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        null,
+        "",
+        "\b",
+        "\u0013 \u0013",
+        "",
+        "",
+        null,
+        "",
+        "",
+        null,
+        "",
+        null,
+        "",
+        "\b\n\u000f \u0011",
+        null,
+        "\u0013\u000e",
+        ""
+      ],
+      [
+        null,
+        "",
+        "",
+        "\b \u0011\u000e\u000e",
+        null,
+        "",
+        "",
+        "\b \u0011\u000e",
+        "",
+        "",
+        "",
+        null,
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        null,
+        "",
+        "",
+        "",
+        "",
+        "",
+        null,
+        "",
+        "",
+        null,
+        "",
+        null,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        null,
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "\b \u0013",
+        "\b \u0011",
+        null,
+        "\b \u0011",
+        "\b \u0011 \u0013",
+        "",
+        "",
+        "\b \u0011",
+        "\u0013",
+        null,
+        "",
+        "",
+        "",
+        "",
+        "",
+        null,
+        "",
+        "",
+        null,
+        "",
+        null,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        null,
+        "",
+        "",
+        "",
+        "",
+        "\b",
+        "\u000e",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "\b",
+        "",
+        "",
+        "",
+        null,
+        "",
+        "",
+        "",
+        "\b \u0012",
+        "\u0013\n\u0011",
+        null,
+        "\b",
+        "\u0012\u0011\u0012\u0013",
+        null,
+        "\b",
+        null,
+        "\u0012\u0011\u0013",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "",
+        "",
+        "\u0005 \b1",
+        "4\u0012+.\u0013 #\u0003-",
+        "\u0003\u0003$ #\b -#",
+        "\u000e/\u0012%\u0012'\u0006",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        null,
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "",
+        "",
+        "\u0011",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        null,
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "\u0015 \u001a 20\u0003",
+        "9\u0016'#/3'",
+        "",
+        "\u0005",
+        ")!\u00144#",
+        "4\b+\u000f%\u0006",
+        "",
+        "'!2%\u0007#\u0016-",
+        "##/2&",
+        "",
+        "'2!\u0007%!#",
+        "#-.#21-'",
+        "\u001a",
+        "5--\u0005\u0003 \u00155&",
+        "2#31\u00064",
+        "+6'",
+        null,
+        null,
+        "\u00052:0\u00149 '\u0006/ \u0018",
+        null,
+        "5#\u0017-#\u0007 -+$'\b42+%",
+        null,
+        null,
+        "!\u0017\u0019#-\u0007+ $/\b-8",
+        null,
+        null,
+        "\u0005:\u001a\u0014+7 '\b&\u000f\u0006",
+        null,
+        null,
+        "\u0005:\u001a\u0014+7 '\b& \u0006",
+        null,
+        null,
+        null
+      ],
+      [
+        "Figure\ntive per\nthe froz\nwherea\nfinemen\n4.5 A\nWe syst\nures 4 a\n9).\nAblatio\nFull Du\nand Tab\ndown fr\nthe low\nAblatio\n(Figure\n0.2457\nthe TS-\nwith lar\nAblatio\ntimeste\n(0.2729\ntimeste\nscalar g\nMAE.\nAblatio\nfixed in\ntransfer",
+        null,
+        "5:\n-ti\nen\ns th\nts.\nBL\nem\nnd\nn\nal-\nle\nom\nest\nn",
+        "G\nme\nb\ne\nA\nat",
+        "ati\nst\nas\nva\nTI\nic\nsu\nF\nan\nlo\n0.2\nver\nB\n, T\nre\nb\nca\nG\npo\nuni\ndu\nrec\nV\non\nes",
+        "ng\nep\neli\nlid\nON\nall\nm\nre\nd\nw\n2\nal\no\na\nsi\nas\nle\na\nra\nq\nla\no\nal\ns\nsi",
+        "n\ny\nm\na\n-\n5\nl\nu\nb\nd\ne\ns\nti\nl\nu\nti\nv\ni\n(\nn",
+        "ne\ngat\ne.\nati\nST\nv\nar\nqu\ngai\nfre\n8 (\nM\nnd\nle\nua\n(0\n(e\nng\ng\nely\non\ner\nda\nFig\ng o",
+        "tw\ning\n(b\non-\nUD\nali\nize\nen\nnst\nqu\nAR\nSE\nar\n5).\nl, n\n.2\n.g.,\nN\natin\nex\ndy\nmo\ntio\nur\nn",
+        "ork\na\n)\ncal\nIE\ndat\nth\ncy\nL\nen\nM\nof\ny C\nB\no\n487\nE\net\ng\nhi\nna\nst\nn-\ne 5\n5/7",
+        "g\nch\nFix\nib\nS\ne e\ne\nD\now\ncy\nb\n0\no\nou\nali\n).\nTT\nwo\n(F\nbit\nmi\nof\nCa\n(b\nd",
+        "ra\nie\ne\nra\na\nke\nec\n-\nm\na\n.2\nnt\nn\ng\nh\nr\nul\ns\nc\nt\nli\n),\nat",
+        "nul\nves\nd u\nted\nch\ny fi\nom\nOnl\nacr\nse)\n199\ninu\ndar\nnm\nBou\n1 β\nk G\nl A\nnon\nally\nhe\nbra\nTa\nase",
+        "arit\nth\nnca\ndu\ncom\nnd\npo\ny,\no t\nto\nan\nati\ny-a\nent)\nnd\n: 0.\nra\ndap\n-ze\nre\nMS\nted\nble\nts a",
+        "y\ne b\nlib\nal-\np\ning\nsit\nHi\nren\n0.2\nd\non\nlig\nto\nary\n27\nnu\ntiv\nro\nstr\nE\nS",
+        "(a)\nes\nra\nm\non\ns;\nio\ngh\nd\n2\nth\n.\nni\n0\nc\n5\nla\ne)\nte\nict\nhe\naf\n.\nr",
+        "t\nte\net\ne\nf\nn\n-\ns\n05\ne\nW\nn\n.\no\n!\nri\nm\ns\nad\ne\nU\nai",
+        "an\njoi\nd\nri\nnt\null\nIs\nOn\nca\n(\nsm\ne\ng\n24\nnti\n0\nty\nac\np\nan\nro\nty\nn\nsin",
+        "d validation\nnt MSE/MA\ninjection (β\nc guard mitig\nof DynaSpec\nnumeric tab\nolation. W\nly, and Mon\nrry most of\nLow-Only),\noothest bou\nablate the s\nthe retrieved\n33; disablin\nnuation also\n.525).\n. Figure 5(a\nhieves the lo\noral gate vari\nalogue injec\nom but the t\nScale (β).\ncalibrated in\ng average T\n9",
+        null,
+        "safety-s\nE com\n=1.0)\nates ne\n-RAG\nles are\ne isolat\nolithic\nthe retri\nwhile t\nndary h\ningle-st\nhorizo\ng it forf\nlets va\n) and T\nwest ov\nance (6\ntion du\nempora\nWe eval\njection\nest MS",
+        null,
+        "cale ca\npared to\ncauses\ngative t\nthrough\nprovide\ne sub-b\nresidua\neval ut\nhe Full\nandoff\nep bou\nns low\neits mo\nlidation\nable 6\nerall Te\n.27⇥10\nring vol\nl advan\nuate D\n(β =\nE to 0.1",
+        null,
+        null,
+        "librat\ncoar\nregres\nransfe\nsix f\nd in A\nand s\nls. As\nility, b\nDual\n(SDE\nndary\ners av\nst of\ncalib\nshow\nst M\n−3), d\natile t\ntage\n-Guar\n1.0) c\n942.",
+        null,
+        null,
+        "ion (b).\nser scal\nsions o\nr while\nocused\nppend\nplitting\nshown\nringin\n-Band\n0.1248\ncontin\nerage T\nthe imp\nration\nthat fi\nSE (0.2\nemons\nransien\nmanifes\nd again\nauses s\nDual-m",
+        null,
+        null,
+        "(a) Fu\nar varia\nn 5/7 d\npreser\nablatio\nix B (Ta\nby co\nin Fig\ng averag\nmodel a\n).\nuation o\nest MS\nroveme\ntrust an\nne-grain\n300) an\ntrating t\nt steps;\nts prim\nst unca\nevere n\netric va",
+        null,
+        null,
+        "ll adap-\nnts and\natasets,\nving re-\nns. Fig-\nbles 4–\nmparing\nure 4(a)\ne MSE\nchieves\nperator\nE from\nnt over\nalogues\ned per-\nd MAE\nhat per-\ncoarser\narily on\nlibrated\negative\nlidation"
+      ],
+      [
+        null,
+        null,
+        null,
+        "5",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "1:\nB",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "4,",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "o\n2:\nb)\nw\nG\ns\n3:\nm\nt\no\ns\n4:\nti\ngr",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "4(",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(ra\nRA\nger\nn\np te\n). I\np m\nate\nn\njec\n, re",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "7)",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "nd",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "engine": "tesseract 5.3.4",
+  "language": "eng",
+  "psm": 3,
+  "render_dpi": 108,
+  "pages": 71,
+  "sha256": "7283b566484f2ba09ec4c04bcc76265452ca46921d917f59c5edfddd6807dcaa",
+  "limitations": "Uncorrected OCR supplement. Not authoritative for numbers, formulas or table alignment; compare PDF/TeX."
+}

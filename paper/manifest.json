@@ -1,0 +1,272 @@
+{
+  "paper_id": "2609.19644v1",
+  "title": "ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI",
+  "authors": [
+    "Jaehyun Nam",
+    "Jinsung Yoon",
+    "Yanzhou Pan",
+    "Yubo Wang",
+    "Rui Meng",
+    "Parthasarathy Ranganathan",
+    "Tomas Pfister"
+  ],
+  "fetched_at": "2026-11-09T07:16:31.382496+00:00",
+  "license": "http://creativecommons.org/licenses/by/4.0/",
+  "extractor": "cache_paper.py/0.1",
+  "pymupdf_version": "1.26.7",
+  "sources": {
+    "pdf": {
+      "url": "https://arxiv.org/pdf/2609.19644v1",
+      "path": ".cache/sources/2609.19644v1.pdf",
+      "sha256": "98fb7802ec28beea159895a3de219307e019867b16296dfe4a79e68daaef9a17",
+      "bytes": 26081865
+    },
+    "abstract": {
+      "url": "https://arxiv.org/abs/2609.19644v1",
+      "path": ".cache/sources/2609.19644v1.abs.html",
+      "sha256": "5f6ad48691c8c03cb168f71c15b8ab41555bc760437875959f787af1c22b9281",
+      "bytes": 42821
+    },
+    "html": {
+      "url": "https://arxiv.org/html/2609.19644v1",
+      "path": ".cache/sources/2609.19644v1.html",
+      "sha256": "23f93180ac10e5b4e1cbdf9f1e532aa80c33351b7968345752ec7c6d12925aa3",
+      "bytes": 458046
+    },
+    "tex_archive": {
+      "url": "https://arxiv.org/src/2609.19644v1",
+      "path": ".cache/sources/2609.19644v1.tar",
+      "sha256": "60e05f1188a289bc1ec1fd44f1432b7b2dc4d910effb502dc272953924822980",
+      "bytes": 26132290
+    }
+  },
+  "source_errors": {},
+  "pdf": {
+    "pages": 71,
+    "text_pages_exported": 71,
+    "characters": 241434,
+    "sparse_pages": [
+      44,
+      52,
+      53,
+      54
+    ]
+  },
+  "tables_detected": 67,
+  "embedded_images": 56,
+  "tex_files": [
+    "paper/source/figures/abl_idea_improvement.tex",
+    "paper/source/figures/case_study_ts_rafg.tex",
+    "paper/source/figures/cost.tex",
+    "paper/source/figures/method_3_2.tex",
+    "paper/source/figures/method_3_3.tex",
+    "paper/source/figures/method_3_4.tex",
+    "paper/source/figures/method_3_567.tex",
+    "paper/source/figures/overview.tex",
+    "paper/source/figures/problem_setup.tex",
+    "paper/source/figures/qual_compare_main.tex",
+    "paper/source/figures/qualitative_result.tex",
+    "paper/source/google.cls",
+    "paper/source/main.bbl",
+    "paper/source/main.bib",
+    "paper/source/main.tex",
+    "paper/source/sections/0_abstract.tex",
+    "paper/source/sections/1_introduction.tex",
+    "paper/source/sections/2_related_works.tex",
+    "paper/source/sections/3_new_method.tex",
+    "paper/source/sections/4_experiment.tex",
+    "paper/source/sections/5_discussion.tex",
+    "paper/source/sections/6_conclusion.tex",
+    "paper/source/sections/appendix.tex",
+    "paper/source/tables/ablation_audit.tex",
+    "paper/source/tables/ablation_rebuttal.tex",
+    "paper/source/tables/ablation_review_refine.tex",
+    "paper/source/tables/ai_scientist_comparison.tex",
+    "paper/source/tables/antigravity.tex",
+    "paper/source/tables/autosota_comparison.tex",
+    "paper/source/tables/case_study_ts_rag.tex",
+    "paper/source/tables/conference_accepted_comparison.tex",
+    "paper/source/tables/human_eval.tex",
+    "paper/source/tables/overview.tex",
+    "paper/source/tables/pseudo_code.tex",
+    "paper/source/tables/sequential_scientisttwo.tex"
+  ],
+  "source_environments": 72,
+  "rendered_pages": 71,
+  "exports": {
+    "paper/source_environments.json": {
+      "sha256": "a0a0cbbe18c0b2193f0da966244724d58331a53b666a34c8b52bcf3367a9213f",
+      "bytes": 57942
+    },
+    "paper/pages.jsonl": {
+      "sha256": "5b5373c022a5980612b2b1a9d212577034afd49edd2061d353c4d8306f675a70",
+      "bytes": 2942176
+    },
+    "paper/tables.json": {
+      "sha256": "f8a5090509e6eb7813df75745f4254fe1e67c606def0dbc4dec00005c207fd6f",
+      "bytes": 123703
+    },
+    "paper/structure.json": {
+      "sha256": "23078764e2f0bd226c2706c6023d1c1405be5460964ac3e1165f485ea0283517",
+      "bytes": 4294
+    },
+    "paper/fulltext.md": {
+      "sha256": "4aa9a6efa0a38ee7492f3a4433fcd534262a23cec7138fe5d8186eb66f0e9af3",
+      "bytes": 244839
+    },
+    "paper/source/main.tex": {
+      "sha256": "94fabb8c4f992c4b75e9e674cb53b393c239a670d7f6804c27ac13e5565e482c",
+      "bytes": 2356
+    },
+    "paper/source/main.bbl": {
+      "sha256": "6f57bff9ec2ba3c20e4c1a0bd649bf243ee69991cca80a9dcb41432571aaca44",
+      "bytes": 46434
+    },
+    "paper/source/main.bib": {
+      "sha256": "2530d6aa540e00afe5eefd861fe6fbe7d430d280591c5cbbe47fe61b059c384d",
+      "bytes": 46135
+    },
+    "paper/source/google.cls": {
+      "sha256": "bebe16fc776479206967d06ed41997fd928da43ea8de9409a6d8eb77b2e48b82",
+      "bytes": 14032
+    },
+    "paper/source/sections/1_introduction.tex": {
+      "sha256": "60662c9c7bf330be4fb28d172becffd5a7c440d578b3a1d5f1eb77610b29cf9f",
+      "bytes": 4928
+    },
+    "paper/source/sections/5_discussion.tex": {
+      "sha256": "8b19ae0121099951891fc24bf6afecf90bcd517fc98946095a5455b546e31993",
+      "bytes": 8491
+    },
+    "paper/source/sections/appendix.tex": {
+      "sha256": "7437006a8689464c6218f236ea212fa208c2cc1e8d088f521d0fecc5123c1b96",
+      "bytes": 30668
+    },
+    "paper/source/sections/4_experiment.tex": {
+      "sha256": "d4261fa02f855101cc00952a3858d961a0da54c8c79dfc2412e9e901561f130f",
+      "bytes": 12347
+    },
+    "paper/source/sections/6_conclusion.tex": {
+      "sha256": "58016d936b76e7ccfd99c8fb72592bf2e2b46695ddaba0c46f46949e7d7179a3",
+      "bytes": 1861
+    },
+    "paper/source/sections/0_abstract.tex": {
+      "sha256": "c14acfc6c701ebf76ce2e9aec839632ce31493f28b593479282912ffe056c03d",
+      "bytes": 1732
+    },
+    "paper/source/sections/2_related_works.tex": {
+      "sha256": "76024454e23ac7d0e456411aeeb832365afa91f15979fb9571363d1bf384d484",
+      "bytes": 3438
+    },
+    "paper/source/sections/3_new_method.tex": {
+      "sha256": "105e9feac69356390bcb7c0684043c40e995f47804c72b1a3b4fff3dc4c4c565",
+      "bytes": 19915
+    },
+    "paper/source/figures/method_3_2.tex": {
+      "sha256": "f2731fcbfb94c841042c119977158df7612c142d3d12db00ddcbcdabf66270f0",
+      "bytes": 337
+    },
+    "paper/source/figures/overview.tex": {
+      "sha256": "35deec005dab79a069099debec63e393d9410299e277cd5198affe836d794a79",
+      "bytes": 497
+    },
+    "paper/source/figures/method_3_3.tex": {
+      "sha256": "6fcd7005168bcde97ac06f5b74e40a4683db8ac712ede7a64aa11159d834e2a8",
+      "bytes": 380
+    },
+    "paper/source/figures/cost.tex": {
+      "sha256": "0ad747a95b26b555c63be13114bd7bd0985af00d3eca6148fbab5011f44c49b4",
+      "bytes": 418
+    },
+    "paper/source/figures/qual_compare_main.tex": {
+      "sha256": "31bb5b7c737731cf7d8c068bafc0e7ccc25ae3bf1cd244badb371d10dd3d3b20",
+      "bytes": 1281
+    },
+    "paper/source/figures/problem_setup.tex": {
+      "sha256": "306779f8f9b83b5f0fd634294fdca1e494b3c0000f1f0f3b5636536c61fd275e",
+      "bytes": 1389
+    },
+    "paper/source/figures/method_3_4.tex": {
+      "sha256": "3127e1fffcdc58ba078e42e105c36beb5a2394b6ef2fa58cadb0db6e86aca6a3",
+      "bytes": 355
+    },
+    "paper/source/figures/case_study_ts_rafg.tex": {
+      "sha256": "d9c8cbf548336dc075717c2a118f48e54d0cb5d3b6ff0fae3457e7c4e4e17d4a",
+      "bytes": 306
+    },
+    "paper/source/figures/method_3_567.tex": {
+      "sha256": "9c47047170bfbf490c524afcaf08efea624edcc269c189f6d7782dfea11b15b4",
+      "bytes": 498
+    },
+    "paper/source/figures/abl_idea_improvement.tex": {
+      "sha256": "1ba1dec6d0c5bce4ebc2682cacafd44bfb448dc49ce054ea150d08f34ee1bcff",
+      "bytes": 487
+    },
+    "paper/source/figures/qualitative_result.tex": {
+      "sha256": "2c8093d0ce3f3a58284dd77ce2c33e68908acbd704823ce8dd0f9bb8136ec8b5",
+      "bytes": 1379
+    },
+    "paper/source/tables/ablation_review_refine.tex": {
+      "sha256": "45808266f30d1cfb28845f5d0279d9804f2d33ff2c16aaca2e0a2f94d7a2cd3b",
+      "bytes": 1078
+    },
+    "paper/source/tables/pseudo_code.tex": {
+      "sha256": "9ddb04254c8c44fbaf1cf8a9cf92add38fa150f64516ec32f78dc1580a4b8002",
+      "bytes": 1643
+    },
+    "paper/source/tables/overview.tex": {
+      "sha256": "587c0aa5e6e425a2f5a1b1778cb15d4571565df1651924a0c65eab0d8f921921",
+      "bytes": 2159
+    },
+    "paper/source/tables/conference_accepted_comparison.tex": {
+      "sha256": "022fd047ecd3b12a5a0e9fcbd0f44e6accc804c34d9eea35038c64d3c4f71e81",
+      "bytes": 2069
+    },
+    "paper/source/tables/ablation_rebuttal.tex": {
+      "sha256": "617a83a3210e65cf809b5b1c9680073ac69f0a2e16b494ed478a8193eac2201f",
+      "bytes": 1107
+    },
+    "paper/source/tables/human_eval.tex": {
+      "sha256": "1c4a7ded7dc153f558df0ae334a470726a2d54bd250bb833d67b88b043952ceb",
+      "bytes": 962
+    },
+    "paper/source/tables/case_study_ts_rag.tex": {
+      "sha256": "cede8b99a054f264da6d3511c48e9123702bea5ab066f3a10573455b927bd5e4",
+      "bytes": 2310
+    },
+    "paper/source/tables/sequential_scientisttwo.tex": {
+      "sha256": "9afece989e505f723274bfd4d5b22db5ed744d902cb304baa7b0e988fc3dd9cb",
+      "bytes": 931
+    },
+    "paper/source/tables/ai_scientist_comparison.tex": {
+      "sha256": "0323c44ca36ce8e4a6202c14418cca112a40fc5f9826d0b7e62033d7c46785dc",
+      "bytes": 1679
+    },
+    "paper/source/tables/autosota_comparison.tex": {
+      "sha256": "141afcd51d77aed3d44447ff3266047a25ecf9eddce21208f91fdfabdb06ab52",
+      "bytes": 1211
+    },
+    "paper/source/tables/antigravity.tex": {
+      "sha256": "f79a6a59b837f8ab3d003ca4ffc9c75870df7e07ddd149338622babcd46a6a2f",
+      "bytes": 1081
+    },
+    "paper/source/tables/ablation_audit.tex": {
+      "sha256": "0c203ff82c84ff782b0874072a3335e72a8f969452ea1aa6221566aab0780cd1",
+      "bytes": 1987
+    },
+    "paper/ocr_manifest.json": {
+      "sha256": "3a0a99aea23ad12c7649df9a3446e38a54e9779bfd7da41c815e4771f5af0e2a",
+      "bytes": 308
+    },
+    "paper/ocr_pages.jsonl": {
+      "sha256": "7283b566484f2ba09ec4c04bcc76265452ca46921d917f59c5edfddd6807dcaa",
+      "bytes": 209700
+    }
+  },
+  "limitations": [
+    "PDF text is not a lossless representation of formulas, charts or table structure.",
+    "Exact TeX is retained where source is available; PDF/page renders preserve visual information.",
+    "Embedded images are cached without claiming OCR or manual transcription of every label."
+  ],
+  "markdown_cleanup": "C0 control characters removed from fulltext.md; native page records unchanged."
+}

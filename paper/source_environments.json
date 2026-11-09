@@ -1,0 +1,434 @@
+[
+  {
+    "type": "figure",
+    "source": "paper/source/figures/abl_idea_improvement.tex",
+    "ordinal": 1,
+    "latex": "\\begin{figure}[t!]\n\\centering\n\\includegraphics[width=\\linewidth]{figures/scientisttwo_idea_improvement_ablation.pdf}\n\\caption{\\textbf{Ablation on idea improvement.} \\textbf{(a)} Relative performance gains are largest during the initial improvement rounds and steadily diminish in later stages.\n\\textbf{(b)} Top-performing ideas emerge early in the refinement process. Across iterations, evolved ideas are selected for the majority of tasks.}\n\\label{fig:abl_idea_improvement}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/figures/case_study_ts_rafg.tex",
+    "ordinal": 1,
+    "latex": "\\begin{figure}[t!]\n\\centering\n\\includegraphics[width=\\linewidth]{figures/fig_framework_architecture.jpg}\n\\caption{\\textbf{Case Study: Main Figure of DynaSpec-RAG developed by \\sname.} Overall architecture of the DynaSpec-RAG framework for zero-shot time series forecasting.}\n\\label{fig:ts_rag}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/figures/cost.tex",
+    "ordinal": 1,
+    "latex": "\\begin{figure}[t!]\n\\centering\n\\includegraphics[width=\\linewidth]{figures/scientisttwo_cost.pdf}\n\\caption{\\textbf{Computational cost of \\sname.} \\textbf{(a)} \\sname~requires 2.5 days on average to improve a single paper. \\textbf{(b)} Idea refinement accounts for the majority of overall time and computational cost, primarily driven by iterative idea evolution and experimental execution.}\n\\label{fig:cost}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/figures/method_3_2.tex",
+    "ordinal": 1,
+    "latex": "\\begin{figure*}[t]\n\\centering\n\\includegraphics[width=\\linewidth]{figures/scientisttwo_seed_ideas.pdf}\n\\caption{\\textbf{Generating Novel Seed Ideas.} \\sname~begins its research by generating novel ideas that can address the limitations of the human state-of-the-art (see $\\S$~\\ref{subsec:seed_idea}).}\n\\label{fig:method_3_2}\n\\end{figure*}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/figures/method_3_3.tex",
+    "ordinal": 1,
+    "latex": "\\begin{figure*}[t]\n\\centering\n\\includegraphics[width=\\linewidth]{figures/scientisttwo_idea_eval.pdf}\n\\caption{\\textbf{Evaluating Ideas.} \\sname~utilizes $\\mathcal{A}_\\mathrm{Coder}$ to implement the generated idea through subset testing, critic evaluation, engineering refinement loops, and full-set scaling (see $\\S$~\\ref{subsec:eval_idea}).}\n\\label{fig:method_3_3}\n\\end{figure*}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/figures/method_3_4.tex",
+    "ordinal": 1,
+    "latex": "\\begin{figure*}[t]\n\\centering\n\\includegraphics[width=\\linewidth]{figures/scientisttwo_idea_refinement.pdf}\n\\caption{\\textbf{Refining Ideas.} \\sname~improves ideas based on prior experimental results, ultimately selecting the best hypothesis for ablation studies and paper drafting (see $\\S$~\\ref{subsec:refine_idea}).}\n\\label{fig:method_3_4}\n\\end{figure*}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/figures/method_3_567.tex",
+    "ordinal": 1,
+    "latex": "\\begin{figure*}[t]\n\\centering\n\\includegraphics[width=\\linewidth]{figures/scientisttwo_ablation_review.pdf}\n\\caption{\\textbf{From Ablation Study to Drafting.} \\sname~conducts ablation studies and simulates the peer-review and rebuttal processes. Beyond this, \\sname~dynamically refines the idea and enhances paper quality using feedback from each stage (see $\\S$~\\ref{subsec:ablating_idea}, $\\S$~\\ref{subsec:drafting_paper}, $\\S$~\\ref{subsec:meta-reviewing}).}\n\\label{fig:method_3_567}\n\\end{figure*}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/figures/overview.tex",
+    "ordinal": 1,
+    "latex": "\\begin{figure*}[t]\n\\centering\n\\includegraphics[width=\\linewidth]{figures/scientisttwo_overview.pdf}\n\\caption{\\textbf{Overview.} \\sname~leverages previous experiments, ablation studies, and reviewer to generate and validate novel ideas that advance human state-of-the-art baselines, verifying each idea across multiple datasets and evaluation metrics. Additionally, it simulates the peer-review process to iteratively refine drafts into publication-ready papers.}\n\\label{fig:overview}\n\\end{figure*}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/figures/problem_setup.tex",
+    "ordinal": 1,
+    "latex": "\\begin{figure*}[t]\n% \\centering\n% \\includegraphics[width=\\linewidth]{figures/sc2_new_fig2.pdf}\n% \\caption{\\textbf{Problem setup.} \\sname~automatically pushes the boundaries of human knowledge frontier by generating publication-quality papers and fully verified codebases, with resulting proposed novel methodologies consistently outperform human state-of-the-art baselines.}\n% \\label{fig:problem_setup}\n% \\end{figure*}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/figures/problem_setup.tex",
+    "ordinal": 2,
+    "latex": "\\begin{figure*}[t]\n\\centering\n\\includegraphics[width=\\linewidth]{figures/sc2_new_fig2.pdf}\n\\caption{\\textbf{Teaser.} \\sname~pushes the frontier of human knowledge across diverse research domains (e.g., LLMs, robotics, neuroscience, speech, robustness, reinforcement learning, game theory, privacy, optimization, and time series) by generating publication-quality papers and fully verified codebases, with the resulting methodologies consistently outperforming human state-of-the-art baselines. Specifically, \\sname~improves 86 out of 107 papers (an 80.4\\% success rate) with an average relative improvement of 25.2\\% over human state-of-the-art methods. Furthermore, papers generated by \\sname~surpass the average scores of accepted papers at ICLR 2026 and NeurIPS 2025 under the Stanford Agentic Reviewer, demonstrating its capability to produce manuscripts that reach the empirical acceptance standards of top-tier AI venues.}\n\\label{fig:problem_setup}\n\\end{figure*}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/figures/qual_compare_main.tex",
+    "ordinal": 1,
+    "latex": "\\begin{figure*}[t!]\n  \\centering\n  \\setlength{\\tabcolsep}{0pt} \n  \\renewcommand{\\arraystretch}{0}\n  \\resizebox{\\textwidth}{!}{\n  \\begin{tabular}{|c|c|c|}\n  \\hline\n    \\includegraphics[width=0.2\\textwidth]{figures/compare_pdfs/scientistone_7.pdf} &\n    \\includegraphics[width=0.2\\textwidth]{figures/compare_pdfs/scientistone_8.pdf} &\n    \\includegraphics[width=0.2\\textwidth]{figures/compare_pdfs/scientistone_9.pdf}\\\\\n    \\hline\n    \\multicolumn{3}{c}{\\tiny{\\phantom{0}}}\\\\\n    \\multicolumn{3}{c}{\\tiny{(a) Experiment section generated by ScientistOne \\citep{meng2026scientistone}}}\\\\\n    \\multicolumn{3}{c}{\\tiny{\\phantom{0}}}\\\\\n    \\hline\n    \\includegraphics[width=0.2\\textwidth]{figures/compare_pdfs/ours_7.pdf} &\n    \\includegraphics[width=0.2\\textwidth]{figures/compare_pdfs/ours_8.pdf} &\n    \\includegraphics[width=0.2\\textwidth]{figures/compare_pdfs/ours_9.pdf}\\\\\n    \\hline\n     \\multicolumn{3}{c}{\\tiny{\\phantom{0}}}\\\\\n    \\multicolumn{3}{c}{\\tiny{(b) Experiment section generated by \\textbf{\\sname~(Ours)}}}\\\\\n  \\end{tabular}}\n  \\caption{\\textbf{Qualitative comparison.} Side-by-side comparison of the experiment section generated by \\sname~against the highest-reviewed paper from ScientistOne \\citep{meng2026scientistone}.}\n  \\label{fig:qual_compare_main}\n\\end{figure*}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/figures/qualitative_result.tex",
+    "ordinal": 1,
+    "latex": "\\begin{figure}[t]\n  \\centering\n  \\setlength{\\tabcolsep}{0pt} \n  \\renewcommand{\\arraystretch}{0}\n  \\resizebox{\\textwidth}{!}{\n  \\begin{tabular}{|c|c|c|c|c|}\n  \\hline\n    \\includegraphics[width=0.2\\textwidth]{figures/fig1_pdfs/page0.pdf} &\n    \\includegraphics[width=0.2\\textwidth]{figures/fig1_pdfs/page1.pdf} &\n    \\includegraphics[width=0.2\\textwidth]{figures/fig1_pdfs/page2.pdf} &\n    \\includegraphics[width=0.2\\textwidth]{figures/fig1_pdfs/page3.pdf} &\n    \\includegraphics[width=0.2\\textwidth]{figures/fig1_pdfs/page4.pdf} \\\\\n    \\hline\n    \\includegraphics[width=0.2\\textwidth]{figures/fig1_pdfs/page5.pdf} &\n    \\includegraphics[width=0.2\\textwidth]{figures/fig1_pdfs/page6.pdf} &\n    \\includegraphics[width=0.2\\textwidth]{figures/fig1_pdfs/page7.pdf} &\n    \\includegraphics[width=0.2\\textwidth]{figures/fig1_pdfs/page8.pdf} &\n    \\includegraphics[width=0.2\\textwidth]{figures/fig1_pdfs/page9.pdf}\\\\\n    \\hline\n  \\end{tabular}}\n  \\caption{\\textbf{Case study.} \\sname~independently establishes a novel approach that achieves a 10.9\\% relative improvement over the human-designed state-of-the-art baseline~\\citep{jiang2026incremental}. Moreover, evaluated under the ICLR peer-review procedures, this AI-authored paper is accepted, receiving impressive scores of 8.0 from ScholarPeer and 6.5 from the Stanford Agentic Reviewer.}\n  \\label{fig:qualitative_results}\n\\end{figure}"
+  },
+  {
+    "type": "equation",
+    "source": "paper/source/sections/3_new_method.tex",
+    "ordinal": 1,
+    "latex": "\\begin{equation}\n    (\\mathcal{P}^+, \\mathcal{C}^+) = \\mathcal{A}(\\mathcal{G}), \\quad \\text{where} \\quad \\mathcal{A} = \\{\\mathcal{A}_1, \\mathcal{A}_2, \\dots, \\mathcal{A}_{N_\\mathrm{a}}\\}\n\\end{equation}"
+  },
+  {
+    "type": "equation",
+    "source": "paper/source/sections/3_new_method.tex",
+    "ordinal": 2,
+    "latex": "\\begin{equation}\n    h,\\mathcal{E}^h, \\mathcal{C}^h, d^h, r^h = \\mathcal{A}_{\\mathrm{Coder}}(\\mathcal{G}, h).\n\\end{equation}"
+  },
+  {
+    "type": "equation",
+    "source": "paper/source/sections/3_new_method.tex",
+    "ordinal": 3,
+    "latex": "\\begin{equation}\n%     \\mathcal{I}_k = \\mathcal{A}_{\\mathrm{Evolve}}(\\mathcal{G}, \\mathbf{R}_{<k}).\n% \\end{equation}"
+  },
+  {
+    "type": "equation",
+    "source": "paper/source/sections/3_new_method.tex",
+    "ordinal": 4,
+    "latex": "\\begin{equation}\n    \\mathcal{R}_k = \\left\\{ \\left(h, \\mathcal{E}^h, \\mathcal{C}^h, d^h, r^h\\right) \\;\\middle|\\; h, \\mathcal{E}^h, \\mathcal{C}^h, d^h, r^h = \\mathcal{A}_{\\mathrm{Coder}}(\\mathcal{G}, h), \\; h \\in \\mathcal{H}_k \\right\\}.\n\\end{equation}"
+  },
+  {
+    "type": "equation",
+    "source": "paper/source/sections/3_new_method.tex",
+    "ordinal": 5,
+    "latex": "\\begin{equation}\n    h_{\\mathrm{best}}, \\mathcal{E}_{\\mathrm{best}}, \\mathcal{C}_{\\mathrm{best}} = \\mathcal{A}_{\\mathrm{Selector}}\\left(\\mathcal{G}, \\left\\{ (h, \\mathcal{E}^h, \\mathcal{C}^h) \\;\\middle|\\; d^h = \\mathrm{Good} \\right\\}\\right).\n\\end{equation}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 1,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/limitation_1.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 2,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/limitation_2.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 3,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/idea_1.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 4,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/idea_2.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 5,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/idea_3.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 6,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/idea_4.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 7,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/result_1.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 8,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/result_2.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 9,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/result_3.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 10,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/ablation_1.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 11,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/ablation_2.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 12,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/ablation_3.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 13,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/critic.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 14,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/audit1.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 15,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/audit_1.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 16,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/audit_2.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 17,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/audit_3.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 18,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/rebuttal_1.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 19,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/rebuttal_2.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 20,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/rebuttal_3.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 21,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/rebuttal_4.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 22,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/x_maha_qual/rebuttal_5.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 23,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag1.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 24,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag2.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 25,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag3.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 26,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag4.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 27,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag5.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 28,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag6.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 29,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag7.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 30,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag8.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 31,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag9.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 32,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag10.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 33,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag11.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 34,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag12.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 35,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag13.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 36,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag14.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 37,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag15.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "figure",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 38,
+    "latex": "\\begin{figure}[t!]\n    \\centering\n    \\includegraphics[width=\\linewidth]{sections/dynaspec_qual/ts_rag16.pdf}\n\\end{figure}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 1,
+    "latex": "\\begin{table}[h]\n\\centering\n\\caption{\\textbf{NeurIPS 2025 Papers.} We utilize 38 accepted papers.}\\label{tab:neurips}\n\\resizebox{\\textwidth}{!}{\n\\begin{tabular}{l}\n\\toprule\n\\textbf{Title}\\\\\n\\midrule\nSAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing \\citep{chen2025savvy}\\\\\nPhySense: Sensor Placement Optimization for Accurate Physics Sensing \\citep{ma2025physense}\\\\\nHogwild! Inference: Parallel LLM Generation via Concurrent Attention \\citep{rodionov2025hogwild}\\\\\nOn the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting \\citep{fu2025on}\\\\\nCausalPFN: Amortized Causal Effect Estimation via In-Context Learning \\citep{balazadeh2025causalpfn}\\\\\nAccelerating Feature Conformal Prediction via Taylor Approximation \\citep{tang2025accelerating}\\\\\nMulti-Task Vehicle Routing Solver via Mixture of Specialized Experts under State-Decomposable MDP \\citep{pan2025multitask}\\\\\nStochastic Forward-Forward Learning through Representational Dimensionality Compression \\citep{zhu2025stochastic}\\\\\nTree Ensemble Explainability through the Hoeffding Functional Decomposition and TreeHFD Algorithm \\citep{benard2025tree}\\\\\nX-Mahalanobis: Transformer Feature Mixing for Reliable OOD Detection \\citep{wei2025xmahalanobis}\\\\\nIterative Missing Data Imputation with Model Form Adaptation and Non-Missing Feature Supervision \\citep{wang2025iterative}\\\\\nNeural MJD: Neural Non-Stationary Merton Jump Diffusion for Time Series Prediction \\citep{gao2025neural}\\\\\nMind-the-Glitch: Visual Correspondence for Detecting Inconsistencies in Subject-Driven Generation \\citep{eldesokey2025mindtheglitch}\\\\\nTree-Sliced Entropy Partial Transport \\citep{tran2025treesliced}\\\\\nBalanced Active Inference \\citep{chen2025balanced}\\\\\nWasserstein Transfer Learning \\citep{zhang2025wasserstein}\\\\\nFast Non-Log-Concave Sampling under Nonconvex Equality and Inequality Constraints with Landing \\citep{jeon2025fast}\\\\\nEfficient Training-Free Online Routing for High-Volume Multi-LLM Serving \\citep{wu2025efficient}\\\\\nMulti-Class Support Vector Machine with Differential Privacy \\citep{park2025multiclass}\\\\\nFedWMSAM: Fast and Flat Federated Learning via Weighted Momentum and Sharpness-Aware Minimization \\citep{li2025fedwmsam}\\\\\nMDReID: Modality-Decoupled Learning for Any-to-Any Multi-Modal Object Re-Identification \\citep{feng2025mdreid}\\\\\nAligning Evaluation with Clinical Priorities: Calibration, Label Shift, and Error Costs \\citep{flores2025aligning}\\\\\nMeasure-Theoretic Anti-Causal Representation Learning \\citep{behnam2025measuretheoretic}\\\\\nSTaRFormer: Semi-Supervised Task-Informed Representation Learning via Dynamic Attention-Based Regional Masking for Sequential Data \\citep{forstenhausler2025starformer}\\\\\nImproving Time Series Forecasting via Instance-aware Post-hoc Revision \\citep{liu2025improving}\\\\\nTropical Attention: Neural Algorithmic Reasoning for Combinatorial Algorithms \\citep{hashemi2025tropical}\\\\\nAANet: Virtual Screening under Structural Uncertainty via Alignment and Aggregation \\citep{zhu2025aanet}\\\\\nNeuralSurv: Deep Survival Analysis with Bayesian Uncertainty Quantification \\citep{monod2025neuralsurv}\\\\\nTS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster \\citep{ning2025tsrag}\\\\\nSEMPO: Lightweight Foundation Models for Time Series Forecasting \\citep{he2025sempo}\\\\\nIA-GGAD: Zero-shot Generalist Graph Anomaly Detection via Invariant and Affinity Learning \\citep{zhang2025iaggad}\\\\\nMean Flows for One-step Generative Modeling \\citep{geng2025mean}\\\\\nProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs \\citep{butler2025proxyspex}\\\\\nNot All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting \\citep{yang2025not}\\\\\nTowards Accurate Time Series Forecasting via Implicit Decoding \\citep{li2025towards}\\\\\nLeast squares variational inference \\citep{fay2025least}\\\\\nCSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding \\citep{zhou2025csbrain}\\\\\nHierarchical Shortest-Path Graph Kernel Network \\citep{wang2025hierarchical}\\\\\n\\bottomrule\n\\end{tabular}}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 2,
+    "latex": "\\begin{table}[h]\n\\centering\n\\caption{\\textbf{ICLR 2026 Papers.} We utilize 5 accepted papers.}\\label{tab:iclr}\n\\resizebox{\\textwidth}{!}{\n\\begin{tabular}{l}\n\\toprule\n\\textbf{Title}\\\\\n\\midrule\nTemporal Sparse Autoencoders: Leveraging the Sequential Nature of Language for Interpretability \\citep{bhalla2026temporal}\\\\\nPinet: Optimizing hard-constrained neural networks with orthogonal projection layers \\citep{grontas2026pinet}\\\\\nDiscount Model Search for Quality Diversity Optimization in High-Dimensional Measure Spaces \\citep{tjanaka2026discount}\\\\\nReasoning as Representation: Rethinking Visual Reinforcement Learning in Image Quality Assessment \\citep{zhao2026reasoning}\\\\\nDecentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series \\citep{yu2026decentralized}\\\\\n\\bottomrule\n\\end{tabular}}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 3,
+    "latex": "\\begin{table}[!ht]\n\\centering\n\\caption{\\textbf{ICML 2026 Spotlight Papers.} We utilize 64 papers accepted as spotlight presentations.}\\label{tab:icml}\n\\resizebox{\\textwidth}{!}{\n\\begin{tabular}{l}\n\\toprule\n\\textbf{Title}\\\\\n\\midrule\nA Fully First-Order Layer for Differentiable Optimization \\citep{zhao2025fully}\\\\\nMixture of Concept Bottleneck Experts \\citep{santis2026mixture}\\\\\nMechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units \\citep{chen2026mechanistic}\\\\\nLoss-Aware Distributionally Robust Optimization via Trainable Optimal Transport Ambiguity Sets \\citep{ohnemus2026lossaware}\\\\\nSceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes \\citep{pfaff2026scenesmith}\\\\\nReward Redistribution for CVaR MDPs using a Bellman Operator on L-infinity \\citep{muni2026reward}\\\\\nIncremental BPE Tokenization \\citep{jiang2026incremental}\\\\\nTowards Optimal Robustness in Learning-Augmented Paging \\citep{chen2026towards}\\\\\nMany Experiments, Few Repetitions, Unpaired Data, and Sparse Effects: Is Causal Inference Possible? \\citep{schur2026many}\\\\\nAI Engram: In Search of Memory Traces in Artificial Intelligence \\citep{kwon2026ai}\\\\\nOC-space: a Unifying Perspective on Verification of Tree Ensembles \\citep{martens2026ocspace}\\\\\nRED-HDP-HMM: Observation-Dependent Durations for Bayesian Nonparametric Sequential Models \\citep{supinski2026redhdphmm}\\\\\nOptimal Decision-Making Based on Prediction Sets \\citep{wang2026optimal}\\\\\nProtein Fold Classification at Scale: Benchmarking and Pretraining \\citep{chen2026protein}\\\\\nGeometry-Aware Decoding with Wasserstein-Regularized Truncation and Mass Penalties for Large Language Models \\citep{davoodi2026geometryaware}\\\\\nConformal Policy Control \\citep{prinster2026conformal}\\\\\nTowards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs \\citep{pan2026towards}\\\\\nRare Event Analysis of Large Language Models \\citep{dorman2026rare}\\\\\nWhen to Trust the Cheap Check: Weak and Strong Verification for Reasoning \\citep{kiyani2026when}\\\\\nHarnessing Non-Adversarial Robustness in Large Language Models \\citep{zhou2026harnessing}\\\\\nDAVE: Distribution-Aware Attribution via ViT Gradient Decomposition \\citep{wrobel2026dave}\\\\\nBalancing Understanding and Generation in Discrete Diffusion Models \\citep{liu2026balancing}\\\\\nExact Functional ANOVA Decomposition for Categorical Inputs Models \\citep{ferrere2026exact}\\\\\nAsymmetric Perturbation in Solving Bilinear Saddle-Point Optimization \\citep{abe2026asymmetric}\\\\\nControl Consistency Losses for Diffusion Bridges \\citep{howard2026control}\\\\\nDeep Flow Networks \\citep{candogan2026deep}\\\\\nA Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity \\citep{li2026a}\\\\\nFlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU \\citep{ye2026flashsinkhorn}\\\\\nNear-Optimal Private Linear Regression via Iterative Hessian Mixing \\citep{lev2026nearoptimal}\\\\\nRethinking LLM Ensembling from the Perspective of Mixture Models \\citep{fu2026rethinking}\\\\\nControlled LLM Training on Spectral Sphere \\citep{xie2026controlled}\\\\\nTG-RAG: A Retrieval-Augmented Framework for Reasoning Guidance in Specialized Domains \\citep{su2026tgrag}\\\\\nTime series saliency maps: Explaining models across multiple domains \\citep{kechris2026time}\\\\\nOnline Conformal Prediction via Universal Portfolio Algorithms \\citep{liu2026online}\\\\\nCharacterizing, Evaluating, and Optimizing Complex Reasoning \\citep{zhang2026characterizing}\\\\\nThe Value of Variance: Mitigating Debate Collapse in Multi-Agent Systems via Uncertainty-Driven Policy Optimization \\citep{tang2026the}\\\\\nEEmo-Logic: A Unified Dataset and Multi-Stage Framework for Comprehensive Image-Evoked Emotion Assessment \\citep{gao2026eemologic}\\\\\nFrom Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space \\citep{li2026from}\\\\\n3ViewSense: Spatial and Mental Perspective Reasoning from Orthographic Views in Vision-Language Models \\citep{zhan2026viewsense}\\\\\nEfficient numeracy in language models through single-token number embeddings \\citep{kreitner2026efficient}\\\\\nEgoTactile: Learning Grasp Pressure for Everyday Objects from Egocentric Video \\citep{zeng2026egotactile}\\\\\nLearning to Discover at Test Time \\citep{yuksekgonul2026learning}\\\\\nOPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration \\citep{wang2026opus}\\\\\nGEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows \\citep{grebe2026gem}\\\\\nSteer Like the LLM: Activation Steering that Mimics Prompting \\citep{heyman2026steer}\\\\\nThe Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models \\citep{ni2026the}\\\\\nScalable Option Learning in High-Throughput Environments \\citep{henaff2026scalable}\\\\\nOn the Difficulty of Learning a Meta-network for Training Data Selection \\citep{du2026on}\\\\\nReinforced Sequential Monte Carlo for Amortised Sampling \\citep{choi2026reinforced}\\\\\nLanguage Model Circuits Are Sparse in the Neuron Basis \\citep{arora2026language}\\\\\nUnifying and Optimizing Data Values for Selection via Sequential Decision-Making \\citep{chi2026unifying}\\\\\nNeural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights \\citep{gan2026neural}\\\\\nInitialization is Half the Battle: Generating Diverse Images from a Guidance Potential Posterior \\citep{li2026initialization}\\\\\nFlashOptim: Optimizers for Memory-Efficient Training \\citep{ortiz2026flashoptim}\\\\\nBulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination \\citep{chen2026bulkcalibrated}\\\\\nMaximum Likelihood Reinforcement Learning \\citep{tajwar2026maximum}\\\\\nLearning Randomized Reductions \\citep{erata2024learning}\\\\\nSVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding \\citep{qiu2026svl}\\\\\nTabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention \\citep{liu2026tabswift}\\\\\nThinking in Flow: A Dissipative Stabilization Operator for Robust Autoregressive Reasoning \\citep{huang2026thinking}\\\\\nVALUEFLOW: Toward Pluralistic and Steerable Value-based Alignment in Large Language Models \\citep{kim2026valueflow}\\\\\nMixtures Closest To A Given Measure: A Semidefinite Programming Approach \\citep{durasinovic2026mixtures}\\\\\nWelfare-Optimal Classification with Accuracy Auctions \\citep{sadi2026welfareoptimal}\\\\\nEfficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models \\citep{geiping2026efficient}\\\\\n\\bottomrule\n\\end{tabular}}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 4,
+    "latex": "\\begin{table}[h]\n\\centering\n\\small\n\\setlength{\\tabcolsep}{5pt}\n\\renewcommand{\\arraystretch}{1.1}\n\\caption{\\textbf{Aggregate differences} over the five papers. The two systems apply different\nacceptance rules: AutoSOTA halts as soon as a pre-registered numerical target is cleared (e.g. after a\nsingle iteration on DMSQD~\\citep{tjanaka2026discount}), whereas ScientistTwo has no target metric\nand additionally requires the gain to be attributable to the proposed mechanism in ablation.}\n\\label{tab:autosota-quant}\n\\begin{tabular}{@{}lcc@{}}\n\\toprule\n& \\textbf{AutoSOTA} & \\textbf{ScientistTwo} \\\\\n\\midrule\nPapers with a reported gain             & 5\\,/\\,5 & 4\\,/\\,5 \\\\\nTypical change                     & config & new modules \\\\\nNew algorithmic component               & 0\\,/\\,5 & 4\\,/\\,4 \\\\\nModifies the evaluation protocol        & 1\\,/\\,5 & forbidden (audit) \\\\\nEvaluated on the full benchmark         & 0\\,/\\,5 & 4\\,/\\,4 \\\\\nComponent-level attribution             & none & 5--6 ablations per paper \\\\\nProduces a reviewable paper             & no & yes   \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/sections/appendix.tex",
+    "ordinal": 5,
+    "latex": "\\begin{table}[h!]\n\\centering\n\\footnotesize\n\\setlength{\\tabcolsep}{3pt}\n\\renewcommand{\\arraystretch}{1.1}\n\\caption{\\textbf{Paper-by-paper comparison} on the five submissions of Table~\\ref{tab:iclr}.\n$\\Delta$ is self-reported by each system against its own reproduced baseline; the two columns\noptimize different metrics in three of five cases and are not a head-to-head.}\n\\label{tab:autosota-qual}\n\\begin{tabular}{@{}p{0.085\\textwidth}p{0.25\\textwidth}p{0.30\\textwidth}p{0.27\\textwidth}@{}}\n\\toprule\n\\textbf{Paper} & \\textbf{AutoSOTA} & \\textbf{ScientistTwo} & \\textbf{Takeaway} \\\\\n\\midrule\n\nPinet \\newline \\citep{grontas2026pinet}\n& Config tuning, 3 lines change: \\texttt{n\\_iter\\_test} $50\\!\\to\\!10$, \\texttt{float64} off,\n  \\texttt{relu}$\\to$\\texttt{silu}. Latency $-16.7\\%$; feasibility unreported.\n& \\textsc{ANSE}: amortized Stiefel-nullspace reparameterization (equalities exact by\n  construction) $+$ reduced-space Douglas--Rachford $+$ log-barrier feasibility flow. Over the 4\n  DC3 sets: RS lower on 3/4 (up to $-69\\%$), CV $4\\mathrm{e}{-4}\\!\\to\\!2\\mathrm{e}{-14}$ on all 4,\n  training $3.0\\times$ faster.\n& AutoSOTA buys latency by deleting the solver work that controls the unmeasured feasibility;\n  ScientistTwo makes feasibility structural. Opposite corners of one trade-off. \\\\\n\\addlinespace\n\nDMSQD \\newline \\citep{tjanaka2026discount}\n& Config tuning, 1 line change, 1 iteration: emitters $15\\!\\to\\!20$. QD score $+7.3\\%$, at $+33\\%$\n  evaluations per iteration (unreported).\n& \\textsc{LC-FTT}: a dimension-adaptive contact-form (gradient-norm/Dirichlet-energy) smoothness\n  penalty on the DMS discount MLP, disabled in 2D and scaled up with measure dimension. Over the\n  full 11-domain grid: beats DMS in high dimensions (up to $+536$ QD $/\\,{+}2.08$pp coverage on 10D\n  Sphere; $+422$ QD $/\\,{+}1.16$pp averaged), $+0.61\\%{\\pm}0.27$ mean QD over reproduced DMS,\n  reproduced bit-exact.\n& Same paper, different axes: AutoSOTA scales emitter compute, ScientistTwo improves the discount\n  model at fixed budget. The ablation critic stripped LC-FTT's Fisher-Rao/tensor-train/Legendrian\n  machinery down to the lone component that carried the gain. Composable, not competing. \\\\\n\\addlinespace\n\nTeCh \\newline \\citep{yu2026decentralized}\n& Capacity $+$ regularization: \\texttt{d\\_model} $256\\!\\to\\!384$, label smoothing, AdamW.\n  Accuracy $0.8431\\!\\to\\!0.8806$ ($+4.45\\%$).\n& \\textsc{DMC-TeCh} beat the baseline on 5/6 metrics, but the ablation critic traced the gain to\n  EMA $+$ label smoothing rather than to the proposed multi-core mechanism, so it was not\n  accepted as a contribution.\n& Both systems found the \\emph{same} lever and disagree on whether it counts. The gap is\n  acceptance policy (metric movement vs.\\ attribution), not search capability. \\\\\n\\addlinespace\n\nT-SAE \\newline \\citep{bhalla2026temporal}\n& Evaluation-harness tuning, 1 line change: \\texttt{act\\_threshold\\_frac} $0.01\\!\\to\\!0.05$ changes how\n  tokens are shown to the LLM judge; the SAE is unchanged. Score $+2.25\\%$, but the reported\n  re-evaluation is $0.7557 <$ baseline $0.7586$.\n& \\textsc{Sheaf-SAE}: boundary-gated sheaf Dirichlet energy $+$ causal Koopman operator $+$\n  straight-through support projection. Trained from scratch on Pythia-160m and Gemma-2-2b; wins\n  Semantics and Context probes on 3/3 suites for both models at matched FVE ($+3.4\\%{\\pm}0.2$).\n& The AutoSOTA gain lives in the evaluator, not the model, and does not survive its own re-run.\n  Our I1/I2/I4 audits make this class of edit inadmissible. \\\\\n\\addlinespace\n\nRALI \\newline \\citep{zhao2026reasoning}\n& Fusion-weight tuning: tune $\\alpha_{\\mathrm{cls}}$ over CLS $+$ patch-mean $+$ patch-max, all\n  already implemented. PLCC $0.7803\\!\\to\\!0.8012$ ($+2.68\\%$) on one split.\n& \\textsc{DisCoRe-IQA}: LoRA quality adaptation $+$ supervised adversarial content--quality\n  disentanglement $+$ region-level quality segmentation. KonIQ-only training, full splits of all\n  7 datasets (6 zero-shot): PLCC $+0.006$, SRCC $+0.008$; content probe $0.935\\!\\to\\!0.130$;\n  worst-region hit rate $0.899$.\n& AutoSOTA's relative $\\Delta$ is larger but re-weights existing paths on one split. Ours spans\n  seven datasets and adds a capability the paper lacks; an earlier variant was rejected by our\n  own critic as statistically inert. \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/tables/ablation_audit.tex",
+    "ordinal": 1,
+    "latex": "\\begin{table}[t!]\n\\centering\n\\caption{\\textbf{Integrity Audit results.} Evaluation of paper and code integrity following \\cite{meng2026scientistone}. \\textbf{Score Verif.} ($\\uparrow$) indicates that every claimed results are reproducible. \\textbf{Spec. Violat.} ($\\downarrow$) indicates code specification violations or reward hacking issues. \\textbf{Ref. Verif.} ($\\downarrow$) checks for hallucinated references. \\textbf{Method-Code} ($\\uparrow$) measures alignment between paper methodology and code implementation.}\\label{tab:abl_coe}\n\\resizebox{\\textwidth}{!}{\n\\begin{tabular}{lccccccc}\n\\toprule\n& \\multicolumn{3}{c}{\\textbf{Refinement Agent}} & \\multicolumn{4}{c}{\\textbf{Integrity Audit}}\\\\\n\\cmidrule(lr){2-4}\\cmidrule(lr){5-8}\n\\textbf{Framework} & \\begin{tabular}[c]{c} \\textbf{Spec.}\\\\\\textbf{Violat.}\\end{tabular} & \\begin{tabular}[c]{c} \\textbf{Ref.}\\\\\\textbf{Verif.}\\end{tabular} & \\begin{tabular}[c]{c} \\textbf{Method}\\\\\\textbf{Code}\\end{tabular} & \\begin{tabular}[c]{c} \\textbf{Score}\\\\\\textbf{Verif.}\\end{tabular} & \\begin{tabular}[c]{c} \\textbf{Spec.}\\\\\\textbf{Violat.}\\end{tabular} & \\begin{tabular}[c]{c} \\textbf{Ref.}\\\\\\textbf{Verif.}\\end{tabular} & \\begin{tabular}[c]{c} \\textbf{Method}\\\\\\textbf{Code}\\end{tabular}\\\\\n\\midrule\n\\sname~(Variant) & \\textcolor{Red}{\\ding{55}} & \\textcolor{Red}{\\ding{55}} & \\textcolor{Red}{\\ding{55}} &  \\textbf{50/50} & 1/50 & 19/1840 & 39/50 \\\\\n\\sname~(Variant) & \\textcolor{Green}{\\ding{51}} & \\textcolor{Red}{\\ding{55}} & \\textcolor{Red}{\\ding{55}} &  \\textbf{49/49} & \\textbf{0/49}& 19/1817 & 38/49 \\\\\n\\sname~(Variant) & \\textcolor{Green}{\\ding{51}} & \\textcolor{Green}{\\ding{51}} & \\textcolor{Red}{\\ding{55}} & \\textbf{49/49} & \\textbf{0/49}& \\textbf{\\phantom{0}0/1814} & 38/49 \\\\\n\\rowcolor{Gray}\\textbf{\\sname~(Ours)} & \\textcolor{Green}{\\ding{51}} & \\textcolor{Green}{\\ding{51}} & \\textcolor{Green}{\\ding{51}} & \\textbf{49/49} & \\textbf{0/49}& \\textbf{\\phantom{0}0/1814} & \\textbf{49/49} \\\\\n\\bottomrule\n\\end{tabular}}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/tables/ablation_rebuttal.tex",
+    "ordinal": 1,
+    "latex": "\\begin{table}[t!]\n\\centering\n\\caption{\\textbf{Effectiveness of peer-review simulation.} Average review ratings (1--10 scale) and acceptance rates (\\%) evaluated by ScholarPeer and Stanford Agentic Reviewer. Best score is bolded.}\\label{tab:abl_rebuttal}\n\\resizebox{\\textwidth}{!}{\n\\begin{tabular}{lcccccc}\n\\toprule\n& & & \\multicolumn{2}{c}{\\textbf{ScholarPeer}} & \\multicolumn{2}{c}{\\textbf{Stanford Agentic Reviewer}}\\\\\n\\cmidrule(lr){4-5}\\cmidrule(lr){6-7}\n\\textbf{Framework} & \\textbf{Review Round} & \\textbf{Rebuttal Agent} & \\textbf{Avg. Rating} & \\textbf{Accept Rate} & \\textbf{Avg. Rating} & \\textbf{Accept Rate} \\\\\n\\midrule\nScientistOne & - & - & 3.8\\stdv{1.2} & 14.3 & 4.1\\stdv{0.7} & \\phantom{0}0.0 \\\\\n\\sname~(Variant) & 0 & \\textcolor{Red}{\\ding{55}} & 5.2\\stdv{2.2} & 46.9 & 5.6\\stdv{0.5} & 49.0  \\\\\n\\sname~(Ours) & 1 & \\textcolor{Green}{\\ding{51}} & 6.9\\stdv{1.6} & 79.6 & \\textbf{5.8}\\stdv{0.6} & \\textbf{73.5}  \\\\\n\\rowcolor{Gray}\\textbf{\\sname~(Ours)} & 2 & \\textcolor{Green}{\\ding{51}} & \\textbf{7.6}\\stdv{1.0} & \\textbf{93.9} & 5.7\\stdv{0.6} & 69.4  \\\\\n\\bottomrule\n\\end{tabular}}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/tables/ablation_review_refine.tex",
+    "ordinal": 1,
+    "latex": "\\begin{table}[t!]\n\\centering\n\\caption{\\textbf{Ablation study on review-driven idea refinement.} We report the main benchmark results generated by \\sname~using \\cite{kwon2026ai} as input. Specifically, the unlearning performance on TOFU ($\\mathtt{forget10}$ split, Llama-3.2-1B-Instruct). Bold text indicates the best performance.}\\label{tab:abl_meta_review}\n\\resizebox{\\linewidth}{!}{\n\\begin{tabular}{lcccccccc}\n\\toprule\n\\textbf{Author} & \\textbf{Method} & \\textbf{Meta-Rev.} & \\textbf{Overall $\\uparrow$} & \\textbf{Mem. $\\uparrow$} & \\textbf{Util. $\\uparrow$} & \\textbf{Priv. $\\uparrow$} & \\textbf{EM $\\downarrow$} & \\textbf{FQ $\\uparrow$}\\\\\n\\midrule\n\\cite{kwon2026ai} & Engram & - & 0.705 & 0.922 & 0.871 & 0.495 & \\textbf{0.004} & -0.551\\\\\n\\sname~(Variant) & LFR-Engram & \\textcolor{Red}{\\ding{55}} & 0.897 & 0.963 & 0.917 & 0.824 & 0.084 & -0.014\\\\\n\\rowcolor{Gray}\\textbf{\\sname~(Ours)} & \\textbf{FCD-Engram} & \\textcolor{Green}{\\ding{51}} & \\textbf{0.916} & \\textbf{0.969} & \\textbf{0.926} & \\textbf{0.860} & 0.071 & \\textbf{-0.001}\\\\\n\\bottomrule\n\\end{tabular}}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/tables/ai_scientist_comparison.tex",
+    "ordinal": 1,
+    "latex": "\\begin{table}[t!]\n\\centering\n\\caption{\\textbf{Comparison with autonomous research agents.} We report the average review ratings, standard deviations (1--10 scale), and acceptance rates (\\%) given by ScholarPeer and Stanford Agentic Reviewer. The column ``\\# Papers'' represents the number of publicly released AI-generated papers by each autonomous research agent used to aggregate performance. Bold indicates the best performance.}\\label{tab:vs_ai_scientist}\n\\begin{tabular}{lccccc}\n\\toprule\n& & \\multicolumn{2}{c}{\\textbf{ScholarPeer}} & \\multicolumn{2}{c}{\\textbf{Stanford Agentic Reviewer}}\\\\\n\\cmidrule(lr){3-4}\\cmidrule(lr){5-6}\n\\textbf{Framework} & \\textbf{\\# Papers} & \\multicolumn{1}{c}{\\textbf{Avg. Rating}} & \\multicolumn{1}{c}{\\textbf{Accept Rate}} & \\multicolumn{1}{c}{\\textbf{Avg. Rating}} & \\multicolumn{1}{c}{\\textbf{Accept Rate}}\\\\\n\\midrule\nAI-Researcher & \\phantom{0}7 & 1.0\\stdv{0.0} & \\phantom{0}0.0 & 2.4\\stdv{0.6} & \\phantom{0}0.0\\\\\nCycleResearcher & \\phantom{0}6 & 1.0\\stdv{0.0} & \\phantom{0}0.0 & 2.8\\stdv{1.0} & \\phantom{0}0.0\\\\\nAI Scientist-v2 & \\phantom{0}3 & 2.0\\stdv{1.0} & \\phantom{0}0.0 & 2.5\\stdv{0.2} & \\phantom{0}0.0\\\\\nAutoResearchClaw & \\phantom{0}4 & 2.5\\stdv{1.0} & \\phantom{0}0.0 & 3.7\\stdv{0.5} & \\phantom{0}0.0\\\\\nZochi & \\phantom{0}2 & 3.0\\stdv{0.0} & \\phantom{0}0.0 & 2.9\\stdv{0.6} & \\phantom{0}0.0\\\\\nDeepScientist & \\phantom{0}3 & 3.0\\stdv{0.0} & \\phantom{0}0.0 & 4.1\\stdv{0.6} & \\phantom{0}0.0\\\\\nScientistOne & 21 & 3.8\\stdv{1.2} & 14.3 & 4.1\\stdv{0.7} & \\phantom{0}0.0\\\\\n\\rowcolor{Gray}\\textbf{\\sname~(Ours)} & 86 & \\textbf{7.5}\\stdv{1.3} & \\textbf{91.9} & \\textbf{5.7}\\stdv{0.6} & \\textbf{72.1} \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/tables/antigravity.tex",
+    "ordinal": 1,
+    "latex": "\\begin{table}[t!]\n\\centering\n\\caption{\\textbf{Coding Agent Generalizability.} We report success rate (SR; \\%) on 5 tasks sourced from ICLR 2026 accepted papers, along with average performance gain (\\%), review ratings (1--10 scale), and acceptance rates (\\%) evaluated by ScholarPeer and Stanford Agentic Reviewer across successful cases. Claude Code and Antigravity are powered by Opus~4.8 and Gemini~3.8 Flash, respectively.}\\label{tab:antigravity}\n\\resizebox{\\textwidth}{!}{\n\\begin{tabular}{lccccccc}\n\\toprule\n& & & & \\multicolumn{2}{c}{\\textbf{ScholarPeer}} & \\multicolumn{2}{c}{\\textbf{Stanford Agentic Reviewer}}\\\\\n\\cmidrule(lr){5-6}\\cmidrule(lr){7-8}\n\\textbf{Framework} & \\textbf{Coding Agent} & \\textbf{SR} & \\textbf{Avg. Gain} & \\textbf{Avg. Rating} & \\textbf{Accept Rate} & \\textbf{Avg. Rating} & \\textbf{Accept Rate} \\\\\n\\midrule\n\\sname~(Ours) & Claude Code & 80.0 & \\phantom{0}3.8 & 7.0\\stdv{1.2} & 100.0 & 5.4\\stdv{0.2} & 75.0 \\\\\n\\sname~(Ours) & Antigravity & 60.0 & 16.7 & 6.3\\stdv{1.5} & \\phantom{0}66.7 & 4.8\\stdv{1.0}& 66.7 \\\\\n\\bottomrule\n\\end{tabular}}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/tables/autosota_comparison.tex",
+    "ordinal": 1,
+    "latex": "\\begin{table}[t!]\n\\centering\n\\caption{\\textbf{Comparison with AutoSOTA.} We report the number of tasks successfully done by each framework, and performance gain (\\%) across successful cases. For NeurIPS 2025 and ICLR 2026, evaluations use the same set of 33 and 4 input papers, respectively. Bold indicates the best score.}\\label{tab:vs_autosota}\n% \\vspace{-0.1in}\n\\resizebox{\\textwidth}{!}{\n\\begin{tabular}{lccccccc}\n\\toprule\n& \\multicolumn{3}{c}{\\textbf{Overall}} & \\multicolumn{2}{c}{\\textbf{NeurIPS 2025}} & \\multicolumn{2}{c}{\\textbf{ICLR 2026}}\\\\\n\\cmidrule(lr){2-4}\\cmidrule(lr){5-6}\\cmidrule(lr){7-8}\n\\textbf{Framework} & \\multicolumn{1}{c}{\\textbf{\\# Papers}} & \\multicolumn{1}{c}{\\textbf{Med. Gain}} & \\multicolumn{1}{c}{\\textbf{Avg. Gain}} & \\multicolumn{1}{c}{\\textbf{Med. Gain}} & \\multicolumn{1}{c}{\\textbf{Avg. Gain}} & \\multicolumn{1}{c}{\\textbf{Med. Gain}} & \\multicolumn{1}{c}{\\textbf{Avg. Gain}} \\\\\n\\midrule\nAutoSOTA \\citep{li2026autosota} & 105 & 2.7 & \\phantom{0}7.5 & 3.7 & \\phantom{0}8.5 & \\textbf{5.0} & \\textbf{7.2}\\\\\n\\rowcolor{Gray}\\textbf{\\sname~(Ours)} & \\phantom{0}86 & \\textbf{7.7} & \\textbf{25.2} & \\textbf{7.0} & \\textbf{13.9} & 2.2 & 3.8 \\\\\n\\bottomrule\n\\end{tabular}}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/tables/case_study_ts_rag.tex",
+    "ordinal": 1,
+    "latex": "\\begin{table}[t!]\n\\centering\n\\caption{\\textbf{Case Study: Main Results of DynaSpec-RAG developed by \\sname.} Zero-shot long-term forecasting performance ($T=512, L=64$) across seven benchmarks, reported as MSE / MAE (lower is better). Best results are in \\textbf{bold}, second-best are \\underline{underlined}. ``---'' indicates datasets present in a model's pretraining corpus for which zero-shot numbers are omitted.}\n\\label{tab:ts_rag}\n\\resizebox{\\textwidth}{!}{%\n\\begin{tabular}{lcccccccc}\n\\toprule\n\\textbf{Method} & \\textbf{DynaSpec-RAG} & \\textbf{TS-RAG} & \\textbf{Chronos-Bolt B} & \\textbf{MOMENT} & \\textbf{TTM B} & \\textbf{Moirai B} & \\textbf{TimesFM} & \\textbf{Chronos B} \\\\\n\\midrule\nETTh1 & \\textbf{0.3467} / \\underline{0.3627} & \\underline{0.3557} / \\textbf{0.3624} & 0.3616 / 0.3650 & 0.3920 / 0.4110 & 0.3619 / 0.3710 & 0.3686 / 0.3835 & 0.4254 / 0.3825 & 0.4217 / 0.3806 \\\\\nETTh2 & \\textbf{0.2399} / \\textbf{0.2970} & \\underline{0.2451} / \\underline{0.2982} & 0.2517 / 0.2992 & 0.2742 / 0.3327 & 0.2531 / 0.3032 & 0.2547 / 0.3053 & 0.2894 / 0.3233 & 0.2659 / 0.3136 \\\\\nETTm1 & \\textbf{0.2803} / \\textbf{0.3090} & \\underline{0.2906} / \\underline{0.3114} & 0.3109 / 0.3185 & 0.3506 / 0.3834 & 0.3152 / 0.3248 & 0.5399 / 0.4322 & 0.3321 / 0.3326 & 0.3935 / 0.3695 \\\\\nETTm2 & \\textbf{0.1428} / \\textbf{0.2219} & \\underline{0.1466} / \\underline{0.2231} & 0.1487 / 0.2236 & 0.1703 / 0.2579 & 0.1511 / 0.2405 & 0.1958 / 0.2687 & 0.1703 / 0.2552 & 0.1663 / 0.2522 \\\\\nWeather & \\textbf{0.1397} / \\textbf{0.1749} & \\underline{0.1454} / \\underline{0.1771} & 0.1525 / 0.1825 & 0.1801 / 0.2384 & 0.1543 / 0.1893 & 0.1711 / 0.1912 & --- / --- & 0.1897 / 0.2107 \\\\\nElectricity & 0.1135 / 0.2059 & \\textbf{0.1120} / \\textbf{0.2002} & \\underline{0.1132} / \\underline{0.2004} & 0.1967 / 0.3028 & 0.1715 / 0.2643 & 0.1832 / 0.2814 & --- / --- & 0.1460 / 0.2237 \\\\\nExchange & \\textbf{0.0615} / \\textbf{0.1704} & \\underline{0.0627} / \\underline{0.1718} & 0.0673 / 0.1780 & 0.0979 / 0.2059 & 0.0657 / 0.1725 & 0.0663 / 0.1720 & 0.0695 / 0.1802 & 0.0831 / 0.1879 \\\\\n\\midrule\n\\textbf{Average} & \\textbf{0.1892} / \\textbf{0.2488} & \\underline{0.1940} / \\underline{0.2492} & 0.2008 / 0.2525 & 0.2374 / 0.3046 & 0.2104 / 0.2665 & 0.2542 / 0.2906 & 0.2573 / 0.2948 & 0.2380 / 0.2769 \\\\\n\\bottomrule\n\\end{tabular}}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/tables/conference_accepted_comparison.tex",
+    "ordinal": 1,
+    "latex": "\\begin{table}[t!]\n\\centering\n\\caption{\\textbf{Comparison with human-author papers and AI-generated papers.} We report the average review ratings, standard deviations (1--10 scale), and  acceptance rates (\\%) evaluated by ScholarPeer \\citep{goyal2026scholarpeer} and Stanford Agentic Reviewer. The top section evaluates papers accepted at each venue, which serve as inputs for \\sname. The bottom section reports the evaluation of papers generated by \\sname~using the accepted papers from the corresponding venue. The column ``\\# Papers'' indicates the number of accepted reference papers evaluated or the number of papers successfully generated by \\sname. $\\dagger$ denotes AI-generated papers.}\\label{tab:vs_conference}\n% \\vspace{-0.1in}\n\\resizebox{\\textwidth}{!}{\n\\begin{tabular}{lccccc}\n\\toprule\n& & \\multicolumn{2}{c}{\\textbf{ScholarPeer}} & \\multicolumn{2}{c}{\\textbf{Stanford Agentic Reviewer}}\\\\\n\\cmidrule(lr){3-4}\\cmidrule(lr){5-6}\n\\textbf{Venue} & \\textbf{\\# Papers} & \\multicolumn{1}{c}{\\textbf{Avg. Rating}} & \\multicolumn{1}{c}{\\textbf{Accept Rate}} & \\multicolumn{1}{c}{\\textbf{Avg. Rating}} & \\multicolumn{1}{c}{\\textbf{Accept Rate}}\\\\\n\\midrule\nAgent4Science 2025 Accepted$^\\dagger$ & \\phantom{0}4 & 3.0\\stdv{0.0} & \\phantom{0}\\phantom{0}0.0 & 3.8\\stdv{0.4} & \\phantom{0}0.0\\\\\nICLR 2026 Accepted & \\phantom{0}5 & 6.8\\stdv{1.6} & \\phantom{0}60.0 & 5.2\\stdv{0.7} & 60.0 \\\\\nNeurIPS 2025 Accepted & 38 & 6.2\\stdv{1.9} & \\phantom{0}65.8 & 5.5\\stdv{0.7} & 76.3 \\\\\nICML 2026 Spotlight & 64 & 6.9\\stdv{1.5} & \\phantom{0}79.7 & 6.1\\stdv{0.5} & 96.9 \\\\\n\\midrule\n\\rowcolor{Gray}\\textbf{\\textit{\\sname~(Ours)}} & & & & & \\\\\n\\midrule\nICLR 2026$^\\dagger$ & \\phantom{0}4/5\\phantom{00} & 7.0\\stdv{1.2} & 100.0 & 5.4\\stdv{0.2} & 75.0 \\\\\nNeurIPS 2025$^\\dagger$ & 33/38\\phantom{0} & 7.3\\stdv{1.7} & \\phantom{0}87.9 & 5.6\\stdv{0.7} & 75.8 \\\\\nICML 2026 Spotlight$^\\dagger$ & 49/64\\phantom{0} & 7.6\\stdv{1.0} & \\phantom{0}93.9 & 5.7\\stdv{0.6} & 69.4 \\\\\nOverall$^\\dagger$ & 86/107 & 7.5\\stdv{1.3} & \\phantom{0}91.9 & 5.7\\stdv{0.6} & 72.1 \\\\\n\\bottomrule\n\\end{tabular}}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/tables/human_eval.tex",
+    "ordinal": 1,
+    "latex": "\\begin{table}[t]\n\\centering\n\\small\n\\caption{\\textbf{Human Reviewers Evaluation.} Standalone scores represent mean absolute ratings for \\sname~on a 1--5 Likert scale (> 3.0 indicates positive endorsement). Comparative scores represent relative preference between human-written and \\sname-generated papers on a 1--5 scale (3.0 = Parity, > 3.0 favors \\sname).}\n\\label{tab:human_eval}\n\\begin{tabular}{lcc}\n\\toprule\n\\textbf{Focus Aspect} & \\textbf{Standalone} & \\textbf{Relative to Human} \\\\\n\\midrule\nIntroduction (Motivation \\& Related Works) & 4.2 & 3.1 (Human < \\sname)\\\\\nMethod (Soundness \\& Algorithmic Rigor) & 4.1 & 2.9 (Human > \\sname)\\\\\nExperiment (Baseline \\& Benchmark) & 4.0 & 3.5 (Human < \\sname)\\\\\nExperiment (Ablations) & 4.3 & 3.3 (Human < \\sname)\\\\\nExperiment (Insight \\& Limitation Analysis) & 4.0 & 3.3 (Human < \\sname)\\\\\nOverall (Scientific Maturity \\& Top-Tier Venue Readiness) & 3.7 & 3.0 (Human = \\sname)\\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/tables/overview.tex",
+    "ordinal": 1,
+    "latex": "\\begin{table}[t!]\n\\centering\n\\caption{\\textbf{\\sname~overview.} At each stage, \\sname~generates a \\texttt{candidate} using a specialized AI agent and employs a corresponding \\texttt{critic} agent to decide whether to accept the output or invoke a \\texttt{refine}ment agent to improve and supplement it.}\\label{tab:overview}\n\\resizebox{\\textwidth}{!}{\n\\begin{tabular}{llll}\n\\toprule\n\\texttt{stage} & \\texttt{candidate} & \\texttt{critic} & \\texttt{refine}\\\\\n\\midrule\n\\multicolumn{4}{l}{\\textbf{\\textit{Generating Novel Seed Ideas ($\\S$~\\ref{subsec:seed_idea})}}}\\\\\nFinding limitations & Set of limitations & \\textit{Can guide novel improvement?} & \\textit{Add missing limitations}\\\\\nSeed idea generation & Seed ideas & \\textit{Is it novel?} & \\textit{Add more novel ideas}\\\\\n\\midrule\n\\multicolumn{4}{l}{\\textbf{\\textit{Evaluating Ideas ($\\S$~\\ref{subsec:eval_idea})}}}\\\\\nReproduce baseline on subset & SOTA baseline result & - & - \\\\\nIdea experiment on subset & Idea, Code, Results & \\textit{Is it better than the reproduced baseline?} & \\textit{Refine idea through engineering}\\\\\nIdea experiment on full-set & Idea, Code, Results & \\textit{Is it better than the original SOTA result?} & \\textit{Refine idea through engineering}\\\\\n\\midrule\n\\multicolumn{4}{l}{\\textbf{\\textit{Refining Ideas ($\\S$~\\ref{subsec:refine_idea}})}}\\\\\nIdea evolution & Evolved idea & \\textit{Idea experiment} & \\textit{Evolve idea from traces}\\\\\nSelect best idea & Best idea & \\textit{What is the best idea from traces?} & - \\\\\n\\midrule\n\\multicolumn{4}{l}{\\textbf{\\textit{Ablation Studies ($\\S$~\\ref{subsec:ablating_idea}})}}\\\\\nAblation study & Idea, Ablation results & \\textit{Is the component breakdown clean?} & \\textit{Refine the method}\\\\\n\\midrule\n\\multicolumn{4}{l}{\\textbf{\\textit{Drafting \\& Meta-Reviewing ($\\S$~\\ref{subsec:drafting_paper}, $\\S$~\\ref{subsec:meta-reviewing})}}}\\\\\nInitial drafting & Manuscript & - & - \\\\\nPeer-Review & Manuscript & \\textit{Is review score good enough?} & \\textit{Run rebuttal experiments}\\\\\nMeta-Review & Manuscript, Review & \\textit{Does it meet the venue bar?} & \\textit{Refine idea and analyze again}\\\\\n\\bottomrule\n\\end{tabular}}\n\\end{table}"
+  },
+  {
+    "type": "lstlisting",
+    "source": "paper/source/tables/pseudo_code.tex",
+    "ordinal": 1,
+    "latex": "\\begin{lstlisting}[style=pseudopython]\ndef stage(candidate, critic, refine, max_rounds):\n    for _ in range(max_rounds):\n        verdict, feedback = critic(candidate)\n        if verdict == \"accept\":\n            return candidate\n        elif verdict == \"refine\":\n            candidate = refine(candidate, feedback)\n        else:\n            return None\n    return None\n\\end{lstlisting}"
+  },
+  {
+    "type": "table",
+    "source": "paper/source/tables/sequential_scientisttwo.tex",
+    "ordinal": 1,
+    "latex": "\\begin{table}[t!]\n\\centering\n\\caption{\\textbf{Iterative Frontier Expansion.} Sequential discovery results where \\sname~uses its own newly discovered state-of-the-art method as context to drive further algorithmic improvements.}\\label{tab:seq_scientisttwo}\n\\begin{tabular}{lll}\n\\toprule\n\\textbf{Frontier} & \\textbf{Researcher} & \\textbf{Method}\\\\\n\\midrule\nHuman Baseline & Human & \\citet{jiang2026incremental}\\\\\n\\midrule\n&&{$\\downarrow$ \\textit{Relative Gain}: 10.9\\%}\\\\\n\\rowcolor{Gray}First Iteration & \\textbf{\\sname~(Ours)} & \\textbf{VD-STrans} (\\textit{Rating: 6.5})\\\\\n&&{$\\downarrow$ \\textit{Relative Gain}: 9.6\\%}\\\\\n\\rowcolor{Gray}Second Iteration & \\textbf{\\sname~(Ours)} & \\textbf{BXT-Transducer} (\\textit{Rating: 5.6})\\\\\n&&{$\\downarrow$ \\textit{Relative Gain}: 8.2\\%}\\\\\n\\rowcolor{Gray}Third Iteration & \\textbf{\\sname~(Ours)} & \\textbf{SBR-Transducer} (\\textit{Rating: \\textbf{7.1}})\\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}"
+  }
+]

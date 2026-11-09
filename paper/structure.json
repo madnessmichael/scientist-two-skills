@@ -1,0 +1,281 @@
+{
+  "pdf_bookmarks": [
+    [
+      1,
+      "Introduction",
+      1
+    ],
+    [
+      1,
+      "Related Work",
+      3
+    ],
+    [
+      1,
+      "ScientistTwo: An Expert-Level Autonomous Research Agent",
+      4
+    ],
+    [
+      2,
+      "Generating Novel Seed Ideas: Targeting Limitation Resolution",
+      6
+    ],
+    [
+      2,
+      "Evaluating Ideas: Experimenting from Subset to Full-Set",
+      6
+    ],
+    [
+      2,
+      "Refining Ideas: Improving Ideas Using Experimental Results",
+      7
+    ],
+    [
+      2,
+      "Ablation Studies: Analyzing Source of Gain and Refining Ideas",
+      8
+    ],
+    [
+      2,
+      "Manuscript Drafting: Simulating the Peer-Review Process",
+      8
+    ],
+    [
+      2,
+      "Meta-Reviewing: Final Assessment and Review-Driven Refinement",
+      9
+    ],
+    [
+      1,
+      "Experiments",
+      9
+    ],
+    [
+      2,
+      "Main Results",
+      10
+    ],
+    [
+      2,
+      "Ablation Studies",
+      12
+    ],
+    [
+      2,
+      "Discussion",
+      15
+    ],
+    [
+      1,
+      "Conclusion",
+      18
+    ],
+    [
+      1,
+      "Experiment Details",
+      28
+    ],
+    [
+      2,
+      "Benchmark",
+      28
+    ],
+    [
+      2,
+      "Configuration",
+      30
+    ],
+    [
+      1,
+      "Detailed Comparison with AutoSOTA",
+      30
+    ],
+    [
+      1,
+      "Qualitative Results",
+      33
+    ],
+    [
+      1,
+      "Case Study: DynaSpec-RAG",
+      33
+    ]
+  ],
+  "large_type_spans": [
+    {
+      "page": 1,
+      "size": 20.92,
+      "text": "ScientistTwo: Pioneering the Human"
+    },
+    {
+      "page": 1,
+      "size": 20.92,
+      "text": "Knowledge Frontier with Autonomous AI"
+    },
+    {
+      "page": 1,
+      "size": 12.95,
+      "text": "1. Introduction"
+    },
+    {
+      "page": 1,
+      "size": 20.0,
+      "text": "arXiv:2609.19644v1  [cs.AI]  17 Sep 2026"
+    },
+    {
+      "page": 3,
+      "size": 12.95,
+      "text": "2. Related Work"
+    },
+    {
+      "page": 5,
+      "size": 12.0,
+      "text": " candidate"
+    },
+    {
+      "page": 5,
+      "size": 12.0,
+      "text": " critic"
+    },
+    {
+      "page": 5,
+      "size": 12.0,
+      "text": " refine"
+    },
+    {
+      "page": 5,
+      "size": 12.95,
+      "text": "3. ScientistTwo: An Expert-Level Autonomous Research Agent"
+    },
+    {
+      "page": 10,
+      "size": 12.95,
+      "text": "4. Experiments"
+    },
+    {
+      "page": 18,
+      "size": 12.95,
+      "text": "5. Conclusion"
+    },
+    {
+      "page": 19,
+      "size": 12.95,
+      "text": "References"
+    },
+    {
+      "page": 28,
+      "size": 12.95,
+      "text": "A. Experiment Details"
+    },
+    {
+      "page": 30,
+      "size": 12.95,
+      "text": "B. Detailed Comparison with AutoSOTA"
+    },
+    {
+      "page": 33,
+      "size": 12.95,
+      "text": "C. Qualitative Results"
+    },
+    {
+      "page": 33,
+      "size": 12.95,
+      "text": "D. Case Study: DynaSpec-RAG"
+    },
+    {
+      "page": 47,
+      "size": 13.44,
+      "text": "Verdict:"
+    },
+    {
+      "page": 47,
+      "size": 13.44,
+      "text": " "
+    },
+    {
+      "page": 47,
+      "size": 13.44,
+      "text": "Reproducible"
+    },
+    {
+      "page": 47,
+      "size": 13.44,
+      "text": " ✅"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": "D"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": "S"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": "-RAG: D"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": " S"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": " R"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": "F"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": " M"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": "-S"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": " S"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": " G"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": "Z"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": "-S"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": " T"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": " S"
+    },
+    {
+      "page": 56,
+      "size": 13.24,
+      "text": " F"
+    }
+  ]
+}

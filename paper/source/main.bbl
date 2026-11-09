@@ -1,0 +1,708 @@
+\begin{thebibliography}{140}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abe et~al.(2026)Abe, Sakamoto, Ariu, and Iwasaki]{abe2026asymmetric}
+K.~Abe, M.~Sakamoto, K.~Ariu, and A.~Iwasaki.
+\newblock Asymmetric perturbation in solving bilinear saddle-point optimization.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Arora et~al.(2026)Arora, Wu, Steinhardt, and Schwettmann]{arora2026language}
+A.~Arora, Z.~Wu, J.~Steinhardt, and S.~Schwettmann.
+\newblock Language model circuits are sparse in the neuron basis.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Balazadeh et~al.(2025)Balazadeh, Kamkari, Thomas, Ma, Li, Cresswell, and Krishnan]{balazadeh2025causalpfn}
+V.~Balazadeh, H.~Kamkari, V.~Thomas, J.~Ma, B.~Li, J.~C. Cresswell, and R.~Krishnan.
+\newblock Causal{PFN}: Amortized causal effect estimation via in-context learning.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Behnam and Wang(2025)]{behnam2025measuretheoretic}
+A.~Behnam and B.~Wang.
+\newblock Measure-theoretic anti-causal representation learning.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Benard(2025)]{benard2025tree}
+C.~Benard.
+\newblock Tree ensemble explainability through the hoeffding functional decomposition and tree{HFD} algorithm.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Bhalla et~al.(2026)Bhalla, Oesterling, Verdun, Lakkaraju, and Calmon]{bhalla2026temporal}
+U.~Bhalla, A.~Oesterling, C.~M. Verdun, H.~Lakkaraju, and F.~Calmon.
+\newblock Temporal sparse autoencoders: Leveraging the sequential nature of language for interpretability.
+\newblock In \emph{The Fourteenth International Conference on Learning Representations}, 2026.
+
+\bibitem[Butler et~al.(2025)Butler, Agarwal, Kang, Erginbas, Yu, and Ramchandran]{butler2025proxyspex}
+L.~Butler, A.~Agarwal, J.~S. Kang, Y.~E. Erginbas, B.~Yu, and K.~Ramchandran.
+\newblock Proxy{SPEX}: Inference-efficient interpretability via sparse feature interactions in {LLM}s.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Candogan and Foussoul(2026)]{candogan2026deep}
+O.~Candogan and A.~Foussoul.
+\newblock Deep flow networks.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Chen et~al.(2025{\natexlab{a}})Chen, Zhou, Peng, and Wang]{chen2025balanced}
+B.~Chen, Z.~Zhou, L.~Peng, and Z.~Wang.
+\newblock Balanced active inference.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025{\natexlab{a}}.
+
+\bibitem[Chen et~al.(2026{\natexlab{a}})Chen, Manolache, Niepert, and Borgwardt]{chen2026protein}
+D.~Chen, A.~Manolache, M.~Niepert, and K.~Borgwardt.
+\newblock Protein fold classification at scale: Benchmarking and pretraining.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026{\natexlab{a}}.
+
+\bibitem[Chen et~al.(2026{\natexlab{b}})Chen, Luo, and Pan]{chen2026mechanistic}
+J.~Chen, Y.~Luo, and L.~Pan.
+\newblock Mechanistic data attribution: Tracing the training origins of interpretable {LLM} units.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026{\natexlab{b}}.
+
+\bibitem[Chen et~al.(2026{\natexlab{c}})Chen, Mishra, Nam, Meng, Pfister, and Yoon]{chen2026mars}
+J.~Chen, B.~D. Mishra, J.~Nam, R.~Meng, T.~Pfister, and J.~Yoon.
+\newblock Mars: Modular agent with reflective search for automated ai research.
+\newblock \emph{arXiv preprint arXiv:2602.02660}, 2026{\natexlab{c}}.
+
+\bibitem[Chen et~al.(2025{\natexlab{b}})Chen, Cui, Liu, Xiang, Zheng, Li, and Shlizerman]{chen2025savvy}
+M.~Chen, Z.~Cui, X.~Liu, J.~Xiang, C.~Zheng, J.~Li, and E.~Shlizerman.
+\newblock {SAVVY}: Spatial awareness via audio-visual {LLM}s through seeing and hearing.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025{\natexlab{b}}.
+
+\bibitem[Chen et~al.(2026{\natexlab{d}})Chen, Berrett, Damoulas, and Caprio]{chen2026bulkcalibrated}
+M.~Chen, T.~Berrett, T.~Damoulas, and M.~Caprio.
+\newblock Bulk-calibrated credal ambiguity sets: Fast, tractable decision making under out-of-sample contamination.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026{\natexlab{d}}.
+
+\bibitem[Chen et~al.(2026{\natexlab{e}})Chen, Zhao, Tang, Wang, and Deng]{chen2026towards}
+P.~Chen, H.~Zhao, X.~Tang, Y.~Wang, and S.~Deng.
+\newblock Towards optimal robustness in learning-augmented paging.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026{\natexlab{e}}.
+
+\bibitem[Chi et~al.(2026)Chi, Wu, Zhou, Light, Dodwell, and Ma]{chi2026unifying}
+H.~Chi, Q.~Wu, Z.~Zhou, J.~Light, E.~Dodwell, and Y.~Ma.
+\newblock Unifying and optimizing data values for selection via sequential decision-making.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Choi et~al.(2026)Choi, Mittal, Elvira, Park, and Whitammer]{choi2026reinforced}
+S.~Choi, S.~Mittal, V.~Elvira, J.~Park, and E.~S. Whitammer.
+\newblock Reinforced sequential monte carlo for amortised sampling.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Davoodi et~al.(2026)Davoodi, Rezazadeh, Davoudi, and Pezeshkpour]{davoodi2026geometryaware}
+A.~G. Davoodi, N.~Rezazadeh, S.~P.~M. Davoudi, and P.~Pezeshkpour.
+\newblock Geometry-aware decoding with wasserstein-regularized truncation and mass penalties for large language models.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Dorman et~al.(2026)Dorman, Gillman, Rose, Mair, and Garrahan]{dorman2026rare}
+J.~M. Dorman, E.~Gillman, D.~C. Rose, J.~F. Mair, and J.~P. Garrahan.
+\newblock Rare event analysis of large language models.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Du et~al.(2026)Du, Zhao, and Li]{du2026on}
+Z.~Du, J.~Zhao, and B.~Li.
+\newblock On the difficulty of learning a meta-network for training data selection.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Durasinovic et~al.(2026)Durasinovic, Lasserre, and Magron]{durasinovic2026mixtures}
+S.~Durasinovic, J.~B. Lasserre, and V.~Magron.
+\newblock Mixtures closest to a given measure: A semidefinite programming approach.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Eldesokey et~al.(2025)Eldesokey, Cveji{\'c}, Ghanem, and Wonka]{eldesokey2025mindtheglitch}
+A.~Eldesokey, A.~Cveji{\'c}, B.~Ghanem, and P.~Wonka.
+\newblock Mind-the-glitch: Visual correspondence for detecting inconsistencies in subject-driven generation.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Erata et~al.(2026)Erata, Paradise, Typaldos, Antonopoulos, Nguyen, Goldwasser, and Piskac]{erata2024learning}
+F.~Erata, O.~Paradise, T.~Typaldos, T.~Antonopoulos, T.~Nguyen, S.~Goldwasser, and R.~Piskac.
+\newblock Learning randomized reductions.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Fay et~al.(2025)Fay, Chopin, and Barthelm{\'e}]{fay2025least}
+Y.~L. Fay, N.~Chopin, and S.~Barthelm{\'e}.
+\newblock Least squares variational inference.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Feng et~al.(2025)Feng, Li, Hu, Zhang, Tan, and Ji]{feng2025mdreid}
+Y.~Feng, J.~Li, J.~Hu, Y.~Zhang, L.~Tan, and J.~Ji.
+\newblock {MDR}e{ID}: Modality-decoupled learning for any-to-any multi-modal object re-identification.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Ferrere et~al.(2026)Ferrere, Bousquet, Gamboa, Loubes, and Mur{\'e}]{ferrere2026exact}
+B.~Ferrere, N.~Bousquet, F.~Gamboa, J.-M. Loubes, and J.~Mur{\'e}.
+\newblock Exact functional {ANOVA} decomposition for categorical inputs models.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Flores et~al.(2025)Flores, Smith, Fukuyama, and Wilson]{flores2025aligning}
+G.~Flores, A.~H. Smith, J.~Fukuyama, and A.~C. Wilson.
+\newblock Aligning evaluation with clinical priorities: Calibration, label shift, and error costs.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Forstenh{\"a}usler et~al.(2025)Forstenh{\"a}usler, K{\"u}lzer, Anagnostopoulos, Parambath, and Weber]{forstenhausler2025starformer}
+M.~Forstenh{\"a}usler, D.~K{\"u}lzer, C.~Anagnostopoulos, S.~A.~P. Parambath, and N.~Weber.
+\newblock {ST}a{RF}ormer: Semi-supervised task-informed representation learning via dynamic attention-based regional masking for sequential data.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Fu et~al.(2026)Fu, Jiang, WU, Liu, Zhou, and Yang]{fu2026rethinking}
+J.~Fu, Y.~Jiang, P.~WU, C.~Liu, J.~T. Zhou, and X.~Yang.
+\newblock Rethinking {LLM} ensembling from the perspective of mixture models.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Fu et~al.(2025)Fu, Wang, Shao, Diao, Wu, An, Yu, Li, and Xu]{fu2025on}
+Y.~Fu, F.~Wang, Z.~Shao, B.~Diao, L.~Wu, Z.~An, C.~Yu, Y.~Li, and Y.~Xu.
+\newblock On the integration of spatial-temporal knowledge: A lightweight approach to atmospheric time series forecasting.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Gan and Isola(2026)]{gan2026neural}
+Y.~Gan and P.~Isola.
+\newblock Neural thickets: Diverse task experts are dense around pretrained weights.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Gao et~al.(2026)Gao, Jia, Xing, Sun, Duan, Zhai, and Min]{gao2026eemologic}
+L.~Gao, Z.~Jia, Z.~Xing, W.~Sun, H.~Duan, G.~Zhai, and X.~Min.
+\newblock {EE}mo-logic: A unified dataset and multi-stage framework for comprehensive image-evoked emotion assessment.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Gao et~al.(2025)Gao, Yan, Leng, and Liao]{gao2025neural}
+Y.~Gao, Q.~Yan, Y.~Leng, and R.~Liao.
+\newblock Neural {MJD}: Neural non-stationary merton jump diffusion for time series prediction.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Geiping et~al.(2026)Geiping, Yang, and Su]{geiping2026efficient}
+J.~Geiping, X.~Yang, and G.~Su.
+\newblock Efficient parallel samplers for recurrent-depth models and their connection to diffusion language models.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Geng et~al.(2025)Geng, Deng, Bai, Kolter, and He]{geng2025mean}
+Z.~Geng, M.~Deng, X.~Bai, J.~Z. Kolter, and K.~He.
+\newblock Mean flows for one-step generative modeling.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Goyal et~al.(2026)Goyal, Parmar, Song, Palangi, Pfister, and Yoon]{goyal2026scholarpeer}
+P.~Goyal, M.~Parmar, Y.~Song, H.~Palangi, T.~Pfister, and J.~Yoon.
+\newblock Scholarpeer: A context-aware multi-agent framework for automated peer review.
+\newblock \emph{arXiv preprint arXiv:2601.22638}, 2026.
+
+\bibitem[Grebe et~al.(2026)Grebe, Braun, Rohrbach, and Rohrbach]{grebe2026gem}
+J.~H. Grebe, T.~Braun, A.~Rohrbach, and M.~Rohrbach.
+\newblock {GEM}: Geometric erasure by contrastive velocity matching in rectified flows.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Grontas et~al.(2026)Grontas, Terpin, Balta, D'Andrea, and Lygeros]{grontas2026pinet}
+P.~D. Grontas, A.~Terpin, E.~C. Balta, R.~D'Andrea, and J.~Lygeros.
+\newblock Pinet: Optimizing hard-constrained neural networks with orthogonal projection layers.
+\newblock In \emph{The Fourteenth International Conference on Learning Representations}, 2026.
+
+\bibitem[Hashemi et~al.(2025)Hashemi, Pasque, Teska, and Yoshida]{hashemi2025tropical}
+B.~Hashemi, K.~Pasque, C.~Teska, and R.~Yoshida.
+\newblock Tropical attention: Neural algorithmic reasoning for combinatorial algorithms.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[He et~al.(2025)He, Yi, Ma, Zhang, Niu, and Pang]{he2025sempo}
+H.~He, K.~Yi, Y.~Ma, Q.~Zhang, Z.~Niu, and G.~Pang.
+\newblock {SEMPO}: Lightweight foundation models for time series forecasting.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Henaff et~al.(2026)Henaff, Fujimoto, Matthews, and Rabbat]{henaff2026scalable}
+M.~Henaff, S.~Fujimoto, M.~Matthews, and M.~Rabbat.
+\newblock Scalable option learning in high-throughput environments.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Heyman and Vandeputte(2026)]{heyman2026steer}
+G.~Heyman and F.~Vandeputte.
+\newblock Steer like the {LLM}: Activation steering that mimics prompting.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Hong et~al.(2025)Hong, Lin, Liu, Liu, Wu, Zhang, Li, Chen, Zhang, Wang, et~al.]{hong2025data}
+S.~Hong, Y.~Lin, B.~Liu, B.~Liu, B.~Wu, C.~Zhang, D.~Li, J.~Chen, J.~Zhang, J.~Wang, et~al.
+\newblock Data interpreter: An llm agent for data science.
+\newblock In \emph{Findings of the Association for Computational Linguistics: ACL 2025}, 2025.
+
+\bibitem[Howard et~al.(2026)Howard, N{\"u}sken, and Pidstrigach]{howard2026control}
+S.~Howard, N.~N{\"u}sken, and J.~Pidstrigach.
+\newblock Control consistency losses for diffusion bridges.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Huang et~al.(2023)Huang, Vora, Liang, and Leskovec]{huang2023mlagentbench}
+Q.~Huang, J.~Vora, P.~Liang, and J.~Leskovec.
+\newblock Mlagentbench: Evaluating language agents on machine learning experimentation.
+\newblock \emph{arXiv preprint arXiv:2310.03302}, 2023.
+
+\bibitem[Huang et~al.(2024)Huang, Luo, Yu, Zhang, Lei, Wei, He, Huang, Liu, Zhao, et~al.]{huang2024code}
+Y.~Huang, J.~Luo, Y.~Yu, Y.~Zhang, F.~Lei, Y.~Wei, S.~He, L.~Huang, X.~Liu, J.~Zhao, et~al.
+\newblock Da-code: Agent data science code generation benchmark for large language models.
+\newblock In \emph{Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing}, 2024.
+
+\bibitem[Huang et~al.(2026)Huang, He, and Cui]{huang2026thinking}
+Y.~Huang, W.~He, and Z.-X. Cui.
+\newblock Thinking in flow: A dissipative stabilization operator for robust autoregressive reasoning.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Jansen et~al.(2025)Jansen, Tafjord, Radensky, Siangliulue, Hope, Dalvi, Majumder, Weld, and Clark]{jansen2025codescientist}
+P.~Jansen, O.~Tafjord, M.~Radensky, P.~Siangliulue, T.~Hope, B.~Dalvi, B.~P. Majumder, D.~S. Weld, and P.~Clark.
+\newblock Codescientist: End-to-end semi-automated scientific discovery with code-based experimentation.
+\newblock In \emph{Findings of the Association for Computational Linguistics: ACL 2025}, 2025.
+
+\bibitem[Jeon et~al.(2025)Jeon, Muehlebach, and Tao]{jeon2025fast}
+K.~Jeon, M.~Muehlebach, and M.~Tao.
+\newblock Fast non-log-concave sampling under nonconvex equality and inequality constraints with landing.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Jiang and Gong(2026)]{jiang2026incremental}
+S.~Jiang and R.~Gong.
+\newblock Incremental {BPE} tokenization.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Jiang et~al.(2025)Jiang, Schmidt, Srikanth, Xu, Kaplan, Jacenko, and Wu]{jiang2025aide}
+Z.~Jiang, D.~Schmidt, D.~Srikanth, D.~Xu, I.~Kaplan, D.~Jacenko, and Y.~Wu.
+\newblock Aide: Ai-driven exploration in the space of code.
+\newblock \emph{arXiv preprint arXiv:2502.13138}, 2025.
+
+\bibitem[Jin et~al.(2026)Jin, Hu, Qiu, Dai, Luo, Dong, Li, Zhao, Ma, Zhang, et~al.]{jin2026toward}
+J.~Jin, Y.~Hu, K.~Qiu, Q.~Dai, C.~Luo, G.~Dong, X.~Li, T.~Zhao, X.~Ma, G.~Zhang, et~al.
+\newblock Toward generalist autonomous research via hypothesis-tree refinement.
+\newblock \emph{arXiv preprint arXiv:2606.11926}, 2026.
+
+\bibitem[Kechris et~al.(2026)Kechris, Dan, and Atienza]{kechris2026time}
+C.~Kechris, J.~Dan, and D.~Atienza.
+\newblock Time series saliency maps: Explaining models across multiple domains.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Kim et~al.(2026)Kim, Hyeon, Oh, and Do]{kim2026valueflow}
+W.~Kim, S.~Hyeon, J.~Oh, and J.~Do.
+\newblock {VALUEFLOW}: Toward pluralistic and steerable value-based alignment in large language models.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Kiyani et~al.(2026)Kiyani, Noorani, Pappas, and Hassani]{kiyani2026when}
+S.~Kiyani, S.~Noorani, G.~J. Pappas, and H.~Hassani.
+\newblock When to trust the cheap check: Weak and strong verification for reasoning.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Kreitner et~al.(2026)Kreitner, Hager, Mengedoht, Kaissis, Rueckert, and Menten]{kreitner2026efficient}
+L.~Kreitner, P.~Hager, J.~Mengedoht, G.~Kaissis, D.~Rueckert, and M.~J. Menten.
+\newblock Efficient numeracy in language models through single-token number embeddings.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Kwon et~al.(2026)Kwon, Kim, Kim, Kim, Kook, and Cha]{kwon2026ai}
+J.~Kwon, D.-K. Kim, J.~Kim, Y.~Kim, W.~Kook, and M.~Cha.
+\newblock {AI} engram: In search of memory traces in artificial intelligence.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Lev et~al.(2026)Lev, Shenfeld, Srinivasan, Ligett, and Wilson]{lev2026nearoptimal}
+O.~Lev, M.~Shenfeld, V.~Srinivasan, K.~Ligett, and A.~C. Wilson.
+\newblock Near-optimal private linear regression via iterative hessian mixing.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Li et~al.(2026{\natexlab{a}})Li, Wang, Wang, Li, Jaeger, and Wu]{li2026a}
+C.~Li, Y.~Wang, Y.~Wang, W.~Li, D.~Jaeger, and A.~Wu.
+\newblock A factorized low-rank {RNN} framework for uncovering independent neural latent dynamics and connectivity.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026{\natexlab{a}}.
+
+\bibitem[Li et~al.(2026{\natexlab{b}})Li, Wang, Yan, Zhang, Deng, Sun, Han, and Gong]{li2026from}
+L.~Li, Y.~Wang, J.~Yan, W.~Zhang, J.~Deng, H.~Sun, Z.~Han, and Y.~Gong.
+\newblock From text to forecasts: Bridging modality gap with temporal evolution semantic space.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026{\natexlab{b}}.
+
+\bibitem[Li et~al.(2025{\natexlab{a}})Li, Huang, Jiang, Liu, Xie, Du, Wang, and Wu]{li2025fedwmsam}
+T.~Li, Y.~Huang, L.~Jiang, C.~Liu, Q.~Xie, W.~Du, L.~Wang, and K.~Wu.
+\newblock Fed{WMSAM}: Fast and flat federated learning via weighted momentum and sharpness-aware minimization.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025{\natexlab{a}}.
+
+\bibitem[Li et~al.(2025{\natexlab{b}})Li, Luo, Wang, Li, Peng, Liu, Guo, Zhang, and Gong]{li2025towards}
+X.~Li, Y.~Luo, H.~Wang, H.~Li, L.~Peng, F.~Liu, Y.~Guo, K.~Zhang, and M.~Gong.
+\newblock Towards accurate time series forecasting via implicit decoding.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025{\natexlab{b}}.
+
+\bibitem[Li et~al.(2026{\natexlab{c}})Li, Liu, and Kawaguchi]{li2026initialization}
+X.~Li, D.~Liu, and K.~Kawaguchi.
+\newblock Initialization is half the battle: Generating diverse images from a guidance potential posterior.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026{\natexlab{c}}.
+
+\bibitem[Li et~al.(2022)Li, Choi, Chung, Kushman, Schrittwieser, Leblond, Eccles, Keeling, Gimeno, Dal~Lago, et~al.]{li2022competition}
+Y.~Li, D.~Choi, J.~Chung, N.~Kushman, J.~Schrittwieser, R.~Leblond, T.~Eccles, J.~Keeling, F.~Gimeno, A.~Dal~Lago, et~al.
+\newblock Competition-level code generation with alphacode.
+\newblock \emph{Science}, 2022.
+
+\bibitem[Li et~al.(2026{\natexlab{d}})Li, Shao, Liu, Zhao, Liu, Su, Chen, Yang, Xu, Fang, et~al.]{li2026autosota}
+Y.~Li, C.~Shao, X.~Liu, R.~Zhao, P.~Liu, H.~Su, Z.~Chen, Q.~Yang, A.~Xu, Y.~Fang, et~al.
+\newblock Autosota: An end-to-end automated research system for state-of-the-art ai model discovery.
+\newblock \emph{arXiv preprint arXiv:2604.05550}, 2026{\natexlab{d}}.
+
+\bibitem[Liu et~al.(2024)Liu, Feng, Xue, Wang, Wu, Lu, Zhao, Deng, Zhang, Ruan, et~al.]{liu2024deepseek}
+A.~Liu, B.~Feng, B.~Xue, B.~Wang, B.~Wu, C.~Lu, C.~Zhao, C.~Deng, C.~Zhang, C.~Ruan, et~al.
+\newblock Deepseek-v3 technical report.
+\newblock \emph{arXiv preprint arXiv:2412.19437}, 2024.
+
+\bibitem[Liu et~al.(2026{\natexlab{a}})Liu, Qiu, Li, Li, Ji, Han, Ye, Xia, Dong, Chen, et~al.]{liu2026autoresearchclaw}
+J.~Liu, S.~Qiu, M.~Li, B.~Li, H.~Ji, S.~Han, X.~Ye, P.~Xia, Z.~Dong, M.~Chen, et~al.
+\newblock Autoresearchclaw: Self-reinforcing autonomous research with human-ai collaboration.
+\newblock \emph{arXiv preprint arXiv:2605.20025}, 2026{\natexlab{a}}.
+
+\bibitem[Liu et~al.(2026{\natexlab{b}})Liu, Zhao, Shang, and Shen]{liu2026dive}
+J.~Liu, X.~Zhao, X.~Shang, and Z.~Shen.
+\newblock Dive into claude code: The design space of today's and future ai agent systems.
+\newblock \emph{arXiv preprint arXiv:2604.14228}, 2026{\natexlab{b}}.
+
+\bibitem[Liu and Ye(2026)]{liu2026tabswift}
+S.-Y. Liu and H.-J. Ye.
+\newblock Tabswift: An efficient tabular foundation model with row-wise attention.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Liu et~al.(2026{\natexlab{c}})Liu, Dobriban, and Orabona]{liu2026online}
+T.~Liu, E.~Dobriban, and F.~Orabona.
+\newblock Online conformal prediction via universal portfolio algorithms.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026{\natexlab{c}}.
+
+\bibitem[Liu et~al.(2026{\natexlab{d}})Liu, Zhao, Xie, Ye, Jiao, Hu, Cao, and Liu]{liu2026balancing}
+Y.~Liu, Y.~Zhao, Z.~Xie, Q.~Ye, J.~Jiao, Y.~Hu, S.~Cao, and Y.~Liu.
+\newblock Balancing understanding and generation in discrete diffusion models.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026{\natexlab{d}}.
+
+\bibitem[Liu et~al.(2025)Liu, Cheng, Zhao, Yang, Liu, and Chen]{liu2025improving}
+Z.~Liu, M.~Cheng, G.~Zhao, J.~Yang, Q.~Liu, and E.~Chen.
+\newblock Improving time series forecasting via instance-aware post-hoc revision.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Lu et~al.(2024)Lu, Lu, Lange, Foerster, Clune, and Ha]{lu2024ai}
+C.~Lu, C.~Lu, R.~T. Lange, J.~Foerster, J.~Clune, and D.~Ha.
+\newblock The ai scientist: Towards fully automated open-ended scientific discovery.
+\newblock \emph{arXiv preprint arXiv:2408.06292}, 2024.
+
+\bibitem[Lyu et~al.(2026)Lyu, Zhang, Yi, Zhao, Guo, Hu, Piotrowski, Kaliski, Urbani, Meng, et~al.]{lyu2026evoscientist}
+Y.~Lyu, X.~Zhang, X.~Yi, Y.~Zhao, S.~Guo, W.~Hu, J.~Piotrowski, J.~Kaliski, J.~Urbani, Z.~Meng, et~al.
+\newblock Evoscientist: Towards multi-agent evolving ai scientists for end-to-end scientific discovery.
+\newblock \emph{arXiv preprint arXiv:2603.08127}, 2026.
+
+\bibitem[Ma et~al.(2025)Ma, Wu, Zhou, Weng, Wang, and Long]{ma2025physense}
+Y.~Ma, H.~Wu, H.~Zhou, H.~Weng, J.~Wang, and M.~Long.
+\newblock Physense: Sensor placement optimization for accurate physics sensing.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Martens et~al.(2026)Martens, Devos, Cascioli, Meert, Blockeel, and Davis]{martens2026ocspace}
+T.~Martens, L.~Devos, L.~Cascioli, W.~Meert, H.~Blockeel, and J.~Davis.
+\newblock {OC}-space: a unifying perspective on verification of tree ensembles.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Meng et~al.(2026)Meng, Mishra, Chen, Li, Goyal, Parmar, Song, Song, Sinha, Ranganathan, et~al.]{meng2026scientistone}
+R.~Meng, B.~D. Mishra, J.~Chen, C.-L. Li, P.~Goyal, M.~Parmar, Y.~Song, Y.~Song, R.~Sinha, P.~Ranganathan, et~al.
+\newblock Scientistone: Towards human-level autonomous research via chain-of-evidence.
+\newblock \emph{arXiv preprint arXiv:2605.26340}, 2026.
+
+\bibitem[Monod et~al.(2025)Monod, Micheli, and Bhatt]{monod2025neuralsurv}
+M.~Monod, A.~Micheli, and S.~Bhatt.
+\newblock Neuralsurv: Deep survival analysis with bayesian uncertainty quantification.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Muni et~al.(2026)Muni, Taboga, Derman, Bacon, and Delage]{muni2026reward}
+A.~Muni, V.~Taboga, E.~Derman, P.-L. Bacon, and E.~Delage.
+\newblock Reward redistribution for {CV}ar {MDP}s using a bellman operator on l-infinity.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Nam et~al.(2026{\natexlab{a}})Nam, Yoon, Chen, Shin, Arik, and Pfister]{nam2026mle}
+J.~Nam, J.~Yoon, J.~Chen, J.~Shin, S.~Arik, and T.~Pfister.
+\newblock Mle-star: Machine learning engineering agent via search and targeted refinement.
+\newblock \emph{Advances in Neural Information Processing Systems}, 2026{\natexlab{a}}.
+
+\bibitem[Nam et~al.(2026{\natexlab{b}})Nam, Yoon, Chen, Sinha, Shin, and Pfister]{nam2026ds}
+J.~Nam, J.~Yoon, J.~Chen, R.~Sinha, J.~Shin, and T.~Pfister.
+\newblock Ds-star: Data science agent for solving diverse tasks across heterogeneous formats and open-ended queries.
+\newblock \emph{arXiv preprint arXiv:2509.21825}, 2026{\natexlab{b}}.
+
+\bibitem[Ni et~al.(2026)Ni, Wang, Yue, Yu, Zhao, Hua, Chen, Song, Yu, Zheng, and Huang]{ni2026the}
+Z.~Ni, S.~Wang, Y.~Yue, T.~Yu, W.~Zhao, Y.~Hua, T.~Chen, J.~Song, C.~Yu, B.~Zheng, and G.~Huang.
+\newblock The flexibility trap: Rethinking the value of arbitrary order in diffusion language models.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Ning et~al.(2025)Ning, Pan, Liu, Jiang, Zhang, Rasul, Schneider, Ma, Nevmyvaka, and Song]{ning2025tsrag}
+K.~Ning, Z.~Pan, Y.~Liu, Y.~Jiang, J.~Y. Zhang, K.~Rasul, A.~Schneider, L.~Ma, Y.~Nevmyvaka, and D.~Song.
+\newblock {TS}-{RAG}: Retrieval-augmented generation based time series foundation models are stronger zero-shot forecaster.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Novikov et~al.(2025)Novikov, V{\~u}, Eisenberger, Dupont, Huang, Wagner, Shirobokov, Kozlovskii, Ruiz, Mehrabian, et~al.]{novikov2025alphaevolve}
+A.~Novikov, N.~V{\~u}, M.~Eisenberger, E.~Dupont, P.-S. Huang, A.~Z. Wagner, S.~Shirobokov, B.~Kozlovskii, F.~J. Ruiz, A.~Mehrabian, et~al.
+\newblock Alphaevolve: A coding agent for scientific and algorithmic discovery.
+\newblock \emph{arXiv preprint arXiv:2506.13131}, 2025.
+
+\bibitem[Ohnemus et~al.(2026)Ohnemus, Fochesato, Zuliani, and Lygeros]{ohnemus2026lossaware}
+J.~Ohnemus, M.~Fochesato, R.~Zuliani, and J.~Lygeros.
+\newblock Loss-aware distributionally robust optimization via trainable optimal transport ambiguity sets.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Ortiz et~al.(2026)Ortiz, Gupta, Rinard, and Blalock]{ortiz2026flashoptim}
+J.~J.~G. Ortiz, A.~Gupta, C.~Rinard, and D.~Blalock.
+\newblock Flashoptim: Optimizers for memory-efficient training.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Pan et~al.(2026)Pan, Liu, Wang, Haining, and Jia]{pan2026towards}
+W.~Pan, Z.~Liu, X.~Wang, Y.~Haining, and X.~Jia.
+\newblock Towards long-horizon interpretability: Efficient and faithful multi-token attribution for reasoning {LLM}s.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Pan et~al.(2025)Pan, Cao, GU, Liu, Zhao, Chen, and Lin]{pan2025multitask}
+Y.~Pan, Z.~Cao, C.~GU, L.~Liu, P.~Zhao, Y.~Chen, and F.~Lin.
+\newblock Multi-task vehicle routing solver via mixture of specialized experts under state-decomposable {MDP}.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Park et~al.(2025)Park, Choi, and Lee]{park2025multiclass}
+J.~Park, Y.~Choi, and J.~Lee.
+\newblock Multi-class support vector machine with differential privacy.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Pfaff et~al.(2026)Pfaff, Cohn, Zakharov, Cory, and Tedrake]{pfaff2026scenesmith}
+N.~Pfaff, T.~Cohn, S.~Zakharov, R.~Cory, and R.~Tedrake.
+\newblock Scenesmith: Agentic generation of simulation-ready indoor scenes.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Prinster et~al.(2026)Prinster, Fannjiang, Park, Cho, Liu, Saria, and Stanton]{prinster2026conformal}
+D.~Prinster, C.~Fannjiang, J.~W. Park, K.~Cho, A.~Liu, S.~Saria, and S.~D. Stanton.
+\newblock Conformal policy control.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Qiu et~al.(2026)Qiu, Gu, Wu, Hu, Wen, Pan, Luo, XU, and Li]{qiu2026svl}
+X.~Qiu, S.~Gu, P.~Wu, J.~Hu, Y.~Wen, Y.~Pan, X.~Luo, B.~XU, and G.~Li.
+\newblock {SVL}: Empowering spiking neural networks for efficient 3d open-world understanding.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Rodionov et~al.(2025)Rodionov, Garipov, Shutova, Yakushev, Schultheis, Egiazarian, Sinitsin, Kuznedelev, and Alistarh]{rodionov2025hogwild}
+G.~Rodionov, R.~Garipov, A.~Shutova, G.~Yakushev, E.~Schultheis, V.~Egiazarian, A.~Sinitsin, D.~Kuznedelev, and D.~Alistarh.
+\newblock Hogwild! inference: Parallel {LLM} generation via concurrent attention.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Sadi et~al.(2026)Sadi, Saig, and Rosenfeld]{sadi2026welfareoptimal}
+B.~Sadi, E.~Saig, and N.~Rosenfeld.
+\newblock Welfare-optimal classification with accuracy auctions.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Santis et~al.(2026)Santis, Ciravegna, Felice, Casanova, Giannini, Diligenti, Schneider, Giordano, Zarlenga, and Barbiero]{santis2026mixture}
+F.~D. Santis, G.~Ciravegna, G.~D. Felice, A.~Casanova, F.~Giannini, M.~Diligenti, J.~Schneider, D.~Giordano, M.~E. Zarlenga, and P.~Barbiero.
+\newblock Mixture of concept bottleneck experts.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Schmidgall et~al.(2025)Schmidgall, Su, Wang, Sun, Wu, Yu, Liu, Moor, Liu, and Barsoum]{schmidgall2025agent}
+S.~Schmidgall, Y.~Su, Z.~Wang, X.~Sun, J.~Wu, X.~Yu, J.~Liu, M.~Moor, Z.~Liu, and E.~Barsoum.
+\newblock Agent laboratory: Using llm agents as research assistants.
+\newblock \emph{Findings of the Association for Computational Linguistics: EMNLP 2025}, 2025.
+
+\bibitem[Schur et~al.(2026)Schur, Pfister, Ding, Mukherjee, and Peters]{schur2026many}
+F.~Schur, N.~Pfister, P.~Ding, S.~Mukherjee, and J.~Peters.
+\newblock Many experiments, few repetitions, unpaired data, and sparse effects: Is causal inference possible?
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Shen et~al.(2023)Shen, Song, Tan, Li, Lu, and Zhuang]{shen2023hugginggpt}
+Y.~Shen, K.~Song, X.~Tan, D.~Li, W.~Lu, and Y.~Zhuang.
+\newblock Hugginggpt: Solving ai tasks with chatgpt and its friends in hugging face.
+\newblock \emph{Advances in Neural Information Processing Systems}, 2023.
+
+\bibitem[Singh et~al.(2025)Singh, Fry, Perelman, Tart, Ganesh, El-Kishky, McLaughlin, Low, Ostrow, Ananthram, et~al.]{singh2025openai}
+A.~Singh, A.~Fry, A.~Perelman, A.~Tart, A.~Ganesh, A.~El-Kishky, A.~McLaughlin, A.~Low, A.~Ostrow, A.~Ananthram, et~al.
+\newblock Openai gpt-5 system card.
+\newblock \emph{arXiv preprint arXiv:2601.03267}, 2025.
+
+\bibitem[S{\l}upi{\'n}ski and Lipinski(2026)]{supinski2026redhdphmm}
+M.~S{\l}upi{\'n}ski and P.~Lipinski.
+\newblock {RED}-{HDP}-{HMM}: Observation-dependent durations for bayesian nonparametric sequential models.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Song et~al.(2026)Song, Song, Pfister, and Yoon]{song2026paperorchestra}
+Y.~Song, Y.~Song, T.~Pfister, and J.~Yoon.
+\newblock Paperorchestra: A multi-agent framework for automated ai research paper writing.
+\newblock \emph{arXiv preprint arXiv:2604.05018}, 2026.
+
+\bibitem[Su et~al.(2026)Su, Zhang, Xiong, LIU, Zhang, Chen, and Sun]{su2026tgrag}
+L.~Su, M.~Zhang, Y.~Xiong, T.~LIU, S.~Zhang, X.~Chen, and L.~Sun.
+\newblock {TG}-{RAG}: A retrieval-augmented framework for reasoning guidance in specialized domains.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Tajwar et~al.(2026)Tajwar, Zeng, Zhou, Song, Arora, Jiang, Schneider, Salakhutdinov, Feng, and Zanette]{tajwar2026maximum}
+F.~Tajwar, G.~Zeng, Y.~Zhou, Y.~Song, D.~Arora, Y.~Jiang, J.~Schneider, R.~Salakhutdinov, H.~Feng, and A.~Zanette.
+\newblock Maximum likelihood reinforcement learning.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Tang et~al.(2026{\natexlab{a}})Tang, Xia, Li, and Huang]{tang2026ai}
+J.~Tang, L.~Xia, Z.~Li, and C.~Huang.
+\newblock Ai-researcher: Autonomous scientific innovation.
+\newblock \emph{Advances in Neural Information Processing Systems}, 2026{\natexlab{a}}.
+
+\bibitem[Tang et~al.(2026{\natexlab{b}})Tang, Meng, Costa, Zhang, Ye, and Xi]{tang2026the}
+L.~Tang, Y.~Meng, J.~Costa, Y.~Zhang, M.~Ye, and Z.~Xi.
+\newblock The value of variance: Mitigating debate collapse in multi-agent systems via uncertainty-driven policy optimization.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026{\natexlab{b}}.
+
+\bibitem[Tang et~al.(2025)Tang, Wang, Wen, and Teng]{tang2025accelerating}
+Z.~Tang, B.~Wang, C.~Wen, and J.~Teng.
+\newblock Accelerating feature conformal prediction via taylor approximation.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Team et~al.(2023)Team, Anil, Borgeaud, Alayrac, Yu, Soricut, Schalkwyk, Dai, Hauth, Millican, et~al.]{team2023gemini}
+G.~Team, R.~Anil, S.~Borgeaud, J.-B. Alayrac, J.~Yu, R.~Soricut, J.~Schalkwyk, A.~M. Dai, A.~Hauth, K.~Millican, et~al.
+\newblock Gemini: a family of highly capable multimodal models.
+\newblock \emph{arXiv preprint arXiv:2312.11805}, 2023.
+
+\bibitem[Tjanaka et~al.(2026)Tjanaka, Chen, Fontaine, and Nikolaidis]{tjanaka2026discount}
+B.~Tjanaka, H.~Chen, M.~C. Fontaine, and S.~Nikolaidis.
+\newblock Discount model search for quality diversity optimization in high-dimensional measure spaces.
+\newblock In \emph{The Fourteenth International Conference on Learning Representations}, 2026.
+
+\bibitem[Tran et~al.(2025)Tran, Tran, Chu, Le, and Nguyen]{tran2025treesliced}
+V.-H. Tran, T.~Tran, T.~Chu, T.~Le, and T.~M. Nguyen.
+\newblock Tree-sliced entropy partial transport.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Wang et~al.(2023)Wang, Xie, Jiang, Mandlekar, Xiao, Zhu, Fan, and Anandkumar]{wang2023voyager}
+G.~Wang, Y.~Xie, Y.~Jiang, A.~Mandlekar, C.~Xiao, Y.~Zhu, L.~Fan, and A.~Anandkumar.
+\newblock Voyager: An open-ended embodied agent with large language models.
+\newblock \emph{arXiv preprint arXiv:2305.16291}, 2023.
+
+\bibitem[Wang et~al.(2025{\natexlab{a}})Wang, zhengnan li, Chen, Chen, He, Liu, Li, and Lin]{wang2025iterative}
+H.~Wang, zhengnan li, Z.~Chen, X.~Chen, S.~He, G.~Liu, H.~Li, and Z.~Lin.
+\newblock Iterative missing data imputation with model form adaptation and non-missing feature supervision.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025{\natexlab{a}}.
+
+\bibitem[Wang et~al.(2025{\natexlab{b}})Wang, Tu, and Cheng]{wang2025hierarchical}
+J.~Wang, W.~Tu, and J.~Cheng.
+\newblock Hierarchical shortest-path graph kernel network.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025{\natexlab{b}}.
+
+\bibitem[Wang et~al.(2026)Wang, Ouyang, Xu, Hu, Liu, Chen, Zhang, Zheng, Yang, Ren, Liu, and Zhang]{wang2026opus}
+S.~Wang, X.~Ouyang, T.~Xu, Y.~Hu, J.~Liu, G.~Chen, T.~Zhang, J.~Zheng, K.~Yang, X.~Ren, D.~Liu, and L.~Zhang.
+\newblock {OPUS}: Towards efficient and principled data selection in large language model pre-training in every iteration.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Wang and Dobriban(2026)]{wang2026optimal}
+T.~Wang and E.~Dobriban.
+\newblock Optimal decision-making based on prediction sets.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Wang et~al.(2025{\natexlab{c}})Wang, Li, Song, Xu, Tang, Zhuge, Pan, Song, Li, Singh, et~al.]{wang2025openhands}
+X.~Wang, B.~Li, Y.~Song, F.~F. Xu, X.~Tang, M.~Zhuge, J.~Pan, Y.~Song, B.~Li, J.~Singh, et~al.
+\newblock Openhands: An open platform for ai software developers as generalist agents.
+\newblock In \emph{International Conference on Learning Representations}, 2025{\natexlab{c}}.
+
+\bibitem[Wei et~al.(2025)Wei, Wang, Shi, Li, and Zhang]{wei2025xmahalanobis}
+T.~Wei, B.-L. Wang, J.-X. Shi, Y.-F. Li, and M.-L. Zhang.
+\newblock X-mahalanobis: Transformer feature mixing for reliable {OOD} detection.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Weng et~al.(2025)Weng, Zhu, Xie, Sun, Lin, Liu, and Zhang]{weng2025deepscientist}
+Y.~Weng, M.~Zhu, Q.~Xie, Q.~Sun, Z.~Lin, S.~Liu, and Y.~Zhang.
+\newblock Deepscientist: Advancing frontier-pushing scientific findings progressively.
+\newblock \emph{arXiv preprint arXiv:2509.26603}, 2025.
+
+\bibitem[Wr{\'o}bel et~al.(2026)Wr{\'o}bel, Gairola, Tabor, Schiele, Zieli{\'n}ski, and Rymarczyk]{wrobel2026dave}
+A.~Wr{\'o}bel, S.~Gairola, J.~Tabor, B.~Schiele, B.~M. Zieli{\'n}ski, and D.~D. Rymarczyk.
+\newblock {DAVE}: Distribution-aware attribution via vit gradient decomposition.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Wu and Silwal(2025)]{wu2025efficient}
+F.~Wu and S.~Silwal.
+\newblock Efficient training-free online routing for high-volume multi-{LLM} serving.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Wu et~al.(2024)Wu, Bansal, Zhang, Wu, Li, Zhu, Jiang, Zhang, Zhang, Liu, et~al.]{wu2024autogen}
+Q.~Wu, G.~Bansal, J.~Zhang, Y.~Wu, B.~Li, E.~Zhu, L.~Jiang, X.~Zhang, S.~Zhang, J.~Liu, et~al.
+\newblock Autogen: Enabling next-gen llm applications via multi-agent conversations.
+\newblock In \emph{First conference on language modeling}, 2024.
+
+\bibitem[Xie et~al.(2026)Xie, Luo, Tang, Yiwen, Liu, Ren, Wang, Zhao, Yan, Su, Luo, and Guo]{xie2026controlled}
+T.~Xie, H.~Luo, H.~Tang, H.~Yiwen, J.~K. Liu, Q.~Ren, Y.~Wang, X.~Zhao, R.~Yan, B.~Su, C.~Luo, and B.~Guo.
+\newblock Controlled {LLM} training on spectral sphere.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Xu and Peng(2025)]{xu2025comprehensive}
+R.~Xu and J.~Peng.
+\newblock A comprehensive survey of deep research: Systems, methodologies, and applications.
+\newblock \emph{arXiv preprint arXiv:2506.12594}, 2025.
+
+\bibitem[Yamada et~al.(2025)Yamada, Lange, Lu, Hu, Lu, Foerster, Clune, and Ha]{yamada2025ai}
+Y.~Yamada, R.~T. Lange, C.~Lu, S.~Hu, C.~Lu, J.~Foerster, J.~Clune, and D.~Ha.
+\newblock The ai scientist-v2: Workshop-level automated scientific discovery via agentic tree search.
+\newblock \emph{arXiv preprint arXiv:2504.08066}, 2025.
+
+\bibitem[Yang et~al.(2024)Yang, Jimenez, Wettig, Lieret, Yao, Narasimhan, and Press]{yang2024swe}
+J.~Yang, C.~E. Jimenez, A.~Wettig, K.~Lieret, S.~Yao, K.~R. Narasimhan, and O.~Press.
+\newblock Swe-agent: Agent-computer interfaces enable automated software engineering.
+\newblock In \emph{The Thirty-eighth Annual Conference on Neural Information Processing Systems}, 2024.
+
+\bibitem[Yang et~al.(2025)Yang, Zhang, Liang, Lu, Chen, and Li]{yang2025not}
+Y.~Yang, D.~Zhang, Y.~Liang, H.~Lu, G.~Chen, and H.~Li.
+\newblock Not all data are good labels: On the self-supervised labeling for time series forecasting.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Yao et~al.(2022)Yao, Zhao, Yu, Shafran, Narasimhan, and Cao]{yao2022react}
+S.~Yao, J.~Zhao, D.~Yu, I.~Shafran, K.~R. Narasimhan, and Y.~Cao.
+\newblock React: Synergizing reasoning and acting in language models.
+\newblock In \emph{NeurIPS 2022 Foundation Models for Decision Making Workshop}, 2022.
+
+\bibitem[Ye et~al.(2026)Ye, Li, Yu, Chang, CHU, and Wertheimer]{ye2026flashsinkhorn}
+F.~X.-F. Ye, X.~Li, A.~Yu, M.-C. Chang, L.~CHU, and D.~Wertheimer.
+\newblock Flashsinkhorn: {IO}-aware entropic optimal transport on {GPU}.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Yu et~al.(2026)Yu, Wang, Yang, Qin, Aviles-Rivero, and Wang]{yu2026decentralized}
+G.~Yu, J.~Wang, C.~Yang, J.~Qin, A.~I. Aviles-Rivero, and S.~Wang.
+\newblock Decentralized attention fails centralized signals: Rethinking transformers for medical time series.
+\newblock In \emph{The Fourteenth International Conference on Learning Representations}, 2026.
+
+\bibitem[Yuksekgonul et~al.(2026)Yuksekgonul, Koceja, Li, Bianchi, McCaleb, Wang, Kautz, Choi, Zou, Guestrin, and Sun]{yuksekgonul2026learning}
+M.~Yuksekgonul, D.~Koceja, X.~Li, F.~Bianchi, J.~McCaleb, X.~Wang, J.~Kautz, Y.~Choi, J.~Zou, C.~Guestrin, and Y.~Sun.
+\newblock Learning to discover at test time.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Zeng et~al.(2026)Zeng, Shi, Tan, Li, Qin, Lu, Yang, Xue, and Liao]{zeng2026egotactile}
+Y.~Zeng, Y.~Shi, T.~Tan, X.~Li, Y.~Qin, Z.~Lu, W.~Yang, J.-H. Xue, and Q.~Liao.
+\newblock Egotactile: Learning grasp pressure for everyday objects from egocentric video.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Zhan et~al.(2026)Zhan, Lai, Liu, Hai, Li, Cai, Lin, Huang, and Zheng]{zhan2026viewsense}
+S.~Zhan, Y.~Lai, Z.~Liu, L.~Hai, S.~Li, X.~Cai, Z.~Lin, W.~Huang, and H.-T. Zheng.
+\newblock 3viewsense: Spatial and mental perspective reasoning from orthographic views in vision-language models.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Zhang et~al.(2026)Zhang, Li, Wang, Wang, Zhang, Qu, and Cheng]{zhang2026characterizing}
+H.~Zhang, Y.~Li, Z.~Wang, Z.~Wang, S.~Zhang, X.~Qu, and Y.~Cheng.
+\newblock Characterizing, evaluating, and optimizing complex reasoning.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Zhang et~al.(2025{\natexlab{a}})Zhang, Zhang, Zhou, and Zhou]{zhang2025wasserstein}
+K.~Zhang, S.~Zhang, D.~Zhou, and Y.~Zhou.
+\newblock Wasserstein transfer learning.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025{\natexlab{a}}.
+
+\bibitem[Zhang et~al.(2025{\natexlab{b}})Zhang, He, Fu, and Xie]{zhang2025iaggad}
+X.~Zhang, Z.~He, C.~Fu, and C.~Xie.
+\newblock {IA}-{GGAD}: Zero-shot generalist graph anomaly detection via invariant and affinity learning.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025{\natexlab{b}}.
+
+\bibitem[Zhao et~al.(2026{\natexlab{a}})Zhao, Zhang, Li, Li, zhang, Xue, and Zhang]{zhao2026reasoning}
+S.~Zhao, X.~Zhang, W.~Li, J.~Li, L.~zhang, T.~Xue, and J.~Zhang.
+\newblock Reasoning as representation: Rethinking visual reinforcement learning in image quality assessment.
+\newblock In \emph{The Fourteenth International Conference on Learning Representations}, 2026{\natexlab{a}}.
+
+\bibitem[Zhao et~al.(2026{\natexlab{b}})Zhao, Mo, Ho, Amos, and Wang]{zhao2025fully}
+Z.~Zhao, K.-C. Mo, S.-H. Ho, B.~Amos, and K.~Wang.
+\newblock A fully first-order layer for differentiable optimization.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026{\natexlab{b}}.
+
+\bibitem[Zhou et~al.(2026)Zhou, Aleshina, Lovyagin, Somov, Seleznyov, Panchenko, Oseledets, Tutubalina, and Tyukin]{zhou2026harnessing}
+Q.~Zhou, E.~Aleshina, A.~Lovyagin, O.~Somov, M.~Seleznyov, A.~Panchenko, I.~Oseledets, E.~Tutubalina, and I.~Y. Tyukin.
+\newblock Harnessing non-adversarial robustness in large language models.
+\newblock In \emph{Forty-third International Conference on Machine Learning}, 2026.
+
+\bibitem[Zhou et~al.(2025)Zhou, Wu, Ren, Yao, Lu, Peng, Zheng, Song, Ouyang, and Gou]{zhou2025csbrain}
+Y.~Zhou, J.~Wu, Z.~Ren, Z.~Yao, W.~Lu, K.~Peng, Q.~Zheng, C.~Song, W.~Ouyang, and C.~Gou.
+\newblock {CSB}rain: A cross-scale spatiotemporal brain foundation model for {EEG} decoding.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025.
+
+\bibitem[Zhu et~al.(2025{\natexlab{a}})Zhu, Wang, Gao, Jia, Tan, Zhang, Ma, and Lan]{zhu2025aanet}
+W.~Zhu, J.~Wang, B.~Gao, Y.~Jia, H.~Tan, Y.-Q. Zhang, W.-Y. Ma, and Y.~Lan.
+\newblock {AAN}et: Virtual screening under structural uncertainty via alignment and aggregation.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025{\natexlab{a}}.
+
+\bibitem[Zhu et~al.(2025{\natexlab{b}})Zhu, QI, Ma, Lu, and Feng]{zhu2025stochastic}
+Z.~Zhu, Y.~QI, H.~Ma, W.~Lu, and J.~Feng.
+\newblock Stochastic forward-forward learning through representational dimensionality compression.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 2025{\natexlab{b}}.
+
+\end{thebibliography}
