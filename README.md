@@ -1,6 +1,6 @@
 # ScientistTwo Skills
 
-[![ScientistTwo skill: discover, experiment, strengthen, with feedback loops and claim–artifact verification](assets/scientist-two-skill-overview.png)](assets/scientist-two-skill-overview.png)
+[![ScientistTwo skill: discover, experiment, strengthen, with feedback loops and claim–artifact verification](assets/scientist-two-skills-teaser.jpeg)](assets/scientist-two-skills-teaser.jpeg)
 
 A research skill distilled from **[ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI](https://arxiv.org/abs/2609.19644v1)**, by Nam et al. It brings the paper's experimental discipline into a coding agent: start from an actionable limitation, reproduce a baseline, screen ideas cheaply, learn from failures, and revise claims through experiments.
 
