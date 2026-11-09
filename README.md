@@ -1,5 +1,7 @@
 # ScientistTwo Skills
 
+[![ScientistTwo skill: discover, experiment, strengthen, with feedback loops and claim–artifact verification](assets/scientist-two-skill-overview.png)](assets/scientist-two-skill-overview.png)
+
 A research skill distilled from **[ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI](https://arxiv.org/abs/2609.19644v1)**, by Nam et al. It brings the paper's experimental discipline into a coding agent: start from an actionable limitation, reproduce a baseline, screen ideas cheaply, learn from failures, and revise claims through experiments.
 
 Inspired by the compact instruction format of [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills). This is an independent, AI-assisted adaptation, with a [rule-by-rule evidence map](references/paper-evidence.md) and a reusable archive of the full paper.
@@ -22,7 +24,7 @@ Read the complete instructions in **[SKILL.md](SKILL.md)**. [CLAUDE.md](CLAUDE.m
 Clone the repository and make `SKILL.md` available to your agent's skill loader, or explicitly ask the agent to read it before a research task. It is self-contained; supporting references are loaded only when needed. Installation does not require an API key or an experiment runtime.
 
 ```sh
-git clone https://github.com/madnessmichael/scientisttwo-skills.git
+git clone https://github.com/madnessmichael/scientist-two-skills.git
 ```
 
 Example request:
